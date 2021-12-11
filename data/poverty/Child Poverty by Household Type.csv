@@ -1,0 +1,3908 @@
+"Name","Child Poverty by Household Type"
+"Description","Children in single parent households are defined as the
+biological, adopted, or step children of household
+heads in family households where no spouse is present.&nbsp;Other households are those for whom the child's relationship to householder is defined as other relative, foster or unrelated child.&nbsp;Due to small sample sizes in smaller geographies, data are presented in 3-year averages; 2019 = 2017-2019 3-year average.&nbsp;"
+"Source Notes","CCC analysis of U.S. Census Bureau, American Community Survey 1-Year Estimates, Public Use Microdata Sample Files (2012 - 2019)."
+"Notes","The Federal Poverty Level (FPL) is an income threshold calculated by the U.S. Census Bureau each year for the purpose of estimating the number of individuals and households living in poverty. The income threshold varies based on the number of children and adults in a household and the age of the head of household. In 2019, the FPL for a household consisting of two adults and two children was $25,750. The Census Bureau excludes institutionalized individuals, individuals living in military group quarters or college dorms, and unrelated individuals under 15 years of age from poverty estimates. Percents refer to the percent of the children in the selected household type for whom poverty status was determined.&nbsp;"
+
+Location,Household Type,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,Married Couples,2014,Number,132.86463,101
+Battery Park/Tribeca,Single Mothers,2014,Number,109.44169,101
+Battery Park/Tribeca,Single Fathers,2014,Number,21.80757,101
+Battery Park/Tribeca,Grandparents,2014,Number,18.17297,101
+Battery Park/Tribeca,Other,2014,Number,48.46126,101
+Greenwich Village,Married Couples,2014,Number,196.13537,102
+Greenwich Village,Single Mothers,2014,Number,161.55831,102
+Greenwich Village,Single Fathers,2014,Number,32.19243,102
+Greenwich Village,Grandparents,2014,Number,26.82703,102
+Greenwich Village,Other,2014,Number,71.53874,102
+Lower East Side,Married Couples,2014,Number,1307,103
+Lower East Side,Single Mothers,2014,Number,3422,103
+Lower East Side,Single Fathers,2014,Number,253,103
+Lower East Side,Grandparents,2014,Number,1312,103
+Lower East Side,Other,2014,Number,142,103
+Chelsea/Clinton,Married Couples,2014,Number,173.27683,104
+Chelsea/Clinton,Single Mothers,2014,Number,896.37437,104
+Chelsea/Clinton,Single Fathers,2014,Number,0,104
+Chelsea/Clinton,Grandparents,2014,Number,31.32312,104
+Chelsea/Clinton,Other,2014,Number,201.2677,104
+Midtown Business District,Married Couples,2014,Number,86.72317,105
+Midtown Business District,Single Mothers,2014,Number,448.62563,105
+Midtown Business District,Single Fathers,2014,Number,0,105
+Midtown Business District,Grandparents,2014,Number,15.67688,105
+Midtown Business District,Other,2014,Number,100.7323,105
+Murray Hill/Stuyvesant,Married Couples,2014,Number,97,106
+Murray Hill/Stuyvesant,Single Mothers,2014,Number,126,106
+Murray Hill/Stuyvesant,Single Fathers,2014,Number,0,106
+Murray Hill/Stuyvesant,Grandparents,2014,Number,0,106
+Murray Hill/Stuyvesant,Other,2014,Number,0,106
+Upper West Side,Married Couples,2014,Number,561,107
+Upper West Side,Single Mothers,2014,Number,470,107
+Upper West Side,Single Fathers,2014,Number,508,107
+Upper West Side,Grandparents,2014,Number,229,107
+Upper West Side,Other,2014,Number,89,107
+Upper East Side,Married Couples,2014,Number,1800,108
+Upper East Side,Single Mothers,2014,Number,969,108
+Upper East Side,Single Fathers,2014,Number,0,108
+Upper East Side,Grandparents,2014,Number,147,108
+Upper East Side,Other,2014,Number,0,108
+Manhattanville,Married Couples,2014,Number,1248,109
+Manhattanville,Single Mothers,2014,Number,4831,109
+Manhattanville,Single Fathers,2014,Number,298,109
+Manhattanville,Grandparents,2014,Number,692,109
+Manhattanville,Other,2014,Number,217,109
+Central Harlem,Married Couples,2014,Number,1389,110
+Central Harlem,Single Mothers,2014,Number,6282,110
+Central Harlem,Single Fathers,2014,Number,1695,110
+Central Harlem,Grandparents,2014,Number,1316,110
+Central Harlem,Other,2014,Number,383,110
+East Harlem,Married Couples,2014,Number,2317,111
+East Harlem,Single Mothers,2014,Number,6304,111
+East Harlem,Single Fathers,2014,Number,702,111
+East Harlem,Grandparents,2014,Number,1190,111
+East Harlem,Other,2014,Number,493,111
+Washington Heights,Married Couples,2014,Number,2777,112
+Washington Heights,Single Mothers,2014,Number,5811,112
+Washington Heights,Single Fathers,2014,Number,823,112
+Washington Heights,Grandparents,2014,Number,2416,112
+Washington Heights,Other,2014,Number,1413,112
+Mott Haven,Married Couples,2014,Number,3414.35693,201
+Mott Haven,Single Mothers,2014,Number,9297.82097,201
+Mott Haven,Single Fathers,2014,Number,1089.10602,201
+Mott Haven,Grandparents,2014,Number,1399.09704,201
+Mott Haven,Other,2014,Number,587.51891,201
+Hunts Point,Married Couples,2014,Number,1949.64307,202
+Hunts Point,Single Mothers,2014,Number,5309.17903,202
+Hunts Point,Single Fathers,2014,Number,621.89398,202
+Hunts Point,Grandparents,2014,Number,798.90296,202
+Hunts Point,Other,2014,Number,335.48109,202
+Morrisania,Married Couples,2014,Number,1735.8497,203
+Morrisania,Single Mothers,2014,Number,8485.01727,203
+Morrisania,Single Fathers,2014,Number,624.7689,203
+Morrisania,Grandparents,2014,Number,1110.1023,203
+Morrisania,Other,2014,Number,325.83875,203
+Concourse/Highbridge,Married Couples,2014,Number,4463,204
+Concourse/Highbridge,Single Mothers,2014,Number,11034,204
+Concourse/Highbridge,Single Fathers,2014,Number,624,204
+Concourse/Highbridge,Grandparents,2014,Number,1066,204
+Concourse/Highbridge,Other,2014,Number,1161,204
+University Heights,Married Couples,2014,Number,3094,205
+University Heights,Single Mothers,2014,Number,13246,205
+University Heights,Single Fathers,2014,Number,1281,205
+University Heights,Grandparents,2014,Number,2139,205
+University Heights,Other,2014,Number,581,205
+East Tremont,Married Couples,2014,Number,1812.1503,206
+East Tremont,Single Mothers,2014,Number,8857.98273,206
+East Tremont,Single Fathers,2014,Number,652.2311,206
+East Tremont,Grandparents,2014,Number,1158.8977,206
+East Tremont,Other,2014,Number,340.16125,206
+Bedford Park,Married Couples,2014,Number,4064,207
+Bedford Park,Single Mothers,2014,Number,8515,207
+Bedford Park,Single Fathers,2014,Number,121,207
+Bedford Park,Grandparents,2014,Number,1439,207
+Bedford Park,Other,2014,Number,732,207
+Riverdale,Married Couples,2014,Number,599,208
+Riverdale,Single Mothers,2014,Number,3461,208
+Riverdale,Single Fathers,2014,Number,1181,208
+Riverdale,Grandparents,2014,Number,441,208
+Riverdale,Other,2014,Number,148,208
+Unionport/Soundview,Married Couples,2014,Number,2913,209
+Unionport/Soundview,Single Mothers,2014,Number,12882,209
+Unionport/Soundview,Single Fathers,2014,Number,1437,209
+Unionport/Soundview,Grandparents,2014,Number,1595,209
+Unionport/Soundview,Other,2014,Number,762,209
+Throgs Neck,Married Couples,2014,Number,1123,210
+Throgs Neck,Single Mothers,2014,Number,1876,210
+Throgs Neck,Single Fathers,2014,Number,193,210
+Throgs Neck,Grandparents,2014,Number,192,210
+Throgs Neck,Other,2014,Number,51,210
+Pelham Parkway,Married Couples,2014,Number,3260,211
+Pelham Parkway,Single Mothers,2014,Number,4027,211
+Pelham Parkway,Single Fathers,2014,Number,771,211
+Pelham Parkway,Grandparents,2014,Number,680,211
+Pelham Parkway,Other,2014,Number,82,211
+Williamsbridge,Married Couples,2014,Number,1676,212
+Williamsbridge,Single Mothers,2014,Number,7678,212
+Williamsbridge,Single Fathers,2014,Number,736,212
+Williamsbridge,Grandparents,2014,Number,667,212
+Williamsbridge,Other,2014,Number,196,212
+Williamsburg/Greenpoint,Married Couples,2014,Number,10977,301
+Williamsburg/Greenpoint,Single Mothers,2014,Number,2860,301
+Williamsburg/Greenpoint,Single Fathers,2014,Number,425,301
+Williamsburg/Greenpoint,Grandparents,2014,Number,899,301
+Williamsburg/Greenpoint,Other,2014,Number,104,301
+Fort Greene/Brooklyn Hts,Married Couples,2014,Number,2081,302
+Fort Greene/Brooklyn Hts,Single Mothers,2014,Number,2459,302
+Fort Greene/Brooklyn Hts,Single Fathers,2014,Number,188,302
+Fort Greene/Brooklyn Hts,Grandparents,2014,Number,866,302
+Fort Greene/Brooklyn Hts,Other,2014,Number,59,302
+Bedford Stuyvesant,Married Couples,2014,Number,7832,303
+Bedford Stuyvesant,Single Mothers,2014,Number,6318,303
+Bedford Stuyvesant,Single Fathers,2014,Number,375,303
+Bedford Stuyvesant,Grandparents,2014,Number,1672,303
+Bedford Stuyvesant,Other,2014,Number,789,303
+Bushwick,Married Couples,2014,Number,2426,304
+Bushwick,Single Mothers,2014,Number,5111,304
+Bushwick,Single Fathers,2014,Number,853,304
+Bushwick,Grandparents,2014,Number,1264,304
+Bushwick,Other,2014,Number,845,304
+East New York,Married Couples,2014,Number,2862,305
+East New York,Single Mothers,2014,Number,8362,305
+East New York,Single Fathers,2014,Number,1010,305
+East New York,Grandparents,2014,Number,1930,305
+East New York,Other,2014,Number,669,305
+Park Slope,Married Couples,2014,Number,942,306
+Park Slope,Single Mothers,2014,Number,1105,306
+Park Slope,Single Fathers,2014,Number,105,306
+Park Slope,Grandparents,2014,Number,133,306
+Park Slope,Other,2014,Number,0,306
+Sunset Park,Married Couples,2014,Number,9345,307
+Sunset Park,Single Mothers,2014,Number,3027,307
+Sunset Park,Single Fathers,2014,Number,1286,307
+Sunset Park,Grandparents,2014,Number,772,307
+Sunset Park,Other,2014,Number,959,307
+Crown Heights North,Married Couples,2014,Number,1640,308
+Crown Heights North,Single Mothers,2014,Number,4828,308
+Crown Heights North,Single Fathers,2014,Number,577,308
+Crown Heights North,Grandparents,2014,Number,1033,308
+Crown Heights North,Other,2014,Number,1042,308
+Crown Heights South,Married Couples,2014,Number,2182,309
+Crown Heights South,Single Mothers,2014,Number,3260,309
+Crown Heights South,Single Fathers,2014,Number,318,309
+Crown Heights South,Grandparents,2014,Number,665,309
+Crown Heights South,Other,2014,Number,369,309
+Bay Ridge,Married Couples,2014,Number,4084,310
+Bay Ridge,Single Mothers,2014,Number,998,310
+Bay Ridge,Single Fathers,2014,Number,563,310
+Bay Ridge,Grandparents,2014,Number,600,310
+Bay Ridge,Other,2014,Number,83,310
+Bensonhurst,Married Couples,2014,Number,6908,311
+Bensonhurst,Single Mothers,2014,Number,2140,311
+Bensonhurst,Single Fathers,2014,Number,459,311
+Bensonhurst,Grandparents,2014,Number,239,311
+Bensonhurst,Other,2014,Number,218,311
+Borough Park,Married Couples,2014,Number,22888,312
+Borough Park,Single Mothers,2014,Number,2552,312
+Borough Park,Single Fathers,2014,Number,579,312
+Borough Park,Grandparents,2014,Number,303,312
+Borough Park,Other,2014,Number,416,312
+Coney Island,Married Couples,2014,Number,3145,313
+Coney Island,Single Mothers,2014,Number,2576,313
+Coney Island,Single Fathers,2014,Number,823,313
+Coney Island,Grandparents,2014,Number,579,313
+Coney Island,Other,2014,Number,353,313
+Flatbush/Midwood,Married Couples,2014,Number,6491,314
+Flatbush/Midwood,Single Mothers,2014,Number,2602,314
+Flatbush/Midwood,Single Fathers,2014,Number,378,314
+Flatbush/Midwood,Grandparents,2014,Number,777,314
+Flatbush/Midwood,Other,2014,Number,581,314
+Sheepshead Bay,Married Couples,2014,Number,5427,315
+Sheepshead Bay,Single Mothers,2014,Number,1054,315
+Sheepshead Bay,Single Fathers,2014,Number,944,315
+Sheepshead Bay,Grandparents,2014,Number,117,315
+Sheepshead Bay,Other,2014,Number,304,315
+Brownsville,Married Couples,2014,Number,1850,316
+Brownsville,Single Mothers,2014,Number,11425,316
+Brownsville,Single Fathers,2014,Number,858,316
+Brownsville,Grandparents,2014,Number,1690,316
+Brownsville,Other,2014,Number,805,316
+East Flatbush,Married Couples,2014,Number,1739,317
+East Flatbush,Single Mothers,2014,Number,3839,317
+East Flatbush,Single Fathers,2014,Number,568,317
+East Flatbush,Grandparents,2014,Number,1069,317
+East Flatbush,Other,2014,Number,343,317
+Canarsie,Married Couples,2014,Number,1818,318
+Canarsie,Single Mothers,2014,Number,4014,318
+Canarsie,Single Fathers,2014,Number,880,318
+Canarsie,Grandparents,2014,Number,284,318
+Canarsie,Other,2014,Number,507,318
+Astoria,Married Couples,2014,Number,3165,401
+Astoria,Single Mothers,2014,Number,2842,401
+Astoria,Single Fathers,2014,Number,188,401
+Astoria,Grandparents,2014,Number,456,401
+Astoria,Other,2014,Number,187,401
+Sunnyside/Woodside,Married Couples,2014,Number,3260,402
+Sunnyside/Woodside,Single Mothers,2014,Number,1905,402
+Sunnyside/Woodside,Single Fathers,2014,Number,240,402
+Sunnyside/Woodside,Grandparents,2014,Number,348,402
+Sunnyside/Woodside,Other,2014,Number,187,402
+Jackson Heights,Married Couples,2014,Number,4290,403
+Jackson Heights,Single Mothers,2014,Number,4218,403
+Jackson Heights,Single Fathers,2014,Number,747,403
+Jackson Heights,Grandparents,2014,Number,389,403
+Jackson Heights,Other,2014,Number,660,403
+Elmhurst/Corona,Married Couples,2014,Number,3680,404
+Elmhurst/Corona,Single Mothers,2014,Number,3651,404
+Elmhurst/Corona,Single Fathers,2014,Number,1644,404
+Elmhurst/Corona,Grandparents,2014,Number,366,404
+Elmhurst/Corona,Other,2014,Number,681,404
+Ridgewood/Glendale,Married Couples,2014,Number,1723,405
+Ridgewood/Glendale,Single Mothers,2014,Number,3241,405
+Ridgewood/Glendale,Single Fathers,2014,Number,350,405
+Ridgewood/Glendale,Grandparents,2014,Number,440,405
+Ridgewood/Glendale,Other,2014,Number,268,405
+Rego Park/Forest Hills,Married Couples,2014,Number,1550,406
+Rego Park/Forest Hills,Single Mothers,2014,Number,527,406
+Rego Park/Forest Hills,Single Fathers,2014,Number,63,406
+Rego Park/Forest Hills,Grandparents,2014,Number,140,406
+Rego Park/Forest Hills,Other,2014,Number,33,406
+Flushing,Married Couples,2014,Number,5017,407
+Flushing,Single Mothers,2014,Number,2634,407
+Flushing,Single Fathers,2014,Number,348,407
+Flushing,Grandparents,2014,Number,109,407
+Flushing,Other,2014,Number,270,407
+Fresh Meadows/Briarwood,Married Couples,2014,Number,4048,408
+Fresh Meadows/Briarwood,Single Mothers,2014,Number,1779,408
+Fresh Meadows/Briarwood,Single Fathers,2014,Number,26,408
+Fresh Meadows/Briarwood,Grandparents,2014,Number,769,408
+Fresh Meadows/Briarwood,Other,2014,Number,761,408
+Woodhaven,Married Couples,2014,Number,3549,409
+Woodhaven,Single Mothers,2014,Number,3179,409
+Woodhaven,Single Fathers,2014,Number,337,409
+Woodhaven,Grandparents,2014,Number,523,409
+Woodhaven,Other,2014,Number,330,409
+Howard Beach,Married Couples,2014,Number,2709,410
+Howard Beach,Single Mothers,2014,Number,2589,410
+Howard Beach,Single Fathers,2014,Number,281,410
+Howard Beach,Grandparents,2014,Number,392,410
+Howard Beach,Other,2014,Number,287,410
+Bayside,Married Couples,2014,Number,1426,411
+Bayside,Single Mothers,2014,Number,250,411
+Bayside,Single Fathers,2014,Number,219,411
+Bayside,Grandparents,2014,Number,0,411
+Bayside,Other,2014,Number,53,411
+Jamaica/St. Albans,Married Couples,2014,Number,4357,412
+Jamaica/St. Albans,Single Mothers,2014,Number,5830,412
+Jamaica/St. Albans,Single Fathers,2014,Number,1491,412
+Jamaica/St. Albans,Grandparents,2014,Number,1639,412
+Jamaica/St. Albans,Other,2014,Number,800,412
+Queens Village,Married Couples,2014,Number,1347,413
+Queens Village,Single Mothers,2014,Number,2330,413
+Queens Village,Single Fathers,2014,Number,408,413
+Queens Village,Grandparents,2014,Number,854,413
+Queens Village,Other,2014,Number,377,413
+The Rockaways,Married Couples,2014,Number,2383,414
+The Rockaways,Single Mothers,2014,Number,4558,414
+The Rockaways,Single Fathers,2014,Number,317,414
+The Rockaways,Grandparents,2014,Number,610,414
+The Rockaways,Other,2014,Number,201,414
+St. George,Married Couples,2014,Number,2742,501
+St. George,Single Mothers,2014,Number,9598,501
+St. George,Single Fathers,2014,Number,478,501
+St. George,Grandparents,2014,Number,957,501
+St. George,Other,2014,Number,334,501
+South Beach,Married Couples,2014,Number,977,502
+South Beach,Single Mothers,2014,Number,1751,502
+South Beach,Single Fathers,2014,Number,145,502
+South Beach,Grandparents,2014,Number,214,502
+South Beach,Other,2014,Number,109,502
+Tottenville,Married Couples,2014,Number,1030,503
+Tottenville,Single Mothers,2014,Number,1207,503
+Tottenville,Single Fathers,2014,Number,393,503
+Tottenville,Grandparents,2014,Number,94,503
+Tottenville,Other,2014,Number,427,503
+Bronx,Married Couples,2014,Number,30104,36005
+Bronx,Single Mothers,2014,Number,94669,36005
+Bronx,Single Fathers,2014,Number,9333,36005
+Bronx,Grandparents,2014,Number,12686,36005
+Bronx,Other,2014,Number,5301,36005
+Brooklyn,Married Couples,2014,Number,94638,36047
+Brooklyn,Single Mothers,2014,Number,68528,36047
+Brooklyn,Single Fathers,2014,Number,11189,36047
+Brooklyn,Grandparents,2014,Number,14894,36047
+Brooklyn,Other,2014,Number,8447,36047
+Manhattan,Married Couples,2014,Number,12085,36061
+Manhattan,Single Mothers,2014,Number,29832,36061
+Manhattan,Single Fathers,2014,Number,4333,36061
+Manhattan,Grandparents,2014,Number,7394,36061
+Manhattan,Other,2014,Number,3158,36061
+Queens,Married Couples,2014,Number,42503,36081
+Queens,Single Mothers,2014,Number,39532,36081
+Queens,Single Fathers,2014,Number,6659,36081
+Queens,Grandparents,2014,Number,7037,36081
+Queens,Other,2014,Number,5095,36081
+Staten Island,Married Couples,2014,Number,4749,36085
+Staten Island,Single Mothers,2014,Number,12556,36085
+Staten Island,Single Fathers,2014,Number,1016,36085
+Staten Island,Grandparents,2014,Number,1266,36085
+Staten Island,Other,2014,Number,870,36085
+New York City,Married Couples,2014,Number,184079,3651000
+New York City,Single Mothers,2014,Number,245117,3651000
+New York City,Single Fathers,2014,Number,32531,3651000
+New York City,Grandparents,2014,Number,43276,3651000
+New York City,Other,2014,Number,22871,3651000
+Battery Park/Tribeca,Married Couples,2014,Percent,0.02,101
+Battery Park/Tribeca,Single Mothers,2014,Percent,0.127,101
+Battery Park/Tribeca,Single Fathers,2014,Percent,0.254,101
+Battery Park/Tribeca,Grandparents,2014,Percent,0.096,101
+Battery Park/Tribeca,Other,2014,Percent,0.322,101
+Greenwich Village,Married Couples,2014,Percent,0.02,102
+Greenwich Village,Single Mothers,2014,Percent,0.127,102
+Greenwich Village,Single Fathers,2014,Percent,0.254,102
+Greenwich Village,Grandparents,2014,Percent,0.096,102
+Greenwich Village,Other,2014,Percent,0.322,102
+Lower East Side,Married Couples,2014,Percent,0.153,103
+Lower East Side,Single Mothers,2014,Percent,0.56,103
+Lower East Side,Single Fathers,2014,Percent,0.326,103
+Lower East Side,Grandparents,2014,Percent,0.492,103
+Lower East Side,Other,2014,Percent,0.387,103
+Chelsea/Clinton,Married Couples,2014,Percent,0.036,104
+Chelsea/Clinton,Single Mothers,2014,Percent,0.456,104
+Chelsea/Clinton,Single Fathers,2014,Percent,0,104
+Chelsea/Clinton,Grandparents,2014,Percent,0.15,104
+Chelsea/Clinton,Other,2014,Percent,0.726,104
+Midtown Business District,Married Couples,2014,Percent,0.036,105
+Midtown Business District,Single Mothers,2014,Percent,0.456,105
+Midtown Business District,Single Fathers,2014,Percent,0,105
+Midtown Business District,Grandparents,2014,Percent,0.15,105
+Midtown Business District,Other,2014,Percent,0.726,105
+Murray Hill/Stuyvesant,Married Couples,2014,Percent,0.011,106
+Murray Hill/Stuyvesant,Single Mothers,2014,Percent,0.141,106
+Murray Hill/Stuyvesant,Single Fathers,2014,Percent,0,106
+Murray Hill/Stuyvesant,Grandparents,2014,Percent,0,106
+Murray Hill/Stuyvesant,Other,2014,Percent,0,106
+Upper West Side,Married Couples,2014,Percent,0.025,107
+Upper West Side,Single Mothers,2014,Percent,0.146,107
+Upper West Side,Single Fathers,2014,Percent,0.436,107
+Upper West Side,Grandparents,2014,Percent,0.458,107
+Upper West Side,Other,2014,Percent,1,107
+Upper East Side,Married Couples,2014,Percent,0.065,108
+Upper East Side,Single Mothers,2014,Percent,0.251,108
+Upper East Side,Single Fathers,2014,Percent,0,108
+Upper East Side,Grandparents,2014,Percent,0.317,108
+Upper East Side,Other,2014,Percent,0,108
+Manhattanville,Married Couples,2014,Percent,0.17,109
+Manhattanville,Single Mothers,2014,Percent,0.658,109
+Manhattanville,Single Fathers,2014,Percent,0.169,109
+Manhattanville,Grandparents,2014,Percent,0.218,109
+Manhattanville,Other,2014,Percent,0.335,109
+Central Harlem,Married Couples,2014,Percent,0.128,110
+Central Harlem,Single Mothers,2014,Percent,0.524,110
+Central Harlem,Single Fathers,2014,Percent,0.592,110
+Central Harlem,Grandparents,2014,Percent,0.326,110
+Central Harlem,Other,2014,Percent,0.328,110
+East Harlem,Married Couples,2014,Percent,0.266,111
+East Harlem,Single Mothers,2014,Percent,0.531,111
+East Harlem,Single Fathers,2014,Percent,0.46,111
+East Harlem,Grandparents,2014,Percent,0.465,111
+East Harlem,Other,2014,Percent,0.465,111
+Washington Heights,Married Couples,2014,Percent,0.206,112
+Washington Heights,Single Mothers,2014,Percent,0.526,112
+Washington Heights,Single Fathers,2014,Percent,0.259,112
+Washington Heights,Grandparents,2014,Percent,0.368,112
+Washington Heights,Other,2014,Percent,0.403,112
+Mott Haven,Married Couples,2014,Percent,0.417,201
+Mott Haven,Single Mothers,2014,Percent,0.591,201
+Mott Haven,Single Fathers,2014,Percent,0.653,201
+Mott Haven,Grandparents,2014,Percent,0.521,201
+Mott Haven,Other,2014,Percent,0.437,201
+Hunts Point,Married Couples,2014,Percent,0.417,202
+Hunts Point,Single Mothers,2014,Percent,0.591,202
+Hunts Point,Single Fathers,2014,Percent,0.653,202
+Hunts Point,Grandparents,2014,Percent,0.521,202
+Hunts Point,Other,2014,Percent,0.437,202
+Morrisania,Married Couples,2014,Percent,0.291,203
+Morrisania,Single Mothers,2014,Percent,0.647,203
+Morrisania,Single Fathers,2014,Percent,0.487,203
+Morrisania,Grandparents,2014,Percent,0.466,203
+Morrisania,Other,2014,Percent,0.31,203
+Concourse/Highbridge,Married Couples,2014,Percent,0.352,204
+Concourse/Highbridge,Single Mothers,2014,Percent,0.61,204
+Concourse/Highbridge,Single Fathers,2014,Percent,0.338,204
+Concourse/Highbridge,Grandparents,2014,Percent,0.329,204
+Concourse/Highbridge,Other,2014,Percent,0.432,204
+University Heights,Married Couples,2014,Percent,0.411,205
+University Heights,Single Mothers,2014,Percent,0.674,205
+University Heights,Single Fathers,2014,Percent,0.467,205
+University Heights,Grandparents,2014,Percent,0.579,205
+University Heights,Other,2014,Percent,0.315,205
+East Tremont,Married Couples,2014,Percent,0.291,206
+East Tremont,Single Mothers,2014,Percent,0.647,206
+East Tremont,Single Fathers,2014,Percent,0.487,206
+East Tremont,Grandparents,2014,Percent,0.466,206
+East Tremont,Other,2014,Percent,0.31,206
+Bedford Park,Married Couples,2014,Percent,0.315,207
+Bedford Park,Single Mothers,2014,Percent,0.603,207
+Bedford Park,Single Fathers,2014,Percent,0.061,207
+Bedford Park,Grandparents,2014,Percent,0.398,207
+Bedford Park,Other,2014,Percent,0.411,207
+Riverdale,Married Couples,2014,Percent,0.053,208
+Riverdale,Single Mothers,2014,Percent,0.456,208
+Riverdale,Single Fathers,2014,Percent,0.584,208
+Riverdale,Grandparents,2014,Percent,0.288,208
+Riverdale,Other,2014,Percent,0.28,208
+Unionport/Soundview,Married Couples,2014,Percent,0.231,209
+Unionport/Soundview,Single Mothers,2014,Percent,0.625,209
+Unionport/Soundview,Single Fathers,2014,Percent,0.401,209
+Unionport/Soundview,Grandparents,2014,Percent,0.34,209
+Unionport/Soundview,Other,2014,Percent,0.34,209
+Throgs Neck,Married Couples,2014,Percent,0.085,210
+Throgs Neck,Single Mothers,2014,Percent,0.222,210
+Throgs Neck,Single Fathers,2014,Percent,0.188,210
+Throgs Neck,Grandparents,2014,Percent,0.157,210
+Throgs Neck,Other,2014,Percent,0.106,210
+Pelham Parkway,Married Couples,2014,Percent,0.212,211
+Pelham Parkway,Single Mothers,2014,Percent,0.403,211
+Pelham Parkway,Single Fathers,2014,Percent,0.404,211
+Pelham Parkway,Grandparents,2014,Percent,0.297,211
+Pelham Parkway,Other,2014,Percent,0.179,211
+Williamsbridge,Married Couples,2014,Percent,0.141,212
+Williamsbridge,Single Mothers,2014,Percent,0.548,212
+Williamsbridge,Single Fathers,2014,Percent,0.289,212
+Williamsbridge,Grandparents,2014,Percent,0.195,212
+Williamsbridge,Other,2014,Percent,0.151,212
+Williamsburg/Greenpoint,Married Couples,2014,Percent,0.47,301
+Williamsburg/Greenpoint,Single Mothers,2014,Percent,0.568,301
+Williamsburg/Greenpoint,Single Fathers,2014,Percent,0.351,301
+Williamsburg/Greenpoint,Grandparents,2014,Percent,0.451,301
+Williamsburg/Greenpoint,Other,2014,Percent,0.203,301
+Fort Greene/Brooklyn Hts,Married Couples,2014,Percent,0.141,302
+Fort Greene/Brooklyn Hts,Single Mothers,2014,Percent,0.473,302
+Fort Greene/Brooklyn Hts,Single Fathers,2014,Percent,0.19,302
+Fort Greene/Brooklyn Hts,Grandparents,2014,Percent,0.452,302
+Fort Greene/Brooklyn Hts,Other,2014,Percent,0.097,302
+Bedford Stuyvesant,Married Couples,2014,Percent,0.447,303
+Bedford Stuyvesant,Single Mothers,2014,Percent,0.581,303
+Bedford Stuyvesant,Single Fathers,2014,Percent,0.269,303
+Bedford Stuyvesant,Grandparents,2014,Percent,0.399,303
+Bedford Stuyvesant,Other,2014,Percent,0.452,303
+Bushwick,Married Couples,2014,Percent,0.197,304
+Bushwick,Single Mothers,2014,Percent,0.495,304
+Bushwick,Single Fathers,2014,Percent,0.315,304
+Bushwick,Grandparents,2014,Percent,0.295,304
+Bushwick,Other,2014,Percent,0.429,304
+East New York,Married Couples,2014,Percent,0.216,305
+East New York,Single Mothers,2014,Percent,0.495,305
+East New York,Single Fathers,2014,Percent,0.307,305
+East New York,Grandparents,2014,Percent,0.323,305
+East New York,Other,2014,Percent,0.336,305
+Park Slope,Married Couples,2014,Percent,0.052,306
+Park Slope,Single Mothers,2014,Percent,0.37,306
+Park Slope,Single Fathers,2014,Percent,0.173,306
+Park Slope,Grandparents,2014,Percent,0.15,306
+Park Slope,Other,2014,Percent,0,306
+Sunset Park,Married Couples,2014,Percent,0.396,307
+Sunset Park,Single Mothers,2014,Percent,0.511,307
+Sunset Park,Single Fathers,2014,Percent,0.603,307
+Sunset Park,Grandparents,2014,Percent,0.278,307
+Sunset Park,Other,2014,Percent,0.469,307
+Crown Heights North,Married Couples,2014,Percent,0.182,308
+Crown Heights North,Single Mothers,2014,Percent,0.464,308
+Crown Heights North,Single Fathers,2014,Percent,0.513,308
+Crown Heights North,Grandparents,2014,Percent,0.325,308
+Crown Heights North,Other,2014,Percent,0.539,308
+Crown Heights South,Married Couples,2014,Percent,0.193,309
+Crown Heights South,Single Mothers,2014,Percent,0.46,309
+Crown Heights South,Single Fathers,2014,Percent,0.269,309
+Crown Heights South,Grandparents,2014,Percent,0.19,309
+Crown Heights South,Other,2014,Percent,0.252,309
+Bay Ridge,Married Couples,2014,Percent,0.206,310
+Bay Ridge,Single Mothers,2014,Percent,0.356,310
+Bay Ridge,Single Fathers,2014,Percent,0.383,310
+Bay Ridge,Grandparents,2014,Percent,0.427,310
+Bay Ridge,Other,2014,Percent,0.068,310
+Bensonhurst,Married Couples,2014,Percent,0.25,311
+Bensonhurst,Single Mothers,2014,Percent,0.461,311
+Bensonhurst,Single Fathers,2014,Percent,0.258,311
+Bensonhurst,Grandparents,2014,Percent,0.098,311
+Bensonhurst,Other,2014,Percent,0.181,311
+Borough Park,Married Couples,2014,Percent,0.466,312
+Borough Park,Single Mothers,2014,Percent,0.604,312
+Borough Park,Single Fathers,2014,Percent,0.501,312
+Borough Park,Grandparents,2014,Percent,0.229,312
+Borough Park,Other,2014,Percent,0.341,312
+Coney Island,Married Couples,2014,Percent,0.27,313
+Coney Island,Single Mothers,2014,Percent,0.642,313
+Coney Island,Single Fathers,2014,Percent,0.658,313
+Coney Island,Grandparents,2014,Percent,0.281,313
+Coney Island,Other,2014,Percent,0.463,313
+Flatbush/Midwood,Married Couples,2014,Percent,0.263,314
+Flatbush/Midwood,Single Mothers,2014,Percent,0.375,314
+Flatbush/Midwood,Single Fathers,2014,Percent,0.298,314
+Flatbush/Midwood,Grandparents,2014,Percent,0.193,314
+Flatbush/Midwood,Other,2014,Percent,0.315,314
+Sheepshead Bay,Married Couples,2014,Percent,0.218,315
+Sheepshead Bay,Single Mothers,2014,Percent,0.289,315
+Sheepshead Bay,Single Fathers,2014,Percent,0.449,315
+Sheepshead Bay,Grandparents,2014,Percent,0.111,315
+Sheepshead Bay,Other,2014,Percent,0.596,315
+Brownsville,Married Couples,2014,Percent,0.232,316
+Brownsville,Single Mothers,2014,Percent,0.587,316
+Brownsville,Single Fathers,2014,Percent,0.479,316
+Brownsville,Grandparents,2014,Percent,0.349,316
+Brownsville,Other,2014,Percent,0.55,316
+East Flatbush,Married Couples,2014,Percent,0.201,317
+East Flatbush,Single Mothers,2014,Percent,0.339,317
+East Flatbush,Single Fathers,2014,Percent,0.327,317
+East Flatbush,Grandparents,2014,Percent,0.193,317
+East Flatbush,Other,2014,Percent,0.155,317
+Canarsie,Married Couples,2014,Percent,0.074,318
+Canarsie,Single Mothers,2014,Percent,0.312,318
+Canarsie,Single Fathers,2014,Percent,0.413,318
+Canarsie,Grandparents,2014,Percent,0.056,318
+Canarsie,Other,2014,Percent,0.239,318
+Astoria,Married Couples,2014,Percent,0.204,401
+Astoria,Single Mothers,2014,Percent,0.498,401
+Astoria,Single Fathers,2014,Percent,0.191,401
+Astoria,Grandparents,2014,Percent,0.3,401
+Astoria,Other,2014,Percent,0.184,401
+Sunnyside/Woodside,Married Couples,2014,Percent,0.181,402
+Sunnyside/Woodside,Single Mothers,2014,Percent,0.504,402
+Sunnyside/Woodside,Single Fathers,2014,Percent,0.199,402
+Sunnyside/Woodside,Grandparents,2014,Percent,0.175,402
+Sunnyside/Woodside,Other,2014,Percent,0.252,402
+Jackson Heights,Married Couples,2014,Percent,0.218,403
+Jackson Heights,Single Mothers,2014,Percent,0.549,403
+Jackson Heights,Single Fathers,2014,Percent,0.154,403
+Jackson Heights,Grandparents,2014,Percent,0.126,403
+Jackson Heights,Other,2014,Percent,0.273,403
+Elmhurst/Corona,Married Couples,2014,Percent,0.21,404
+Elmhurst/Corona,Single Mothers,2014,Percent,0.535,404
+Elmhurst/Corona,Single Fathers,2014,Percent,0.413,404
+Elmhurst/Corona,Grandparents,2014,Percent,0.253,404
+Elmhurst/Corona,Other,2014,Percent,0.263,404
+Ridgewood/Glendale,Married Couples,2014,Percent,0.086,405
+Ridgewood/Glendale,Single Mothers,2014,Percent,0.451,405
+Ridgewood/Glendale,Single Fathers,2014,Percent,0.149,405
+Ridgewood/Glendale,Grandparents,2014,Percent,0.224,405
+Ridgewood/Glendale,Other,2014,Percent,0.26,405
+Rego Park/Forest Hills,Married Couples,2014,Percent,0.103,406
+Rego Park/Forest Hills,Single Mothers,2014,Percent,0.249,406
+Rego Park/Forest Hills,Single Fathers,2014,Percent,0.108,406
+Rego Park/Forest Hills,Grandparents,2014,Percent,0.151,406
+Rego Park/Forest Hills,Other,2014,Percent,0.042,406
+Flushing,Married Couples,2014,Percent,0.161,407
+Flushing,Single Mothers,2014,Percent,0.451,407
+Flushing,Single Fathers,2014,Percent,0.206,407
+Flushing,Grandparents,2014,Percent,0.034,407
+Flushing,Other,2014,Percent,0.237,407
+Fresh Meadows/Briarwood,Married Couples,2014,Percent,0.162,408
+Fresh Meadows/Briarwood,Single Mothers,2014,Percent,0.505,408
+Fresh Meadows/Briarwood,Single Fathers,2014,Percent,0.031,408
+Fresh Meadows/Briarwood,Grandparents,2014,Percent,0.319,408
+Fresh Meadows/Briarwood,Other,2014,Percent,0.716,408
+Woodhaven,Married Couples,2014,Percent,0.164,409
+Woodhaven,Single Mothers,2014,Percent,0.511,409
+Woodhaven,Single Fathers,2014,Percent,0.211,409
+Woodhaven,Grandparents,2014,Percent,0.138,409
+Woodhaven,Other,2014,Percent,0.179,409
+Howard Beach,Married Couples,2014,Percent,0.153,410
+Howard Beach,Single Mothers,2014,Percent,0.517,410
+Howard Beach,Single Fathers,2014,Percent,0.233,410
+Howard Beach,Grandparents,2014,Percent,0.126,410
+Howard Beach,Other,2014,Percent,0.169,410
+Bayside,Married Couples,2014,Percent,0.071,411
+Bayside,Single Mothers,2014,Percent,0.155,411
+Bayside,Single Fathers,2014,Percent,0.435,411
+Bayside,Grandparents,2014,Percent,0,411
+Bayside,Other,2014,Percent,0.184,411
+Jamaica/St. Albans,Married Couples,2014,Percent,0.179,412
+Jamaica/St. Albans,Single Mothers,2014,Percent,0.406,412
+Jamaica/St. Albans,Single Fathers,2014,Percent,0.365,412
+Jamaica/St. Albans,Grandparents,2014,Percent,0.158,412
+Jamaica/St. Albans,Other,2014,Percent,0.216,412
+Queens Village,Married Couples,2014,Percent,0.066,413
+Queens Village,Single Mothers,2014,Percent,0.298,413
+Queens Village,Single Fathers,2014,Percent,0.182,413
+Queens Village,Grandparents,2014,Percent,0.15,413
+Queens Village,Other,2014,Percent,0.168,413
+The Rockaways,Married Couples,2014,Percent,0.137,414
+The Rockaways,Single Mothers,2014,Percent,0.514,414
+The Rockaways,Single Fathers,2014,Percent,0.24,414
+The Rockaways,Grandparents,2014,Percent,0.223,414
+The Rockaways,Other,2014,Percent,0.336,414
+St. George,Married Couples,2014,Percent,0.125,501
+St. George,Single Mothers,2014,Percent,0.662,501
+St. George,Single Fathers,2014,Percent,0.24,501
+St. George,Grandparents,2014,Percent,0.308,501
+St. George,Other,2014,Percent,0.208,501
+South Beach,Married Couples,2014,Percent,0.05,502
+South Beach,Single Mothers,2014,Percent,0.389,502
+South Beach,Single Fathers,2014,Percent,0.123,502
+South Beach,Grandparents,2014,Percent,0.133,502
+South Beach,Other,2014,Percent,0.339,502
+Tottenville,Married Couples,2014,Percent,0.038,503
+Tottenville,Single Mothers,2014,Percent,0.302,503
+Tottenville,Single Fathers,2014,Percent,0.299,503
+Tottenville,Grandparents,2014,Percent,0.043,503
+Tottenville,Other,2014,Percent,0.82,503
+Bronx,Married Couples,2014,Percent,0.246,36005
+Bronx,Single Mothers,2014,Percent,0.577,36005
+Bronx,Single Fathers,2014,Percent,0.407,36005
+Bronx,Grandparents,2014,Percent,0.387,36005
+Bronx,Other,2014,Percent,0.34,36005
+Brooklyn,Married Couples,2014,Percent,0.276,36047
+Brooklyn,Single Mothers,2014,Percent,0.474,36047
+Brooklyn,Single Fathers,2014,Percent,0.382,36047
+Brooklyn,Grandparents,2014,Percent,0.264,36047
+Brooklyn,Other,2014,Percent,0.339,36047
+Manhattan,Married Couples,2014,Percent,0.092,36061
+Manhattan,Single Mothers,2014,Percent,0.486,36061
+Manhattan,Single Fathers,2014,Percent,0.343,36061
+Manhattan,Grandparents,2014,Percent,0.351,36061
+Manhattan,Other,2014,Percent,0.402,36061
+Queens,Married Couples,2014,Percent,0.15,36081
+Queens,Single Mothers,2014,Percent,0.457,36081
+Queens,Single Fathers,2014,Percent,0.243,36081
+Queens,Grandparents,2014,Percent,0.162,36081
+Queens,Other,2014,Percent,0.241,36081
+Staten Island,Married Couples,2014,Percent,0.07,36085
+Staten Island,Single Mothers,2014,Percent,0.546,36085
+Staten Island,Single Fathers,2014,Percent,0.227,36085
+Staten Island,Grandparents,2014,Percent,0.183,36085
+Staten Island,Other,2014,Percent,0.356,36085
+New York City,Married Couples,2014,Percent,0.194,3651000
+New York City,Single Mothers,2014,Percent,0.511,3651000
+New York City,Single Fathers,2014,Percent,0.336,3651000
+New York City,Grandparents,2014,Percent,0.269,3651000
+New York City,Other,2014,Percent,0.318,3651000
+Battery Park/Tribeca,Married Couples,2015,Number,104.9994,101
+Battery Park/Tribeca,Single Mothers,2015,Number,68.24961,101
+Battery Park/Tribeca,Single Fathers,2015,Number,21.80757,101
+Battery Park/Tribeca,Grandparents,2015,Number,18.17297,101
+Battery Park/Tribeca,Other,2015,Number,0,101
+Greenwich Village,Married Couples,2015,Number,155.0006,102
+Greenwich Village,Single Mothers,2015,Number,100.75039,102
+Greenwich Village,Single Fathers,2015,Number,32.19243,102
+Greenwich Village,Grandparents,2015,Number,26.82703,102
+Greenwich Village,Other,2015,Number,0,102
+Lower East Side,Married Couples,2015,Number,1284,103
+Lower East Side,Single Mothers,2015,Number,3545,103
+Lower East Side,Single Fathers,2015,Number,321,103
+Lower East Side,Grandparents,2015,Number,1538,103
+Lower East Side,Other,2015,Number,305,103
+Chelsea/Clinton,Married Couples,2015,Number,201.2677,104
+Chelsea/Clinton,Single Mothers,2015,Number,1269.58601,104
+Chelsea/Clinton,Single Fathers,2015,Number,0,104
+Chelsea/Clinton,Grandparents,2015,Number,124.62603,104
+Chelsea/Clinton,Other,2015,Number,180.60777,104
+Midtown Business District,Married Couples,2015,Number,100.7323,105
+Midtown Business District,Single Mothers,2015,Number,635.41399,105
+Midtown Business District,Single Fathers,2015,Number,0,105
+Midtown Business District,Grandparents,2015,Number,62.37397,105
+Midtown Business District,Other,2015,Number,90.39223,105
+Murray Hill/Stuyvesant,Married Couples,2015,Number,386,106
+Murray Hill/Stuyvesant,Single Mothers,2015,Number,40,106
+Murray Hill/Stuyvesant,Single Fathers,2015,Number,0,106
+Murray Hill/Stuyvesant,Grandparents,2015,Number,0,106
+Murray Hill/Stuyvesant,Other,2015,Number,0,106
+Upper West Side,Married Couples,2015,Number,1389,107
+Upper West Side,Single Mothers,2015,Number,779,107
+Upper West Side,Single Fathers,2015,Number,32,107
+Upper West Side,Grandparents,2015,Number,453,107
+Upper West Side,Other,2015,Number,89,107
+Upper East Side,Married Couples,2015,Number,1058,108
+Upper East Side,Single Mothers,2015,Number,714,108
+Upper East Side,Single Fathers,2015,Number,0,108
+Upper East Side,Grandparents,2015,Number,28,108
+Upper East Side,Other,2015,Number,0,108
+Manhattanville,Married Couples,2015,Number,1097,109
+Manhattanville,Single Mothers,2015,Number,4101,109
+Manhattanville,Single Fathers,2015,Number,190,109
+Manhattanville,Grandparents,2015,Number,930,109
+Manhattanville,Other,2015,Number,217,109
+Central Harlem,Married Couples,2015,Number,1404,110
+Central Harlem,Single Mothers,2015,Number,5988,110
+Central Harlem,Single Fathers,2015,Number,1273,110
+Central Harlem,Grandparents,2015,Number,1406,110
+Central Harlem,Other,2015,Number,384,110
+East Harlem,Married Couples,2015,Number,2211,111
+East Harlem,Single Mothers,2015,Number,6978,111
+East Harlem,Single Fathers,2015,Number,707,111
+East Harlem,Grandparents,2015,Number,935,111
+East Harlem,Other,2015,Number,484,111
+Washington Heights,Married Couples,2015,Number,2883,112
+Washington Heights,Single Mothers,2015,Number,5028,112
+Washington Heights,Single Fathers,2015,Number,564,112
+Washington Heights,Grandparents,2015,Number,3197,112
+Washington Heights,Other,2015,Number,1324,112
+Mott Haven,Married Couples,2015,Number,2759.36564,201
+Mott Haven,Single Mothers,2015,Number,8476.69486,201
+Mott Haven,Single Fathers,2015,Number,1145.12083,201
+Mott Haven,Grandparents,2015,Number,1409.91808,201
+Mott Haven,Other,2015,Number,478.03543,201
+Hunts Point,Married Couples,2015,Number,1575.63436,202
+Hunts Point,Single Mothers,2015,Number,4840.30514,202
+Hunts Point,Single Fathers,2015,Number,653.87917,202
+Hunts Point,Grandparents,2015,Number,805.08192,202
+Hunts Point,Other,2015,Number,272.96457,202
+Morrisania,Married Couples,2015,Number,1992.21532,203
+Morrisania,Single Mothers,2015,Number,7808.8774,203
+Morrisania,Single Fathers,2015,Number,811.6614,203
+Morrisania,Grandparents,2015,Number,834.65603,203
+Morrisania,Other,2015,Number,342.96241,203
+Concourse/Highbridge,Married Couples,2015,Number,4475,204
+Concourse/Highbridge,Single Mothers,2015,Number,11246,204
+Concourse/Highbridge,Single Fathers,2015,Number,947,204
+Concourse/Highbridge,Grandparents,2015,Number,1428,204
+Concourse/Highbridge,Other,2015,Number,1282,204
+University Heights,Married Couples,2015,Number,4136,205
+University Heights,Single Mothers,2015,Number,13405,205
+University Heights,Single Fathers,2015,Number,1190,205
+University Heights,Grandparents,2015,Number,1805,205
+University Heights,Other,2015,Number,809,205
+East Tremont,Married Couples,2015,Number,2079.78468,206
+East Tremont,Single Mothers,2015,Number,8152.1226,206
+East Tremont,Single Fathers,2015,Number,847.3386,206
+East Tremont,Grandparents,2015,Number,871.34397,206
+East Tremont,Other,2015,Number,358.03759,206
+Bedford Park,Married Couples,2015,Number,3773,207
+Bedford Park,Single Mothers,2015,Number,8366,207
+Bedford Park,Single Fathers,2015,Number,276,207
+Bedford Park,Grandparents,2015,Number,1717,207
+Bedford Park,Other,2015,Number,824,207
+Riverdale,Married Couples,2015,Number,988,208
+Riverdale,Single Mothers,2015,Number,3103,208
+Riverdale,Single Fathers,2015,Number,970,208
+Riverdale,Grandparents,2015,Number,1157,208
+Riverdale,Other,2015,Number,21,208
+Unionport/Soundview,Married Couples,2015,Number,4931,209
+Unionport/Soundview,Single Mothers,2015,Number,10837,209
+Unionport/Soundview,Single Fathers,2015,Number,576,209
+Unionport/Soundview,Grandparents,2015,Number,1857,209
+Unionport/Soundview,Other,2015,Number,891,209
+Throgs Neck,Married Couples,2015,Number,438,210
+Throgs Neck,Single Mothers,2015,Number,1600,210
+Throgs Neck,Single Fathers,2015,Number,193,210
+Throgs Neck,Grandparents,2015,Number,200,210
+Throgs Neck,Other,2015,Number,79,210
+Pelham Parkway,Married Couples,2015,Number,3194,211
+Pelham Parkway,Single Mothers,2015,Number,4319,211
+Pelham Parkway,Single Fathers,2015,Number,674,211
+Pelham Parkway,Grandparents,2015,Number,448,211
+Pelham Parkway,Other,2015,Number,105,211
+Williamsbridge,Married Couples,2015,Number,1691,212
+Williamsbridge,Single Mothers,2015,Number,6370,212
+Williamsbridge,Single Fathers,2015,Number,757,212
+Williamsbridge,Grandparents,2015,Number,831,212
+Williamsbridge,Other,2015,Number,234,212
+Williamsburg/Greenpoint,Married Couples,2015,Number,9526,301
+Williamsburg/Greenpoint,Single Mothers,2015,Number,1415,301
+Williamsburg/Greenpoint,Single Fathers,2015,Number,341,301
+Williamsburg/Greenpoint,Grandparents,2015,Number,802,301
+Williamsburg/Greenpoint,Other,2015,Number,40,301
+Fort Greene/Brooklyn Hts,Married Couples,2015,Number,1995,302
+Fort Greene/Brooklyn Hts,Single Mothers,2015,Number,2290,302
+Fort Greene/Brooklyn Hts,Single Fathers,2015,Number,69,302
+Fort Greene/Brooklyn Hts,Grandparents,2015,Number,1076,302
+Fort Greene/Brooklyn Hts,Other,2015,Number,176,302
+Bedford Stuyvesant,Married Couples,2015,Number,9241,303
+Bedford Stuyvesant,Single Mothers,2015,Number,6722,303
+Bedford Stuyvesant,Single Fathers,2015,Number,256,303
+Bedford Stuyvesant,Grandparents,2015,Number,1781,303
+Bedford Stuyvesant,Other,2015,Number,818,303
+Bushwick,Married Couples,2015,Number,1935,304
+Bushwick,Single Mothers,2015,Number,5618,304
+Bushwick,Single Fathers,2015,Number,606,304
+Bushwick,Grandparents,2015,Number,1043,304
+Bushwick,Other,2015,Number,466,304
+East New York,Married Couples,2015,Number,3062,305
+East New York,Single Mothers,2015,Number,9076,305
+East New York,Single Fathers,2015,Number,710,305
+East New York,Grandparents,2015,Number,1636,305
+East New York,Other,2015,Number,819,305
+Park Slope,Married Couples,2015,Number,460,306
+Park Slope,Single Mothers,2015,Number,1376,306
+Park Slope,Single Fathers,2015,Number,105,306
+Park Slope,Grandparents,2015,Number,76,306
+Park Slope,Other,2015,Number,0,306
+Sunset Park,Married Couples,2015,Number,9541,307
+Sunset Park,Single Mothers,2015,Number,3579,307
+Sunset Park,Single Fathers,2015,Number,912,307
+Sunset Park,Grandparents,2015,Number,730,307
+Sunset Park,Other,2015,Number,762,307
+Crown Heights North,Married Couples,2015,Number,1823,308
+Crown Heights North,Single Mothers,2015,Number,5222,308
+Crown Heights North,Single Fathers,2015,Number,562,308
+Crown Heights North,Grandparents,2015,Number,901,308
+Crown Heights North,Other,2015,Number,840,308
+Crown Heights South,Married Couples,2015,Number,2441,309
+Crown Heights South,Single Mothers,2015,Number,2844,309
+Crown Heights South,Single Fathers,2015,Number,259,309
+Crown Heights South,Grandparents,2015,Number,604,309
+Crown Heights South,Other,2015,Number,286,309
+Bay Ridge,Married Couples,2015,Number,3018,310
+Bay Ridge,Single Mothers,2015,Number,1077,310
+Bay Ridge,Single Fathers,2015,Number,645,310
+Bay Ridge,Grandparents,2015,Number,920,310
+Bay Ridge,Other,2015,Number,220,310
+Bensonhurst,Married Couples,2015,Number,6566,311
+Bensonhurst,Single Mothers,2015,Number,2126,311
+Bensonhurst,Single Fathers,2015,Number,336,311
+Bensonhurst,Grandparents,2015,Number,334,311
+Bensonhurst,Other,2015,Number,350,311
+Borough Park,Married Couples,2015,Number,21388,312
+Borough Park,Single Mothers,2015,Number,2078,312
+Borough Park,Single Fathers,2015,Number,501,312
+Borough Park,Grandparents,2015,Number,534,312
+Borough Park,Other,2015,Number,290,312
+Coney Island,Married Couples,2015,Number,3590,313
+Coney Island,Single Mothers,2015,Number,2096,313
+Coney Island,Single Fathers,2015,Number,801,313
+Coney Island,Grandparents,2015,Number,852,313
+Coney Island,Other,2015,Number,252,313
+Flatbush/Midwood,Married Couples,2015,Number,6397,314
+Flatbush/Midwood,Single Mothers,2015,Number,3354,314
+Flatbush/Midwood,Single Fathers,2015,Number,360,314
+Flatbush/Midwood,Grandparents,2015,Number,975,314
+Flatbush/Midwood,Other,2015,Number,685,314
+Sheepshead Bay,Married Couples,2015,Number,5091,315
+Sheepshead Bay,Single Mothers,2015,Number,991,315
+Sheepshead Bay,Single Fathers,2015,Number,280,315
+Sheepshead Bay,Grandparents,2015,Number,140,315
+Sheepshead Bay,Other,2015,Number,285,315
+Brownsville,Married Couples,2015,Number,1107,316
+Brownsville,Single Mothers,2015,Number,10772,316
+Brownsville,Single Fathers,2015,Number,974,316
+Brownsville,Grandparents,2015,Number,1292,316
+Brownsville,Other,2015,Number,627,316
+East Flatbush,Married Couples,2015,Number,1663,317
+East Flatbush,Single Mothers,2015,Number,3918,317
+East Flatbush,Single Fathers,2015,Number,475,317
+East Flatbush,Grandparents,2015,Number,1049,317
+East Flatbush,Other,2015,Number,339,317
+Canarsie,Married Couples,2015,Number,1879,318
+Canarsie,Single Mothers,2015,Number,3796,318
+Canarsie,Single Fathers,2015,Number,957,318
+Canarsie,Grandparents,2015,Number,694,318
+Canarsie,Other,2015,Number,270,318
+Astoria,Married Couples,2015,Number,2924,401
+Astoria,Single Mothers,2015,Number,3016,401
+Astoria,Single Fathers,2015,Number,229,401
+Astoria,Grandparents,2015,Number,724,401
+Astoria,Other,2015,Number,259,401
+Sunnyside/Woodside,Married Couples,2015,Number,2698,402
+Sunnyside/Woodside,Single Mothers,2015,Number,1573,402
+Sunnyside/Woodside,Single Fathers,2015,Number,273,402
+Sunnyside/Woodside,Grandparents,2015,Number,574,402
+Sunnyside/Woodside,Other,2015,Number,351,402
+Jackson Heights,Married Couples,2015,Number,3095,403
+Jackson Heights,Single Mothers,2015,Number,3415,403
+Jackson Heights,Single Fathers,2015,Number,1404,403
+Jackson Heights,Grandparents,2015,Number,632,403
+Jackson Heights,Other,2015,Number,462,403
+Elmhurst/Corona,Married Couples,2015,Number,3636,404
+Elmhurst/Corona,Single Mothers,2015,Number,3410,404
+Elmhurst/Corona,Single Fathers,2015,Number,855,404
+Elmhurst/Corona,Grandparents,2015,Number,535,404
+Elmhurst/Corona,Other,2015,Number,750,404
+Ridgewood/Glendale,Married Couples,2015,Number,1972,405
+Ridgewood/Glendale,Single Mothers,2015,Number,3068,405
+Ridgewood/Glendale,Single Fathers,2015,Number,452,405
+Ridgewood/Glendale,Grandparents,2015,Number,357,405
+Ridgewood/Glendale,Other,2015,Number,240,405
+Rego Park/Forest Hills,Married Couples,2015,Number,2564,406
+Rego Park/Forest Hills,Single Mothers,2015,Number,330,406
+Rego Park/Forest Hills,Single Fathers,2015,Number,83,406
+Rego Park/Forest Hills,Grandparents,2015,Number,140,406
+Rego Park/Forest Hills,Other,2015,Number,0,406
+Flushing,Married Couples,2015,Number,4285,407
+Flushing,Single Mothers,2015,Number,1621,407
+Flushing,Single Fathers,2015,Number,381,407
+Flushing,Grandparents,2015,Number,284,407
+Flushing,Other,2015,Number,296,407
+Fresh Meadows/Briarwood,Married Couples,2015,Number,2570,408
+Fresh Meadows/Briarwood,Single Mothers,2015,Number,1943,408
+Fresh Meadows/Briarwood,Single Fathers,2015,Number,108,408
+Fresh Meadows/Briarwood,Grandparents,2015,Number,396,408
+Fresh Meadows/Briarwood,Other,2015,Number,747,408
+Woodhaven,Married Couples,2015,Number,2895,409
+Woodhaven,Single Mothers,2015,Number,3345,409
+Woodhaven,Single Fathers,2015,Number,470,409
+Woodhaven,Grandparents,2015,Number,389,409
+Woodhaven,Other,2015,Number,442,409
+Howard Beach,Married Couples,2015,Number,3069,410
+Howard Beach,Single Mothers,2015,Number,2481,410
+Howard Beach,Single Fathers,2015,Number,56,410
+Howard Beach,Grandparents,2015,Number,229,410
+Howard Beach,Other,2015,Number,374,410
+Bayside,Married Couples,2015,Number,1156,411
+Bayside,Single Mothers,2015,Number,389,411
+Bayside,Single Fathers,2015,Number,97,411
+Bayside,Grandparents,2015,Number,0,411
+Bayside,Other,2015,Number,12,411
+Jamaica/St. Albans,Married Couples,2015,Number,3301,412
+Jamaica/St. Albans,Single Mothers,2015,Number,5855,412
+Jamaica/St. Albans,Single Fathers,2015,Number,1327,412
+Jamaica/St. Albans,Grandparents,2015,Number,1565,412
+Jamaica/St. Albans,Other,2015,Number,521,412
+Queens Village,Married Couples,2015,Number,957,413
+Queens Village,Single Mothers,2015,Number,1769,413
+Queens Village,Single Fathers,2015,Number,315,413
+Queens Village,Grandparents,2015,Number,303,413
+Queens Village,Other,2015,Number,475,413
+The Rockaways,Married Couples,2015,Number,1628,414
+The Rockaways,Single Mothers,2015,Number,4804,414
+The Rockaways,Single Fathers,2015,Number,317,414
+The Rockaways,Grandparents,2015,Number,575,414
+The Rockaways,Other,2015,Number,178,414
+St. George,Married Couples,2015,Number,3017,501
+St. George,Single Mothers,2015,Number,8642,501
+St. George,Single Fathers,2015,Number,665,501
+St. George,Grandparents,2015,Number,586,501
+St. George,Other,2015,Number,470,501
+South Beach,Married Couples,2015,Number,1543,502
+South Beach,Single Mothers,2015,Number,2027,502
+South Beach,Single Fathers,2015,Number,121,502
+South Beach,Grandparents,2015,Number,479,502
+South Beach,Other,2015,Number,109,502
+Tottenville,Married Couples,2015,Number,1771,503
+Tottenville,Single Mothers,2015,Number,814,503
+Tottenville,Single Fathers,2015,Number,393,503
+Tottenville,Grandparents,2015,Number,123,503
+Tottenville,Other,2015,Number,360,503
+Bronx,Married Couples,2015,Number,32032,36005
+Bronx,Single Mothers,2015,Number,88524,36005
+Bronx,Single Fathers,2015,Number,9041,36005
+Bronx,Grandparents,2015,Number,13364,36005
+Bronx,Other,2015,Number,5696,36005
+Brooklyn,Married Couples,2015,Number,90722,36047
+Brooklyn,Single Mothers,2015,Number,68349,36047
+Brooklyn,Single Fathers,2015,Number,9149,36047
+Brooklyn,Grandparents,2015,Number,15440,36047
+Brooklyn,Other,2015,Number,7526,36047
+Manhattan,Married Couples,2015,Number,12274,36061
+Manhattan,Single Mothers,2015,Number,29248,36061
+Manhattan,Single Fathers,2015,Number,3140,36061
+Manhattan,Grandparents,2015,Number,8719,36061
+Manhattan,Other,2015,Number,3074,36061
+Queens,Married Couples,2015,Number,36748,36081
+Queens,Single Mothers,2015,Number,37019,36081
+Queens,Single Fathers,2015,Number,6368,36081
+Queens,Grandparents,2015,Number,6703,36081
+Queens,Other,2015,Number,5108,36081
+Staten Island,Married Couples,2015,Number,6332,36085
+Staten Island,Single Mothers,2015,Number,11482,36085
+Staten Island,Single Fathers,2015,Number,1180,36085
+Staten Island,Grandparents,2015,Number,1188,36085
+Staten Island,Other,2015,Number,938,36085
+New York City,Married Couples,2015,Number,178108,3651000
+New York City,Single Mothers,2015,Number,234622,3651000
+New York City,Single Fathers,2015,Number,28878,3651000
+New York City,Grandparents,2015,Number,45415,3651000
+New York City,Other,2015,Number,22342,3651000
+Battery Park/Tribeca,Married Couples,2015,Percent,0.015,101
+Battery Park/Tribeca,Single Mothers,2015,Percent,0.078,101
+Battery Park/Tribeca,Single Fathers,2015,Percent,0.154,101
+Battery Park/Tribeca,Grandparents,2015,Percent,0.115,101
+Battery Park/Tribeca,Other,2015,Percent,0,101
+Greenwich Village,Married Couples,2015,Percent,0.015,102
+Greenwich Village,Single Mothers,2015,Percent,0.078,102
+Greenwich Village,Single Fathers,2015,Percent,0.154,102
+Greenwich Village,Grandparents,2015,Percent,0.115,102
+Greenwich Village,Other,2015,Percent,0,102
+Lower East Side,Married Couples,2015,Percent,0.16,103
+Lower East Side,Single Mothers,2015,Percent,0.611,103
+Lower East Side,Single Fathers,2015,Percent,0.422,103
+Lower East Side,Grandparents,2015,Percent,0.5,103
+Lower East Side,Other,2015,Percent,0.737,103
+Chelsea/Clinton,Married Couples,2015,Percent,0.044,104
+Chelsea/Clinton,Single Mothers,2015,Percent,0.579,104
+Chelsea/Clinton,Single Fathers,2015,Percent,0,104
+Chelsea/Clinton,Grandparents,2015,Percent,0.383,104
+Chelsea/Clinton,Other,2015,Percent,1,104
+Midtown Business District,Married Couples,2015,Percent,0.044,105
+Midtown Business District,Single Mothers,2015,Percent,0.579,105
+Midtown Business District,Single Fathers,2015,Percent,0,105
+Midtown Business District,Grandparents,2015,Percent,0.383,105
+Midtown Business District,Other,2015,Percent,1,105
+Murray Hill/Stuyvesant,Married Couples,2015,Percent,0.044,106
+Murray Hill/Stuyvesant,Single Mothers,2015,Percent,0.041,106
+Murray Hill/Stuyvesant,Single Fathers,2015,Percent,0,106
+Murray Hill/Stuyvesant,Grandparents,2015,Percent,0,106
+Murray Hill/Stuyvesant,Other,2015,Percent,0,106
+Upper West Side,Married Couples,2015,Percent,0.065,107
+Upper West Side,Single Mothers,2015,Percent,0.199,107
+Upper West Side,Single Fathers,2015,Percent,0.065,107
+Upper West Side,Grandparents,2015,Percent,0.643,107
+Upper West Side,Other,2015,Percent,1,107
+Upper East Side,Married Couples,2015,Percent,0.037,108
+Upper East Side,Single Mothers,2015,Percent,0.182,108
+Upper East Side,Single Fathers,2015,Percent,0,108
+Upper East Side,Grandparents,2015,Percent,0.13,108
+Upper East Side,Other,2015,Percent,0,108
+Manhattanville,Married Couples,2015,Percent,0.126,109
+Manhattanville,Single Mothers,2015,Percent,0.668,109
+Manhattanville,Single Fathers,2015,Percent,0.115,109
+Manhattanville,Grandparents,2015,Percent,0.277,109
+Manhattanville,Other,2015,Percent,0.235,109
+Central Harlem,Married Couples,2015,Percent,0.149,110
+Central Harlem,Single Mothers,2015,Percent,0.499,110
+Central Harlem,Single Fathers,2015,Percent,0.459,110
+Central Harlem,Grandparents,2015,Percent,0.333,110
+Central Harlem,Other,2015,Percent,0.291,110
+East Harlem,Married Couples,2015,Percent,0.243,111
+East Harlem,Single Mothers,2015,Percent,0.592,111
+East Harlem,Single Fathers,2015,Percent,0.558,111
+East Harlem,Grandparents,2015,Percent,0.402,111
+East Harlem,Other,2015,Percent,0.62,111
+Washington Heights,Married Couples,2015,Percent,0.203,112
+Washington Heights,Single Mothers,2015,Percent,0.467,112
+Washington Heights,Single Fathers,2015,Percent,0.188,112
+Washington Heights,Grandparents,2015,Percent,0.493,112
+Washington Heights,Other,2015,Percent,0.343,112
+Mott Haven,Married Couples,2015,Percent,0.365,201
+Mott Haven,Single Mothers,2015,Percent,0.584,201
+Mott Haven,Single Fathers,2015,Percent,0.489,201
+Mott Haven,Grandparents,2015,Percent,0.394,201
+Mott Haven,Other,2015,Percent,0.378,201
+Hunts Point,Married Couples,2015,Percent,0.365,202
+Hunts Point,Single Mothers,2015,Percent,0.584,202
+Hunts Point,Single Fathers,2015,Percent,0.489,202
+Hunts Point,Grandparents,2015,Percent,0.394,202
+Hunts Point,Other,2015,Percent,0.378,202
+Morrisania,Married Couples,2015,Percent,0.332,203
+Morrisania,Single Mothers,2015,Percent,0.629,203
+Morrisania,Single Fathers,2015,Percent,0.527,203
+Morrisania,Grandparents,2015,Percent,0.4,203
+Morrisania,Other,2015,Percent,0.291,203
+Concourse/Highbridge,Married Couples,2015,Percent,0.38,204
+Concourse/Highbridge,Single Mothers,2015,Percent,0.601,204
+Concourse/Highbridge,Single Fathers,2015,Percent,0.438,204
+Concourse/Highbridge,Grandparents,2015,Percent,0.403,204
+Concourse/Highbridge,Other,2015,Percent,0.427,204
+University Heights,Married Couples,2015,Percent,0.447,205
+University Heights,Single Mothers,2015,Percent,0.658,205
+University Heights,Single Fathers,2015,Percent,0.532,205
+University Heights,Grandparents,2015,Percent,0.539,205
+University Heights,Other,2015,Percent,0.354,205
+East Tremont,Married Couples,2015,Percent,0.332,206
+East Tremont,Single Mothers,2015,Percent,0.629,206
+East Tremont,Single Fathers,2015,Percent,0.527,206
+East Tremont,Grandparents,2015,Percent,0.4,206
+East Tremont,Other,2015,Percent,0.291,206
+Bedford Park,Married Couples,2015,Percent,0.309,207
+Bedford Park,Single Mothers,2015,Percent,0.601,207
+Bedford Park,Single Fathers,2015,Percent,0.135,207
+Bedford Park,Grandparents,2015,Percent,0.398,207
+Bedford Park,Other,2015,Percent,0.561,207
+Riverdale,Married Couples,2015,Percent,0.08,208
+Riverdale,Single Mothers,2015,Percent,0.454,208
+Riverdale,Single Fathers,2015,Percent,0.374,208
+Riverdale,Grandparents,2015,Percent,0.486,208
+Riverdale,Other,2015,Percent,0.039,208
+Unionport/Soundview,Married Couples,2015,Percent,0.338,209
+Unionport/Soundview,Single Mothers,2015,Percent,0.567,209
+Unionport/Soundview,Single Fathers,2015,Percent,0.26,209
+Unionport/Soundview,Grandparents,2015,Percent,0.383,209
+Unionport/Soundview,Other,2015,Percent,0.429,209
+Throgs Neck,Married Couples,2015,Percent,0.038,210
+Throgs Neck,Single Mothers,2015,Percent,0.204,210
+Throgs Neck,Single Fathers,2015,Percent,0.134,210
+Throgs Neck,Grandparents,2015,Percent,0.109,210
+Throgs Neck,Other,2015,Percent,0.158,210
+Pelham Parkway,Married Couples,2015,Percent,0.216,211
+Pelham Parkway,Single Mothers,2015,Percent,0.488,211
+Pelham Parkway,Single Fathers,2015,Percent,0.361,211
+Pelham Parkway,Grandparents,2015,Percent,0.144,211
+Pelham Parkway,Other,2015,Percent,0.196,211
+Williamsbridge,Married Couples,2015,Percent,0.135,212
+Williamsbridge,Single Mothers,2015,Percent,0.509,212
+Williamsbridge,Single Fathers,2015,Percent,0.35,212
+Williamsbridge,Grandparents,2015,Percent,0.233,212
+Williamsbridge,Other,2015,Percent,0.159,212
+Williamsburg/Greenpoint,Married Couples,2015,Percent,0.39,301
+Williamsburg/Greenpoint,Single Mothers,2015,Percent,0.348,301
+Williamsburg/Greenpoint,Single Fathers,2015,Percent,0.334,301
+Williamsburg/Greenpoint,Grandparents,2015,Percent,0.382,301
+Williamsburg/Greenpoint,Other,2015,Percent,0.047,301
+Fort Greene/Brooklyn Hts,Married Couples,2015,Percent,0.138,302
+Fort Greene/Brooklyn Hts,Single Mothers,2015,Percent,0.438,302
+Fort Greene/Brooklyn Hts,Single Fathers,2015,Percent,0.062,302
+Fort Greene/Brooklyn Hts,Grandparents,2015,Percent,0.433,302
+Fort Greene/Brooklyn Hts,Other,2015,Percent,0.294,302
+Bedford Stuyvesant,Married Couples,2015,Percent,0.482,303
+Bedford Stuyvesant,Single Mothers,2015,Percent,0.558,303
+Bedford Stuyvesant,Single Fathers,2015,Percent,0.178,303
+Bedford Stuyvesant,Grandparents,2015,Percent,0.399,303
+Bedford Stuyvesant,Other,2015,Percent,0.56,303
+Bushwick,Married Couples,2015,Percent,0.176,304
+Bushwick,Single Mothers,2015,Percent,0.552,304
+Bushwick,Single Fathers,2015,Percent,0.324,304
+Bushwick,Grandparents,2015,Percent,0.26,304
+Bushwick,Other,2015,Percent,0.296,304
+East New York,Married Couples,2015,Percent,0.207,305
+East New York,Single Mothers,2015,Percent,0.564,305
+East New York,Single Fathers,2015,Percent,0.256,305
+East New York,Grandparents,2015,Percent,0.324,305
+East New York,Other,2015,Percent,0.407,305
+Park Slope,Married Couples,2015,Percent,0.023,306
+Park Slope,Single Mothers,2015,Percent,0.423,306
+Park Slope,Single Fathers,2015,Percent,0.214,306
+Park Slope,Grandparents,2015,Percent,0.074,306
+Park Slope,Other,2015,Percent,0,306
+Sunset Park,Married Couples,2015,Percent,0.4,307
+Sunset Park,Single Mothers,2015,Percent,0.602,307
+Sunset Park,Single Fathers,2015,Percent,0.466,307
+Sunset Park,Grandparents,2015,Percent,0.277,307
+Sunset Park,Other,2015,Percent,0.332,307
+Crown Heights North,Married Couples,2015,Percent,0.175,308
+Crown Heights North,Single Mothers,2015,Percent,0.526,308
+Crown Heights North,Single Fathers,2015,Percent,0.406,308
+Crown Heights North,Grandparents,2015,Percent,0.256,308
+Crown Heights North,Other,2015,Percent,0.686,308
+Crown Heights South,Married Couples,2015,Percent,0.23,309
+Crown Heights South,Single Mothers,2015,Percent,0.412,309
+Crown Heights South,Single Fathers,2015,Percent,0.238,309
+Crown Heights South,Grandparents,2015,Percent,0.196,309
+Crown Heights South,Other,2015,Percent,0.165,309
+Bay Ridge,Married Couples,2015,Percent,0.176,310
+Bay Ridge,Single Mothers,2015,Percent,0.344,310
+Bay Ridge,Single Fathers,2015,Percent,0.44,310
+Bay Ridge,Grandparents,2015,Percent,0.483,310
+Bay Ridge,Other,2015,Percent,0.159,310
+Bensonhurst,Married Couples,2015,Percent,0.24,311
+Bensonhurst,Single Mothers,2015,Percent,0.424,311
+Bensonhurst,Single Fathers,2015,Percent,0.215,311
+Bensonhurst,Grandparents,2015,Percent,0.116,311
+Bensonhurst,Other,2015,Percent,0.224,311
+Borough Park,Married Couples,2015,Percent,0.421,312
+Borough Park,Single Mothers,2015,Percent,0.601,312
+Borough Park,Single Fathers,2015,Percent,0.405,312
+Borough Park,Grandparents,2015,Percent,0.304,312
+Borough Park,Other,2015,Percent,0.22,312
+Coney Island,Married Couples,2015,Percent,0.294,313
+Coney Island,Single Mothers,2015,Percent,0.472,313
+Coney Island,Single Fathers,2015,Percent,0.516,313
+Coney Island,Grandparents,2015,Percent,0.264,313
+Coney Island,Other,2015,Percent,0.365,313
+Flatbush/Midwood,Married Couples,2015,Percent,0.251,314
+Flatbush/Midwood,Single Mothers,2015,Percent,0.448,314
+Flatbush/Midwood,Single Fathers,2015,Percent,0.334,314
+Flatbush/Midwood,Grandparents,2015,Percent,0.216,314
+Flatbush/Midwood,Other,2015,Percent,0.34,314
+Sheepshead Bay,Married Couples,2015,Percent,0.217,315
+Sheepshead Bay,Single Mothers,2015,Percent,0.256,315
+Sheepshead Bay,Single Fathers,2015,Percent,0.194,315
+Sheepshead Bay,Grandparents,2015,Percent,0.11,315
+Sheepshead Bay,Other,2015,Percent,0.39,315
+Brownsville,Married Couples,2015,Percent,0.198,316
+Brownsville,Single Mothers,2015,Percent,0.58,316
+Brownsville,Single Fathers,2015,Percent,0.402,316
+Brownsville,Grandparents,2015,Percent,0.327,316
+Brownsville,Other,2015,Percent,0.337,316
+East Flatbush,Married Couples,2015,Percent,0.183,317
+East Flatbush,Single Mothers,2015,Percent,0.382,317
+East Flatbush,Single Fathers,2015,Percent,0.217,317
+East Flatbush,Grandparents,2015,Percent,0.179,317
+East Flatbush,Other,2015,Percent,0.198,317
+Canarsie,Married Couples,2015,Percent,0.076,318
+Canarsie,Single Mothers,2015,Percent,0.284,318
+Canarsie,Single Fathers,2015,Percent,0.364,318
+Canarsie,Grandparents,2015,Percent,0.126,318
+Canarsie,Other,2015,Percent,0.168,318
+Astoria,Married Couples,2015,Percent,0.181,401
+Astoria,Single Mothers,2015,Percent,0.509,401
+Astoria,Single Fathers,2015,Percent,0.189,401
+Astoria,Grandparents,2015,Percent,0.431,401
+Astoria,Other,2015,Percent,0.231,401
+Sunnyside/Woodside,Married Couples,2015,Percent,0.148,402
+Sunnyside/Woodside,Single Mothers,2015,Percent,0.552,402
+Sunnyside/Woodside,Single Fathers,2015,Percent,0.227,402
+Sunnyside/Woodside,Grandparents,2015,Percent,0.336,402
+Sunnyside/Woodside,Other,2015,Percent,0.316,402
+Jackson Heights,Married Couples,2015,Percent,0.141,403
+Jackson Heights,Single Mothers,2015,Percent,0.478,403
+Jackson Heights,Single Fathers,2015,Percent,0.263,403
+Jackson Heights,Grandparents,2015,Percent,0.201,403
+Jackson Heights,Other,2015,Percent,0.198,403
+Elmhurst/Corona,Married Couples,2015,Percent,0.209,404
+Elmhurst/Corona,Single Mothers,2015,Percent,0.477,404
+Elmhurst/Corona,Single Fathers,2015,Percent,0.293,404
+Elmhurst/Corona,Grandparents,2015,Percent,0.337,404
+Elmhurst/Corona,Other,2015,Percent,0.258,404
+Ridgewood/Glendale,Married Couples,2015,Percent,0.087,405
+Ridgewood/Glendale,Single Mothers,2015,Percent,0.42,405
+Ridgewood/Glendale,Single Fathers,2015,Percent,0.148,405
+Ridgewood/Glendale,Grandparents,2015,Percent,0.206,405
+Ridgewood/Glendale,Other,2015,Percent,0.194,405
+Rego Park/Forest Hills,Married Couples,2015,Percent,0.149,406
+Rego Park/Forest Hills,Single Mothers,2015,Percent,0.197,406
+Rego Park/Forest Hills,Single Fathers,2015,Percent,0.136,406
+Rego Park/Forest Hills,Grandparents,2015,Percent,0.138,406
+Rego Park/Forest Hills,Other,2015,Percent,0,406
+Flushing,Married Couples,2015,Percent,0.139,407
+Flushing,Single Mothers,2015,Percent,0.332,407
+Flushing,Single Fathers,2015,Percent,0.191,407
+Flushing,Grandparents,2015,Percent,0.086,407
+Flushing,Other,2015,Percent,0.249,407
+Fresh Meadows/Briarwood,Married Couples,2015,Percent,0.109,408
+Fresh Meadows/Briarwood,Single Mothers,2015,Percent,0.44,408
+Fresh Meadows/Briarwood,Single Fathers,2015,Percent,0.139,408
+Fresh Meadows/Briarwood,Grandparents,2015,Percent,0.164,408
+Fresh Meadows/Briarwood,Other,2015,Percent,0.705,408
+Woodhaven,Married Couples,2015,Percent,0.138,409
+Woodhaven,Single Mothers,2015,Percent,0.469,409
+Woodhaven,Single Fathers,2015,Percent,0.236,409
+Woodhaven,Grandparents,2015,Percent,0.104,409
+Woodhaven,Other,2015,Percent,0.253,409
+Howard Beach,Married Couples,2015,Percent,0.186,410
+Howard Beach,Single Mothers,2015,Percent,0.518,410
+Howard Beach,Single Fathers,2015,Percent,0.049,410
+Howard Beach,Grandparents,2015,Percent,0.076,410
+Howard Beach,Other,2015,Percent,0.224,410
+Bayside,Married Couples,2015,Percent,0.064,411
+Bayside,Single Mothers,2015,Percent,0.196,411
+Bayside,Single Fathers,2015,Percent,0.185,411
+Bayside,Grandparents,2015,Percent,0,411
+Bayside,Other,2015,Percent,0.027,411
+Jamaica/St. Albans,Married Couples,2015,Percent,0.133,412
+Jamaica/St. Albans,Single Mothers,2015,Percent,0.422,412
+Jamaica/St. Albans,Single Fathers,2015,Percent,0.315,412
+Jamaica/St. Albans,Grandparents,2015,Percent,0.137,412
+Jamaica/St. Albans,Other,2015,Percent,0.146,412
+Queens Village,Married Couples,2015,Percent,0.047,413
+Queens Village,Single Mothers,2015,Percent,0.254,413
+Queens Village,Single Fathers,2015,Percent,0.138,413
+Queens Village,Grandparents,2015,Percent,0.055,413
+Queens Village,Other,2015,Percent,0.178,413
+The Rockaways,Married Couples,2015,Percent,0.099,414
+The Rockaways,Single Mothers,2015,Percent,0.615,414
+The Rockaways,Single Fathers,2015,Percent,0.201,414
+The Rockaways,Grandparents,2015,Percent,0.217,414
+The Rockaways,Other,2015,Percent,0.268,414
+St. George,Married Couples,2015,Percent,0.148,501
+St. George,Single Mothers,2015,Percent,0.613,501
+St. George,Single Fathers,2015,Percent,0.303,501
+St. George,Grandparents,2015,Percent,0.15,501
+St. George,Other,2015,Percent,0.347,501
+South Beach,Married Couples,2015,Percent,0.082,502
+South Beach,Single Mothers,2015,Percent,0.413,502
+South Beach,Single Fathers,2015,Percent,0.082,502
+South Beach,Grandparents,2015,Percent,0.252,502
+South Beach,Other,2015,Percent,0.381,502
+Tottenville,Married Couples,2015,Percent,0.065,503
+Tottenville,Single Mothers,2015,Percent,0.197,503
+Tottenville,Single Fathers,2015,Percent,0.341,503
+Tottenville,Grandparents,2015,Percent,0.06,503
+Tottenville,Other,2015,Percent,0.826,503
+Bronx,Married Couples,2015,Percent,0.26,36005
+Bronx,Single Mothers,2015,Percent,0.566,36005
+Bronx,Single Fathers,2015,Percent,0.384,36005
+Bronx,Grandparents,2015,Percent,0.363,36005
+Bronx,Other,2015,Percent,0.35,36005
+Brooklyn,Married Couples,2015,Percent,0.263,36047
+Brooklyn,Single Mothers,2015,Percent,0.477,36047
+Brooklyn,Single Fathers,2015,Percent,0.319,36047
+Brooklyn,Grandparents,2015,Percent,0.261,36047
+Brooklyn,Other,2015,Percent,0.304,36047
+Manhattan,Married Couples,2015,Percent,0.093,36061
+Manhattan,Single Mothers,2015,Percent,0.481,36061
+Manhattan,Single Fathers,2015,Percent,0.248,36061
+Manhattan,Grandparents,2015,Percent,0.405,36061
+Manhattan,Other,2015,Percent,0.385,36061
+Queens,Married Couples,2015,Percent,0.129,36081
+Queens,Single Mothers,2015,Percent,0.441,36081
+Queens,Single Fathers,2015,Percent,0.221,36081
+Queens,Grandparents,2015,Percent,0.153,36081
+Queens,Other,2015,Percent,0.226,36081
+Staten Island,Married Couples,2015,Percent,0.095,36085
+Staten Island,Single Mothers,2015,Percent,0.496,36085
+Staten Island,Single Fathers,2015,Percent,0.244,36085
+Staten Island,Grandparents,2015,Percent,0.151,36085
+Staten Island,Other,2015,Percent,0.453,36085
+New York City,Married Couples,2015,Percent,0.187,3651000
+New York City,Single Mothers,2015,Percent,0.502,3651000
+New York City,Single Fathers,2015,Percent,0.293,3651000
+New York City,Grandparents,2015,Percent,0.268,3651000
+New York City,Other,2015,Percent,0.303,3651000
+Battery Park/Tribeca,Married Couples,2016,Number,111.46091,101
+Battery Park/Tribeca,Single Mothers,2016,Number,116.71088,101
+Battery Park/Tribeca,Single Fathers,2016,Number,48.05742,101
+Battery Park/Tribeca,Grandparents,2016,Number,18.17297,101
+Battery Park/Tribeca,Other,2016,Number,0,101
+Greenwich Village,Married Couples,2016,Number,164.53909,102
+Greenwich Village,Single Mothers,2016,Number,172.28912,102
+Greenwich Village,Single Fathers,2016,Number,70.94258,102
+Greenwich Village,Grandparents,2016,Number,26.82703,102
+Greenwich Village,Other,2016,Number,0,102
+Lower East Side,Married Couples,2016,Number,1138,103
+Lower East Side,Single Mothers,2016,Number,3284,103
+Lower East Side,Single Fathers,2016,Number,273,103
+Lower East Side,Grandparents,2016,Number,1501,103
+Lower East Side,Other,2016,Number,186,103
+Chelsea/Clinton,Married Couples,2016,Number,104.63255,104
+Chelsea/Clinton,Single Mothers,2016,Number,984.34569,104
+Chelsea/Clinton,Single Fathers,2016,Number,0,104
+Chelsea/Clinton,Grandparents,2016,Number,124.62603,104
+Chelsea/Clinton,Other,2016,Number,0,104
+Midtown Business District,Married Couples,2016,Number,52.36745,105
+Midtown Business District,Single Mothers,2016,Number,492.65431,105
+Midtown Business District,Single Fathers,2016,Number,0,105
+Midtown Business District,Grandparents,2016,Number,62.37397,105
+Midtown Business District,Other,2016,Number,0,105
+Murray Hill/Stuyvesant,Married Couples,2016,Number,510,106
+Murray Hill/Stuyvesant,Single Mothers,2016,Number,40,106
+Murray Hill/Stuyvesant,Single Fathers,2016,Number,0,106
+Murray Hill/Stuyvesant,Grandparents,2016,Number,0,106
+Murray Hill/Stuyvesant,Other,2016,Number,0,106
+Upper West Side,Married Couples,2016,Number,1196,107
+Upper West Side,Single Mothers,2016,Number,986,107
+Upper West Side,Single Fathers,2016,Number,32,107
+Upper West Side,Grandparents,2016,Number,453,107
+Upper West Side,Other,2016,Number,0,107
+Upper East Side,Married Couples,2016,Number,993,108
+Upper East Side,Single Mothers,2016,Number,604,108
+Upper East Side,Single Fathers,2016,Number,0,108
+Upper East Side,Grandparents,2016,Number,28,108
+Upper East Side,Other,2016,Number,0,108
+Manhattanville,Married Couples,2016,Number,1170,109
+Manhattanville,Single Mothers,2016,Number,4192,109
+Manhattanville,Single Fathers,2016,Number,314,109
+Manhattanville,Grandparents,2016,Number,879,109
+Manhattanville,Other,2016,Number,220,109
+Central Harlem,Married Couples,2016,Number,1676,110
+Central Harlem,Single Mothers,2016,Number,6705,110
+Central Harlem,Single Fathers,2016,Number,190,110
+Central Harlem,Grandparents,2016,Number,1747,110
+Central Harlem,Other,2016,Number,284,110
+East Harlem,Married Couples,2016,Number,2419,111
+East Harlem,Single Mothers,2016,Number,8260,111
+East Harlem,Single Fathers,2016,Number,223,111
+East Harlem,Grandparents,2016,Number,1664,111
+East Harlem,Other,2016,Number,376,111
+Washington Heights,Married Couples,2016,Number,3132,112
+Washington Heights,Single Mothers,2016,Number,4674,112
+Washington Heights,Single Fathers,2016,Number,709,112
+Washington Heights,Grandparents,2016,Number,3486,112
+Washington Heights,Other,2016,Number,1613,112
+Mott Haven,Married Couples,2016,Number,2912.76982,201
+Mott Haven,Single Mothers,2016,Number,7758.05038,201
+Mott Haven,Single Fathers,2016,Number,1189.67806,201
+Mott Haven,Grandparents,2016,Number,1354.53981,201
+Mott Haven,Other,2016,Number,583.06319,201
+Hunts Point,Married Couples,2016,Number,1663.23018,202
+Hunts Point,Single Mothers,2016,Number,4429.94962,202
+Hunts Point,Single Fathers,2016,Number,679.32194,202
+Hunts Point,Grandparents,2016,Number,773.46019,202
+Hunts Point,Other,2016,Number,332.93681,202
+Morrisania,Married Couples,2016,Number,1920.78521,203
+Morrisania,Single Mothers,2016,Number,7649.38275,203
+Morrisania,Single Fathers,2016,Number,970.6668,203
+Morrisania,Grandparents,2016,Number,646.29579,203
+Morrisania,Other,2016,Number,378.18822,203
+Concourse/Highbridge,Married Couples,2016,Number,5070,204
+Concourse/Highbridge,Single Mothers,2016,Number,12384,204
+Concourse/Highbridge,Single Fathers,2016,Number,939,204
+Concourse/Highbridge,Grandparents,2016,Number,1073,204
+Concourse/Highbridge,Other,2016,Number,867,204
+University Heights,Married Couples,2016,Number,5052,205
+University Heights,Single Mothers,2016,Number,12697,205
+University Heights,Single Fathers,2016,Number,834,205
+University Heights,Grandparents,2016,Number,2311,205
+University Heights,Other,2016,Number,751,205
+East Tremont,Married Couples,2016,Number,2005.21479,206
+East Tremont,Single Mothers,2016,Number,7985.61725,206
+East Tremont,Single Fathers,2016,Number,1013.3332,206
+East Tremont,Grandparents,2016,Number,674.70421,206
+East Tremont,Other,2016,Number,394.81178,206
+Bedford Park,Married Couples,2016,Number,3907,207
+Bedford Park,Single Mothers,2016,Number,7883,207
+Bedford Park,Single Fathers,2016,Number,867,207
+Bedford Park,Grandparents,2016,Number,1580,207
+Bedford Park,Other,2016,Number,337,207
+Riverdale,Married Couples,2016,Number,1650,208
+Riverdale,Single Mothers,2016,Number,2948,208
+Riverdale,Single Fathers,2016,Number,693,208
+Riverdale,Grandparents,2016,Number,1199,208
+Riverdale,Other,2016,Number,173,208
+Unionport/Soundview,Married Couples,2016,Number,5490,209
+Unionport/Soundview,Single Mothers,2016,Number,10109,209
+Unionport/Soundview,Single Fathers,2016,Number,505,209
+Unionport/Soundview,Grandparents,2016,Number,1926,209
+Unionport/Soundview,Other,2016,Number,788,209
+Throgs Neck,Married Couples,2016,Number,539,210
+Throgs Neck,Single Mothers,2016,Number,2327,210
+Throgs Neck,Single Fathers,2016,Number,752,210
+Throgs Neck,Grandparents,2016,Number,261,210
+Throgs Neck,Other,2016,Number,352,210
+Pelham Parkway,Married Couples,2016,Number,2784,211
+Pelham Parkway,Single Mothers,2016,Number,4652,211
+Pelham Parkway,Single Fathers,2016,Number,444,211
+Pelham Parkway,Grandparents,2016,Number,429,211
+Pelham Parkway,Other,2016,Number,85,211
+Williamsbridge,Married Couples,2016,Number,1787,212
+Williamsbridge,Single Mothers,2016,Number,6104,212
+Williamsbridge,Single Fathers,2016,Number,304,212
+Williamsbridge,Grandparents,2016,Number,1189,212
+Williamsbridge,Other,2016,Number,181,212
+Williamsburg/Greenpoint,Married Couples,2016,Number,10056,301
+Williamsburg/Greenpoint,Single Mothers,2016,Number,1523,301
+Williamsburg/Greenpoint,Single Fathers,2016,Number,126,301
+Williamsburg/Greenpoint,Grandparents,2016,Number,206,301
+Williamsburg/Greenpoint,Other,2016,Number,132,301
+Fort Greene/Brooklyn Hts,Married Couples,2016,Number,1989,302
+Fort Greene/Brooklyn Hts,Single Mothers,2016,Number,1831,302
+Fort Greene/Brooklyn Hts,Single Fathers,2016,Number,300,302
+Fort Greene/Brooklyn Hts,Grandparents,2016,Number,612,302
+Fort Greene/Brooklyn Hts,Other,2016,Number,214,302
+Bedford Stuyvesant,Married Couples,2016,Number,8724,303
+Bedford Stuyvesant,Single Mothers,2016,Number,5036,303
+Bedford Stuyvesant,Single Fathers,2016,Number,232,303
+Bedford Stuyvesant,Grandparents,2016,Number,953,303
+Bedford Stuyvesant,Other,2016,Number,550,303
+Bushwick,Married Couples,2016,Number,2272,304
+Bushwick,Single Mothers,2016,Number,6596,304
+Bushwick,Single Fathers,2016,Number,523,304
+Bushwick,Grandparents,2016,Number,1351,304
+Bushwick,Other,2016,Number,341,304
+East New York,Married Couples,2016,Number,3406,305
+East New York,Single Mothers,2016,Number,8306,305
+East New York,Single Fathers,2016,Number,695,305
+East New York,Grandparents,2016,Number,1688,305
+East New York,Other,2016,Number,740,305
+Park Slope,Married Couples,2016,Number,218,306
+Park Slope,Single Mothers,2016,Number,1415,306
+Park Slope,Single Fathers,2016,Number,120,306
+Park Slope,Grandparents,2016,Number,190,306
+Park Slope,Other,2016,Number,27,306
+Sunset Park,Married Couples,2016,Number,9676,307
+Sunset Park,Single Mothers,2016,Number,2764,307
+Sunset Park,Single Fathers,2016,Number,714,307
+Sunset Park,Grandparents,2016,Number,788,307
+Sunset Park,Other,2016,Number,533,307
+Crown Heights North,Married Couples,2016,Number,1542,308
+Crown Heights North,Single Mothers,2016,Number,4993,308
+Crown Heights North,Single Fathers,2016,Number,583,308
+Crown Heights North,Grandparents,2016,Number,674,308
+Crown Heights North,Other,2016,Number,1007,308
+Crown Heights South,Married Couples,2016,Number,2872,309
+Crown Heights South,Single Mothers,2016,Number,1691,309
+Crown Heights South,Single Fathers,2016,Number,145,309
+Crown Heights South,Grandparents,2016,Number,460,309
+Crown Heights South,Other,2016,Number,237,309
+Bay Ridge,Married Couples,2016,Number,3343,310
+Bay Ridge,Single Mothers,2016,Number,850,310
+Bay Ridge,Single Fathers,2016,Number,378,310
+Bay Ridge,Grandparents,2016,Number,716,310
+Bay Ridge,Other,2016,Number,189,310
+Bensonhurst,Married Couples,2016,Number,5484,311
+Bensonhurst,Single Mothers,2016,Number,2001,311
+Bensonhurst,Single Fathers,2016,Number,872,311
+Bensonhurst,Grandparents,2016,Number,171,311
+Bensonhurst,Other,2016,Number,423,311
+Borough Park,Married Couples,2016,Number,20459,312
+Borough Park,Single Mothers,2016,Number,2457,312
+Borough Park,Single Fathers,2016,Number,593,312
+Borough Park,Grandparents,2016,Number,866,312
+Borough Park,Other,2016,Number,306,312
+Coney Island,Married Couples,2016,Number,4142,313
+Coney Island,Single Mothers,2016,Number,1855,313
+Coney Island,Single Fathers,2016,Number,801,313
+Coney Island,Grandparents,2016,Number,974,313
+Coney Island,Other,2016,Number,286,313
+Flatbush/Midwood,Married Couples,2016,Number,5858,314
+Flatbush/Midwood,Single Mothers,2016,Number,3233,314
+Flatbush/Midwood,Single Fathers,2016,Number,360,314
+Flatbush/Midwood,Grandparents,2016,Number,1046,314
+Flatbush/Midwood,Other,2016,Number,669,314
+Sheepshead Bay,Married Couples,2016,Number,4708,315
+Sheepshead Bay,Single Mothers,2016,Number,961,315
+Sheepshead Bay,Single Fathers,2016,Number,510,315
+Sheepshead Bay,Grandparents,2016,Number,452,315
+Sheepshead Bay,Other,2016,Number,0,315
+Brownsville,Married Couples,2016,Number,1735,316
+Brownsville,Single Mothers,2016,Number,8490,316
+Brownsville,Single Fathers,2016,Number,1174,316
+Brownsville,Grandparents,2016,Number,921,316
+Brownsville,Other,2016,Number,357,316
+East Flatbush,Married Couples,2016,Number,1698,317
+East Flatbush,Single Mothers,2016,Number,3764,317
+East Flatbush,Single Fathers,2016,Number,235,317
+East Flatbush,Grandparents,2016,Number,469,317
+East Flatbush,Other,2016,Number,561,317
+Canarsie,Married Couples,2016,Number,1401,318
+Canarsie,Single Mothers,2016,Number,4484,318
+Canarsie,Single Fathers,2016,Number,584,318
+Canarsie,Grandparents,2016,Number,695,318
+Canarsie,Other,2016,Number,269,318
+Astoria,Married Couples,2016,Number,2118,401
+Astoria,Single Mothers,2016,Number,2785,401
+Astoria,Single Fathers,2016,Number,147,401
+Astoria,Grandparents,2016,Number,835,401
+Astoria,Other,2016,Number,360,401
+Sunnyside/Woodside,Married Couples,2016,Number,2035,402
+Sunnyside/Woodside,Single Mothers,2016,Number,1234,402
+Sunnyside/Woodside,Single Fathers,2016,Number,227,402
+Sunnyside/Woodside,Grandparents,2016,Number,574,402
+Sunnyside/Woodside,Other,2016,Number,237,402
+Jackson Heights,Married Couples,2016,Number,2692,403
+Jackson Heights,Single Mothers,2016,Number,2888,403
+Jackson Heights,Single Fathers,2016,Number,1677,403
+Jackson Heights,Grandparents,2016,Number,481,403
+Jackson Heights,Other,2016,Number,696,403
+Elmhurst/Corona,Married Couples,2016,Number,3639,404
+Elmhurst/Corona,Single Mothers,2016,Number,3065,404
+Elmhurst/Corona,Single Fathers,2016,Number,525,404
+Elmhurst/Corona,Grandparents,2016,Number,757,404
+Elmhurst/Corona,Other,2016,Number,869,404
+Ridgewood/Glendale,Married Couples,2016,Number,1765,405
+Ridgewood/Glendale,Single Mothers,2016,Number,2736,405
+Ridgewood/Glendale,Single Fathers,2016,Number,458,405
+Ridgewood/Glendale,Grandparents,2016,Number,212,405
+Ridgewood/Glendale,Other,2016,Number,143,405
+Rego Park/Forest Hills,Married Couples,2016,Number,1833,406
+Rego Park/Forest Hills,Single Mothers,2016,Number,502,406
+Rego Park/Forest Hills,Single Fathers,2016,Number,20,406
+Rego Park/Forest Hills,Grandparents,2016,Number,140,406
+Rego Park/Forest Hills,Other,2016,Number,87,406
+Flushing,Married Couples,2016,Number,3952,407
+Flushing,Single Mothers,2016,Number,1448,407
+Flushing,Single Fathers,2016,Number,428,407
+Flushing,Grandparents,2016,Number,755,407
+Flushing,Other,2016,Number,300,407
+Fresh Meadows/Briarwood,Married Couples,2016,Number,2394,408
+Fresh Meadows/Briarwood,Single Mothers,2016,Number,1779,408
+Fresh Meadows/Briarwood,Single Fathers,2016,Number,82,408
+Fresh Meadows/Briarwood,Grandparents,2016,Number,53,408
+Fresh Meadows/Briarwood,Other,2016,Number,299,408
+Woodhaven,Married Couples,2016,Number,2759,409
+Woodhaven,Single Mothers,2016,Number,2925,409
+Woodhaven,Single Fathers,2016,Number,539,409
+Woodhaven,Grandparents,2016,Number,266,409
+Woodhaven,Other,2016,Number,413,409
+Howard Beach,Married Couples,2016,Number,3598,410
+Howard Beach,Single Mothers,2016,Number,2234,410
+Howard Beach,Single Fathers,2016,Number,105,410
+Howard Beach,Grandparents,2016,Number,291,410
+Howard Beach,Other,2016,Number,258,410
+Bayside,Married Couples,2016,Number,1291,411
+Bayside,Single Mothers,2016,Number,518,411
+Bayside,Single Fathers,2016,Number,108,411
+Bayside,Grandparents,2016,Number,0,411
+Bayside,Other,2016,Number,12,411
+Jamaica/St. Albans,Married Couples,2016,Number,2476,412
+Jamaica/St. Albans,Single Mothers,2016,Number,5206,412
+Jamaica/St. Albans,Single Fathers,2016,Number,936,412
+Jamaica/St. Albans,Grandparents,2016,Number,1087,412
+Jamaica/St. Albans,Other,2016,Number,449,412
+Queens Village,Married Couples,2016,Number,897,413
+Queens Village,Single Mothers,2016,Number,2191,413
+Queens Village,Single Fathers,2016,Number,519,413
+Queens Village,Grandparents,2016,Number,530,413
+Queens Village,Other,2016,Number,400,413
+The Rockaways,Married Couples,2016,Number,1455,414
+The Rockaways,Single Mothers,2016,Number,5199,414
+The Rockaways,Single Fathers,2016,Number,478,414
+The Rockaways,Grandparents,2016,Number,1294,414
+The Rockaways,Other,2016,Number,119,414
+St. George,Married Couples,2016,Number,3786,501
+St. George,Single Mothers,2016,Number,8532,501
+St. George,Single Fathers,2016,Number,606,501
+St. George,Grandparents,2016,Number,78,501
+St. George,Other,2016,Number,502,501
+South Beach,Married Couples,2016,Number,1494,502
+South Beach,Single Mothers,2016,Number,1757,502
+South Beach,Single Fathers,2016,Number,27,502
+South Beach,Grandparents,2016,Number,512,502
+South Beach,Other,2016,Number,133,502
+Tottenville,Married Couples,2016,Number,1714,503
+Tottenville,Single Mothers,2016,Number,1059,503
+Tottenville,Single Fathers,2016,Number,0,503
+Tottenville,Grandparents,2016,Number,123,503
+Tottenville,Other,2016,Number,392,503
+Bronx,Married Couples,2016,Number,34780,36005
+Bronx,Single Mothers,2016,Number,86927,36005
+Bronx,Single Fathers,2016,Number,9191,36005
+Bronx,Grandparents,2016,Number,13417,36005
+Bronx,Other,2016,Number,5223,36005
+Brooklyn,Married Couples,2016,Number,89583,36047
+Brooklyn,Single Mothers,2016,Number,62251,36047
+Brooklyn,Single Fathers,2016,Number,8945,36047
+Brooklyn,Grandparents,2016,Number,13230,36047
+Brooklyn,Other,2016,Number,6840,36047
+Manhattan,Married Couples,2016,Number,12667,36061
+Manhattan,Single Mothers,2016,Number,30510,36061
+Manhattan,Single Fathers,2016,Number,1860,36061
+Manhattan,Grandparents,2016,Number,9990,36061
+Manhattan,Other,2016,Number,2680,36061
+Queens,Married Couples,2016,Number,32904,36081
+Queens,Single Mothers,2016,Number,34709,36081
+Queens,Single Fathers,2016,Number,6248,36081
+Queens,Grandparents,2016,Number,7274,36081
+Queens,Other,2016,Number,4642,36081
+Staten Island,Married Couples,2016,Number,6994,36085
+Staten Island,Single Mothers,2016,Number,11348,36085
+Staten Island,Single Fathers,2016,Number,633,36085
+Staten Island,Grandparents,2016,Number,713,36085
+Staten Island,Other,2016,Number,1028,36085
+New York City,Married Couples,2016,Number,176929,3651000
+New York City,Single Mothers,2016,Number,225746,3651000
+New York City,Single Fathers,2016,Number,26877,3651000
+New York City,Grandparents,2016,Number,44624,3651000
+New York City,Other,2016,Number,20413,3651000
+Battery Park/Tribeca,Married Couples,2016,Percent,0.016,101
+Battery Park/Tribeca,Single Mothers,2016,Percent,0.136,101
+Battery Park/Tribeca,Single Fathers,2016,Percent,0.237,101
+Battery Park/Tribeca,Grandparents,2016,Percent,1,101
+Battery Park/Tribeca,Other,2016,Percent,0,101
+Greenwich Village,Married Couples,2016,Percent,0.016,102
+Greenwich Village,Single Mothers,2016,Percent,0.136,102
+Greenwich Village,Single Fathers,2016,Percent,0.237,102
+Greenwich Village,Grandparents,2016,Percent,1,102
+Greenwich Village,Other,2016,Percent,0,102
+Lower East Side,Married Couples,2016,Percent,0.151,103
+Lower East Side,Single Mothers,2016,Percent,0.513,103
+Lower East Side,Single Fathers,2016,Percent,0.348,103
+Lower East Side,Grandparents,2016,Percent,0.561,103
+Lower East Side,Other,2016,Percent,0.631,103
+Chelsea/Clinton,Married Couples,2016,Percent,0.021,104
+Chelsea/Clinton,Single Mothers,2016,Percent,0.528,104
+Chelsea/Clinton,Single Fathers,2016,Percent,0,104
+Chelsea/Clinton,Grandparents,2016,Percent,0.299,104
+Chelsea/Clinton,Other,2016,Percent,0,104
+Midtown Business District,Married Couples,2016,Percent,0.021,105
+Midtown Business District,Single Mothers,2016,Percent,0.528,105
+Midtown Business District,Single Fathers,2016,Percent,0,105
+Midtown Business District,Grandparents,2016,Percent,0.299,105
+Midtown Business District,Other,2016,Percent,0,105
+Murray Hill/Stuyvesant,Married Couples,2016,Percent,0.052,106
+Murray Hill/Stuyvesant,Single Mothers,2016,Percent,0.055,106
+Murray Hill/Stuyvesant,Single Fathers,2016,Percent,0,106
+Murray Hill/Stuyvesant,Grandparents,2016,Percent,0,106
+Murray Hill/Stuyvesant,Other,2016,Percent,0,106
+Upper West Side,Married Couples,2016,Percent,0.056,107
+Upper West Side,Single Mothers,2016,Percent,0.253,107
+Upper West Side,Single Fathers,2016,Percent,0.075,107
+Upper West Side,Grandparents,2016,Percent,0.635,107
+Upper West Side,Other,2016,Percent,0,107
+Upper East Side,Married Couples,2016,Percent,0.034,108
+Upper East Side,Single Mothers,2016,Percent,0.177,108
+Upper East Side,Single Fathers,2016,Percent,0,108
+Upper East Side,Grandparents,2016,Percent,0.327,108
+Upper East Side,Other,2016,Percent,0,108
+Manhattanville,Married Couples,2016,Percent,0.139,109
+Manhattanville,Single Mothers,2016,Percent,0.646,109
+Manhattanville,Single Fathers,2016,Percent,0.229,109
+Manhattanville,Grandparents,2016,Percent,0.298,109
+Manhattanville,Other,2016,Percent,0.157,109
+Central Harlem,Married Couples,2016,Percent,0.194,110
+Central Harlem,Single Mothers,2016,Percent,0.532,110
+Central Harlem,Single Fathers,2016,Percent,0.126,110
+Central Harlem,Grandparents,2016,Percent,0.415,110
+Central Harlem,Other,2016,Percent,0.178,110
+East Harlem,Married Couples,2016,Percent,0.268,111
+East Harlem,Single Mothers,2016,Percent,0.662,111
+East Harlem,Single Fathers,2016,Percent,0.245,111
+East Harlem,Grandparents,2016,Percent,0.475,111
+East Harlem,Other,2016,Percent,0.53,111
+Washington Heights,Married Couples,2016,Percent,0.198,112
+Washington Heights,Single Mothers,2016,Percent,0.451,112
+Washington Heights,Single Fathers,2016,Percent,0.278,112
+Washington Heights,Grandparents,2016,Percent,0.498,112
+Washington Heights,Other,2016,Percent,0.413,112
+Mott Haven,Married Couples,2016,Percent,0.349,201
+Mott Haven,Single Mothers,2016,Percent,0.59,201
+Mott Haven,Single Fathers,2016,Percent,0.42,201
+Mott Haven,Grandparents,2016,Percent,0.366,201
+Mott Haven,Other,2016,Percent,0.551,201
+Hunts Point,Married Couples,2016,Percent,0.349,202
+Hunts Point,Single Mothers,2016,Percent,0.59,202
+Hunts Point,Single Fathers,2016,Percent,0.42,202
+Hunts Point,Grandparents,2016,Percent,0.366,202
+Hunts Point,Other,2016,Percent,0.551,202
+Morrisania,Married Couples,2016,Percent,0.316,203
+Morrisania,Single Mothers,2016,Percent,0.634,203
+Morrisania,Single Fathers,2016,Percent,0.596,203
+Morrisania,Grandparents,2016,Percent,0.299,203
+Morrisania,Other,2016,Percent,0.315,203
+Concourse/Highbridge,Married Couples,2016,Percent,0.431,204
+Concourse/Highbridge,Single Mothers,2016,Percent,0.599,204
+Concourse/Highbridge,Single Fathers,2016,Percent,0.351,204
+Concourse/Highbridge,Grandparents,2016,Percent,0.341,204
+Concourse/Highbridge,Other,2016,Percent,0.345,204
+University Heights,Married Couples,2016,Percent,0.466,205
+University Heights,Single Mothers,2016,Percent,0.666,205
+University Heights,Single Fathers,2016,Percent,0.599,205
+University Heights,Grandparents,2016,Percent,0.526,205
+University Heights,Other,2016,Percent,0.392,205
+East Tremont,Married Couples,2016,Percent,0.316,206
+East Tremont,Single Mothers,2016,Percent,0.634,206
+East Tremont,Single Fathers,2016,Percent,0.596,206
+East Tremont,Grandparents,2016,Percent,0.299,206
+East Tremont,Other,2016,Percent,0.315,206
+Bedford Park,Married Couples,2016,Percent,0.307,207
+Bedford Park,Single Mothers,2016,Percent,0.586,207
+Bedford Park,Single Fathers,2016,Percent,0.297,207
+Bedford Park,Grandparents,2016,Percent,0.38,207
+Bedford Park,Other,2016,Percent,0.261,207
+Riverdale,Married Couples,2016,Percent,0.148,208
+Riverdale,Single Mothers,2016,Percent,0.452,208
+Riverdale,Single Fathers,2016,Percent,0.288,208
+Riverdale,Grandparents,2016,Percent,0.569,208
+Riverdale,Other,2016,Percent,0.216,208
+Unionport/Soundview,Married Couples,2016,Percent,0.301,209
+Unionport/Soundview,Single Mothers,2016,Percent,0.577,209
+Unionport/Soundview,Single Fathers,2016,Percent,0.207,209
+Unionport/Soundview,Grandparents,2016,Percent,0.382,209
+Unionport/Soundview,Other,2016,Percent,0.442,209
+Throgs Neck,Married Couples,2016,Percent,0.053,210
+Throgs Neck,Single Mothers,2016,Percent,0.357,210
+Throgs Neck,Single Fathers,2016,Percent,0.304,210
+Throgs Neck,Grandparents,2016,Percent,0.156,210
+Throgs Neck,Other,2016,Percent,0.296,210
+Pelham Parkway,Married Couples,2016,Percent,0.186,211
+Pelham Parkway,Single Mothers,2016,Percent,0.526,211
+Pelham Parkway,Single Fathers,2016,Percent,0.301,211
+Pelham Parkway,Grandparents,2016,Percent,0.122,211
+Pelham Parkway,Other,2016,Percent,0.155,211
+Williamsbridge,Married Couples,2016,Percent,0.141,212
+Williamsbridge,Single Mothers,2016,Percent,0.494,212
+Williamsbridge,Single Fathers,2016,Percent,0.244,212
+Williamsbridge,Grandparents,2016,Percent,0.257,212
+Williamsbridge,Other,2016,Percent,0.115,212
+Williamsburg/Greenpoint,Married Couples,2016,Percent,0.375,301
+Williamsburg/Greenpoint,Single Mothers,2016,Percent,0.384,301
+Williamsburg/Greenpoint,Single Fathers,2016,Percent,0.134,301
+Williamsburg/Greenpoint,Grandparents,2016,Percent,0.113,301
+Williamsburg/Greenpoint,Other,2016,Percent,0.177,301
+Fort Greene/Brooklyn Hts,Married Couples,2016,Percent,0.129,302
+Fort Greene/Brooklyn Hts,Single Mothers,2016,Percent,0.354,302
+Fort Greene/Brooklyn Hts,Single Fathers,2016,Percent,0.228,302
+Fort Greene/Brooklyn Hts,Grandparents,2016,Percent,0.294,302
+Fort Greene/Brooklyn Hts,Other,2016,Percent,0.471,302
+Bedford Stuyvesant,Married Couples,2016,Percent,0.5,303
+Bedford Stuyvesant,Single Mothers,2016,Percent,0.425,303
+Bedford Stuyvesant,Single Fathers,2016,Percent,0.153,303
+Bedford Stuyvesant,Grandparents,2016,Percent,0.242,303
+Bedford Stuyvesant,Other,2016,Percent,0.416,303
+Bushwick,Married Couples,2016,Percent,0.224,304
+Bushwick,Single Mothers,2016,Percent,0.646,304
+Bushwick,Single Fathers,2016,Percent,0.321,304
+Bushwick,Grandparents,2016,Percent,0.36,304
+Bushwick,Other,2016,Percent,0.266,304
+East New York,Married Couples,2016,Percent,0.259,305
+East New York,Single Mothers,2016,Percent,0.501,305
+East New York,Single Fathers,2016,Percent,0.244,305
+East New York,Grandparents,2016,Percent,0.286,305
+East New York,Other,2016,Percent,0.448,305
+Park Slope,Married Couples,2016,Percent,0.011,306
+Park Slope,Single Mothers,2016,Percent,0.406,306
+Park Slope,Single Fathers,2016,Percent,0.289,306
+Park Slope,Grandparents,2016,Percent,0.115,306
+Park Slope,Other,2016,Percent,0.145,306
+Sunset Park,Married Couples,2016,Percent,0.386,307
+Sunset Park,Single Mothers,2016,Percent,0.585,307
+Sunset Park,Single Fathers,2016,Percent,0.39,307
+Sunset Park,Grandparents,2016,Percent,0.36,307
+Sunset Park,Other,2016,Percent,0.25,307
+Crown Heights North,Married Couples,2016,Percent,0.159,308
+Crown Heights North,Single Mothers,2016,Percent,0.486,308
+Crown Heights North,Single Fathers,2016,Percent,0.436,308
+Crown Heights North,Grandparents,2016,Percent,0.251,308
+Crown Heights North,Other,2016,Percent,0.614,308
+Crown Heights South,Married Couples,2016,Percent,0.232,309
+Crown Heights South,Single Mothers,2016,Percent,0.271,309
+Crown Heights South,Single Fathers,2016,Percent,0.122,309
+Crown Heights South,Grandparents,2016,Percent,0.154,309
+Crown Heights South,Other,2016,Percent,0.141,309
+Bay Ridge,Married Couples,2016,Percent,0.2,310
+Bay Ridge,Single Mothers,2016,Percent,0.296,310
+Bay Ridge,Single Fathers,2016,Percent,0.325,310
+Bay Ridge,Grandparents,2016,Percent,0.305,310
+Bay Ridge,Other,2016,Percent,0.168,310
+Bensonhurst,Married Couples,2016,Percent,0.205,311
+Bensonhurst,Single Mothers,2016,Percent,0.349,311
+Bensonhurst,Single Fathers,2016,Percent,0.367,311
+Bensonhurst,Grandparents,2016,Percent,0.07,311
+Bensonhurst,Other,2016,Percent,0.204,311
+Borough Park,Married Couples,2016,Percent,0.406,312
+Borough Park,Single Mothers,2016,Percent,0.712,312
+Borough Park,Single Fathers,2016,Percent,0.483,312
+Borough Park,Grandparents,2016,Percent,0.35,312
+Borough Park,Other,2016,Percent,0.234,312
+Coney Island,Married Couples,2016,Percent,0.336,313
+Coney Island,Single Mothers,2016,Percent,0.353,313
+Coney Island,Single Fathers,2016,Percent,0.489,313
+Coney Island,Grandparents,2016,Percent,0.307,313
+Coney Island,Other,2016,Percent,0.481,313
+Flatbush/Midwood,Married Couples,2016,Percent,0.217,314
+Flatbush/Midwood,Single Mothers,2016,Percent,0.427,314
+Flatbush/Midwood,Single Fathers,2016,Percent,0.259,314
+Flatbush/Midwood,Grandparents,2016,Percent,0.194,314
+Flatbush/Midwood,Other,2016,Percent,0.345,314
+Sheepshead Bay,Married Couples,2016,Percent,0.204,315
+Sheepshead Bay,Single Mothers,2016,Percent,0.259,315
+Sheepshead Bay,Single Fathers,2016,Percent,0.436,315
+Sheepshead Bay,Grandparents,2016,Percent,0.246,315
+Sheepshead Bay,Other,2016,Percent,0,315
+Brownsville,Married Couples,2016,Percent,0.27,316
+Brownsville,Single Mothers,2016,Percent,0.603,316
+Brownsville,Single Fathers,2016,Percent,0.493,316
+Brownsville,Grandparents,2016,Percent,0.236,316
+Brownsville,Other,2016,Percent,0.191,316
+East Flatbush,Married Couples,2016,Percent,0.151,317
+East Flatbush,Single Mothers,2016,Percent,0.356,317
+East Flatbush,Single Fathers,2016,Percent,0.133,317
+East Flatbush,Grandparents,2016,Percent,0.078,317
+East Flatbush,Other,2016,Percent,0.289,317
+Canarsie,Married Couples,2016,Percent,0.055,318
+Canarsie,Single Mothers,2016,Percent,0.35,318
+Canarsie,Single Fathers,2016,Percent,0.242,318
+Canarsie,Grandparents,2016,Percent,0.108,318
+Canarsie,Other,2016,Percent,0.115,318
+Astoria,Married Couples,2016,Percent,0.141,401
+Astoria,Single Mothers,2016,Percent,0.455,401
+Astoria,Single Fathers,2016,Percent,0.135,401
+Astoria,Grandparents,2016,Percent,0.412,401
+Astoria,Other,2016,Percent,0.291,401
+Sunnyside/Woodside,Married Couples,2016,Percent,0.119,402
+Sunnyside/Woodside,Single Mothers,2016,Percent,0.417,402
+Sunnyside/Woodside,Single Fathers,2016,Percent,0.14,402
+Sunnyside/Woodside,Grandparents,2016,Percent,0.357,402
+Sunnyside/Woodside,Other,2016,Percent,0.236,402
+Jackson Heights,Married Couples,2016,Percent,0.127,403
+Jackson Heights,Single Mothers,2016,Percent,0.461,403
+Jackson Heights,Single Fathers,2016,Percent,0.29,403
+Jackson Heights,Grandparents,2016,Percent,0.182,403
+Jackson Heights,Other,2016,Percent,0.258,403
+Elmhurst/Corona,Married Couples,2016,Percent,0.188,404
+Elmhurst/Corona,Single Mothers,2016,Percent,0.531,404
+Elmhurst/Corona,Single Fathers,2016,Percent,0.245,404
+Elmhurst/Corona,Grandparents,2016,Percent,0.316,404
+Elmhurst/Corona,Other,2016,Percent,0.325,404
+Ridgewood/Glendale,Married Couples,2016,Percent,0.07,405
+Ridgewood/Glendale,Single Mothers,2016,Percent,0.385,405
+Ridgewood/Glendale,Single Fathers,2016,Percent,0.15,405
+Ridgewood/Glendale,Grandparents,2016,Percent,0.089,405
+Ridgewood/Glendale,Other,2016,Percent,0.105,405
+Rego Park/Forest Hills,Married Couples,2016,Percent,0.113,406
+Rego Park/Forest Hills,Single Mothers,2016,Percent,0.236,406
+Rego Park/Forest Hills,Single Fathers,2016,Percent,0.031,406
+Rego Park/Forest Hills,Grandparents,2016,Percent,0.159,406
+Rego Park/Forest Hills,Other,2016,Percent,0.174,406
+Flushing,Married Couples,2016,Percent,0.123,407
+Flushing,Single Mothers,2016,Percent,0.324,407
+Flushing,Single Fathers,2016,Percent,0.269,407
+Flushing,Grandparents,2016,Percent,0.251,407
+Flushing,Other,2016,Percent,0.268,407
+Fresh Meadows/Briarwood,Married Couples,2016,Percent,0.099,408
+Fresh Meadows/Briarwood,Single Mothers,2016,Percent,0.336,408
+Fresh Meadows/Briarwood,Single Fathers,2016,Percent,0.154,408
+Fresh Meadows/Briarwood,Grandparents,2016,Percent,0.032,408
+Fresh Meadows/Briarwood,Other,2016,Percent,0.402,408
+Woodhaven,Married Couples,2016,Percent,0.128,409
+Woodhaven,Single Mothers,2016,Percent,0.422,409
+Woodhaven,Single Fathers,2016,Percent,0.301,409
+Woodhaven,Grandparents,2016,Percent,0.094,409
+Woodhaven,Other,2016,Percent,0.209,409
+Howard Beach,Married Couples,2016,Percent,0.202,410
+Howard Beach,Single Mothers,2016,Percent,0.493,410
+Howard Beach,Single Fathers,2016,Percent,0.072,410
+Howard Beach,Grandparents,2016,Percent,0.09,410
+Howard Beach,Other,2016,Percent,0.175,410
+Bayside,Married Couples,2016,Percent,0.073,411
+Bayside,Single Mothers,2016,Percent,0.211,411
+Bayside,Single Fathers,2016,Percent,0.108,411
+Bayside,Grandparents,2016,Percent,0,411
+Bayside,Other,2016,Percent,0.021,411
+Jamaica/St. Albans,Married Couples,2016,Percent,0.103,412
+Jamaica/St. Albans,Single Mothers,2016,Percent,0.375,412
+Jamaica/St. Albans,Single Fathers,2016,Percent,0.236,412
+Jamaica/St. Albans,Grandparents,2016,Percent,0.1,412
+Jamaica/St. Albans,Other,2016,Percent,0.146,412
+Queens Village,Married Couples,2016,Percent,0.044,413
+Queens Village,Single Mothers,2016,Percent,0.288,413
+Queens Village,Single Fathers,2016,Percent,0.319,413
+Queens Village,Grandparents,2016,Percent,0.089,413
+Queens Village,Other,2016,Percent,0.134,413
+The Rockaways,Married Couples,2016,Percent,0.086,414
+The Rockaways,Single Mothers,2016,Percent,0.536,414
+The Rockaways,Single Fathers,2016,Percent,0.347,414
+The Rockaways,Grandparents,2016,Percent,0.388,414
+The Rockaways,Other,2016,Percent,0.179,414
+St. George,Married Couples,2016,Percent,0.175,501
+St. George,Single Mothers,2016,Percent,0.66,501
+St. George,Single Fathers,2016,Percent,0.332,501
+St. George,Grandparents,2016,Percent,0.024,501
+St. George,Other,2016,Percent,0.48,501
+South Beach,Married Couples,2016,Percent,0.076,502
+South Beach,Single Mothers,2016,Percent,0.395,502
+South Beach,Single Fathers,2016,Percent,0.021,502
+South Beach,Grandparents,2016,Percent,0.258,502
+South Beach,Other,2016,Percent,0.273,502
+Tottenville,Married Couples,2016,Percent,0.062,503
+Tottenville,Single Mothers,2016,Percent,0.241,503
+Tottenville,Single Fathers,2016,Percent,0,503
+Tottenville,Grandparents,2016,Percent,0.059,503
+Tottenville,Other,2016,Percent,0.936,503
+Bronx,Married Couples,2016,Percent,0.271,36005
+Bronx,Single Mothers,2016,Percent,0.579,36005
+Bronx,Single Fathers,2016,Percent,0.371,36005
+Bronx,Grandparents,2016,Percent,0.345,36005
+Bronx,Other,2016,Percent,0.332,36005
+Brooklyn,Married Couples,2016,Percent,0.257,36047
+Brooklyn,Single Mothers,2016,Percent,0.449,36047
+Brooklyn,Single Fathers,2016,Percent,0.313,36047
+Brooklyn,Grandparents,2016,Percent,0.217,36047
+Brooklyn,Other,2016,Percent,0.274,36047
+Manhattan,Married Couples,2016,Percent,0.094,36061
+Manhattan,Single Mothers,2016,Percent,0.498,36061
+Manhattan,Single Fathers,2016,Percent,0.182,36061
+Manhattan,Grandparents,2016,Percent,0.453,36061
+Manhattan,Other,2016,Percent,0.308,36061
+Queens,Married Couples,2016,Percent,0.114,36081
+Queens,Single Mothers,2016,Percent,0.407,36081
+Queens,Single Fathers,2016,Percent,0.226,36081
+Queens,Grandparents,2016,Percent,0.168,36081
+Queens,Other,2016,Percent,0.21,36081
+Staten Island,Married Couples,2016,Percent,0.102,36085
+Staten Island,Single Mothers,2016,Percent,0.521,36085
+Staten Island,Single Fathers,2016,Percent,0.164,36085
+Staten Island,Grandparents,2016,Percent,0.098,36085
+Staten Island,Other,2016,Percent,0.526,36085
+New York City,Married Couples,2016,Percent,0.183,3651000
+New York City,Single Mothers,2016,Percent,0.494,3651000
+New York City,Single Fathers,2016,Percent,0.283,3651000
+New York City,Grandparents,2016,Percent,0.258,3651000
+New York City,Other,2016,Percent,0.278,3651000
+Battery Park/Tribeca,Married Couples,2017,Number,163.55676,101
+Battery Park/Tribeca,Single Mothers,2017,Number,84.40337,101
+Battery Park/Tribeca,Single Fathers,2017,Number,48.05742,101
+Battery Park/Tribeca,Grandparents,2017,Number,0,101
+Battery Park/Tribeca,Other,2017,Number,0,101
+Greenwich Village,Married Couples,2017,Number,241.44324,102
+Greenwich Village,Single Mothers,2017,Number,124.59663,102
+Greenwich Village,Single Fathers,2017,Number,70.94258,102
+Greenwich Village,Grandparents,2017,Number,0,102
+Greenwich Village,Other,2017,Number,0,102
+Lower East Side,Married Couples,2017,Number,1562,103
+Lower East Side,Single Mothers,2017,Number,3445,103
+Lower East Side,Single Fathers,2017,Number,346,103
+Lower East Side,Grandparents,2017,Number,1844,103
+Lower East Side,Other,2017,Number,339,103
+Chelsea/Clinton,Married Couples,2017,Number,149.9511,104
+Chelsea/Clinton,Single Mothers,2017,Number,811.06886,104
+Chelsea/Clinton,Single Fathers,2017,Number,0,104
+Chelsea/Clinton,Grandparents,2017,Number,184.60647,104
+Chelsea/Clinton,Other,2017,Number,0,104
+Midtown Business District,Married Couples,2017,Number,75.0489,105
+Midtown Business District,Single Mothers,2017,Number,405.93114,105
+Midtown Business District,Single Fathers,2017,Number,0,105
+Midtown Business District,Grandparents,2017,Number,92.39353,105
+Midtown Business District,Other,2017,Number,0,105
+Murray Hill/Stuyvesant,Married Couples,2017,Number,509,106
+Murray Hill/Stuyvesant,Single Mothers,2017,Number,0,106
+Murray Hill/Stuyvesant,Single Fathers,2017,Number,0,106
+Murray Hill/Stuyvesant,Grandparents,2017,Number,0,106
+Murray Hill/Stuyvesant,Other,2017,Number,0,106
+Upper West Side,Married Couples,2017,Number,1137,107
+Upper West Side,Single Mothers,2017,Number,1566,107
+Upper West Side,Single Fathers,2017,Number,0,107
+Upper West Side,Grandparents,2017,Number,453,107
+Upper West Side,Other,2017,Number,0,107
+Upper East Side,Married Couples,2017,Number,149,108
+Upper East Side,Single Mothers,2017,Number,965,108
+Upper East Side,Single Fathers,2017,Number,73,108
+Upper East Side,Grandparents,2017,Number,0,108
+Upper East Side,Other,2017,Number,0,108
+Manhattanville,Married Couples,2017,Number,800,109
+Manhattanville,Single Mothers,2017,Number,4058,109
+Manhattanville,Single Fathers,2017,Number,481,109
+Manhattanville,Grandparents,2017,Number,1083,109
+Manhattanville,Other,2017,Number,335,109
+Central Harlem,Married Couples,2017,Number,1319,110
+Central Harlem,Single Mothers,2017,Number,7935,110
+Central Harlem,Single Fathers,2017,Number,247,110
+Central Harlem,Grandparents,2017,Number,1364,110
+Central Harlem,Other,2017,Number,244,110
+East Harlem,Married Couples,2017,Number,2669,111
+East Harlem,Single Mothers,2017,Number,9300,111
+East Harlem,Single Fathers,2017,Number,319,111
+East Harlem,Grandparents,2017,Number,1473,111
+East Harlem,Other,2017,Number,390,111
+Washington Heights,Married Couples,2017,Number,2409,112
+Washington Heights,Single Mothers,2017,Number,4198,112
+Washington Heights,Single Fathers,2017,Number,875,112
+Washington Heights,Grandparents,2017,Number,2942,112
+Washington Heights,Other,2017,Number,1083,112
+Mott Haven,Married Couples,2017,Number,2487.56653,201
+Mott Haven,Single Mothers,2017,Number,8763.1342,201
+Mott Haven,Single Fathers,2017,Number,742.19616,201
+Mott Haven,Grandparents,2017,Number,1325.25934,201
+Mott Haven,Other,2017,Number,439.20699,201
+Hunts Point,Married Couples,2017,Number,1420.43347,202
+Hunts Point,Single Mothers,2017,Number,5003.8658,202
+Hunts Point,Single Fathers,2017,Number,423.80384,202
+Hunts Point,Grandparents,2017,Number,756.74066,202
+Hunts Point,Other,2017,Number,250.79301,202
+Morrisania,Married Couples,2017,Number,2019.12393,203
+Morrisania,Single Mothers,2017,Number,7407.2053,203
+Morrisania,Single Fathers,2017,Number,956.96787,203
+Morrisania,Grandparents,2017,Number,601.28503,203
+Morrisania,Other,2017,Number,224.56455,203
+Concourse/Highbridge,Married Couples,2017,Number,4772,204
+Concourse/Highbridge,Single Mothers,2017,Number,13434,204
+Concourse/Highbridge,Single Fathers,2017,Number,796,204
+Concourse/Highbridge,Grandparents,2017,Number,1145,204
+Concourse/Highbridge,Other,2017,Number,613,204
+University Heights,Married Couples,2017,Number,5115,205
+University Heights,Single Mothers,2017,Number,12346,205
+University Heights,Single Fathers,2017,Number,573,205
+University Heights,Grandparents,2017,Number,1596,205
+University Heights,Other,2017,Number,495,205
+East Tremont,Married Couples,2017,Number,2107.87607,206
+East Tremont,Single Mothers,2017,Number,7732.7947,206
+East Tremont,Single Fathers,2017,Number,999.03213,206
+East Tremont,Grandparents,2017,Number,627.71497,206
+East Tremont,Other,2017,Number,234.43545,206
+Bedford Park,Married Couples,2017,Number,4102,207
+Bedford Park,Single Mothers,2017,Number,8760,207
+Bedford Park,Single Fathers,2017,Number,867,207
+Bedford Park,Grandparents,2017,Number,2325,207
+Bedford Park,Other,2017,Number,352,207
+Riverdale,Married Couples,2017,Number,1712,208
+Riverdale,Single Mothers,2017,Number,3646,208
+Riverdale,Single Fathers,2017,Number,308,208
+Riverdale,Grandparents,2017,Number,905,208
+Riverdale,Other,2017,Number,199,208
+Unionport/Soundview,Married Couples,2017,Number,5195,209
+Unionport/Soundview,Single Mothers,2017,Number,9530,209
+Unionport/Soundview,Single Fathers,2017,Number,642,209
+Unionport/Soundview,Grandparents,2017,Number,1411,209
+Unionport/Soundview,Other,2017,Number,361,209
+Throgs Neck,Married Couples,2017,Number,549,210
+Throgs Neck,Single Mothers,2017,Number,2145,210
+Throgs Neck,Single Fathers,2017,Number,578,210
+Throgs Neck,Grandparents,2017,Number,261,210
+Throgs Neck,Other,2017,Number,337,210
+Pelham Parkway,Married Couples,2017,Number,2116,211
+Pelham Parkway,Single Mothers,2017,Number,4250,211
+Pelham Parkway,Single Fathers,2017,Number,419,211
+Pelham Parkway,Grandparents,2017,Number,584,211
+Pelham Parkway,Other,2017,Number,64,211
+Williamsbridge,Married Couples,2017,Number,1450,212
+Williamsbridge,Single Mothers,2017,Number,5731,212
+Williamsbridge,Single Fathers,2017,Number,318,212
+Williamsbridge,Grandparents,2017,Number,1265,212
+Williamsbridge,Other,2017,Number,181,212
+Williamsburg/Greenpoint,Married Couples,2017,Number,8668,301
+Williamsburg/Greenpoint,Single Mothers,2017,Number,1464,301
+Williamsburg/Greenpoint,Single Fathers,2017,Number,126,301
+Williamsburg/Greenpoint,Grandparents,2017,Number,212,301
+Williamsburg/Greenpoint,Other,2017,Number,158,301
+Fort Greene/Brooklyn Hts,Married Couples,2017,Number,1929,302
+Fort Greene/Brooklyn Hts,Single Mothers,2017,Number,2219,302
+Fort Greene/Brooklyn Hts,Single Fathers,2017,Number,300,302
+Fort Greene/Brooklyn Hts,Grandparents,2017,Number,560,302
+Fort Greene/Brooklyn Hts,Other,2017,Number,325,302
+Bedford Stuyvesant,Married Couples,2017,Number,7997,303
+Bedford Stuyvesant,Single Mothers,2017,Number,4755,303
+Bedford Stuyvesant,Single Fathers,2017,Number,803,303
+Bedford Stuyvesant,Grandparents,2017,Number,1068,303
+Bedford Stuyvesant,Other,2017,Number,401,303
+Bushwick,Married Couples,2017,Number,2208,304
+Bushwick,Single Mothers,2017,Number,7382,304
+Bushwick,Single Fathers,2017,Number,282,304
+Bushwick,Grandparents,2017,Number,2046,304
+Bushwick,Other,2017,Number,314,304
+East New York,Married Couples,2017,Number,3775,305
+East New York,Single Mothers,2017,Number,8386,305
+East New York,Single Fathers,2017,Number,308,305
+East New York,Grandparents,2017,Number,1365,305
+East New York,Other,2017,Number,574,305
+Park Slope,Married Couples,2017,Number,240,306
+Park Slope,Single Mothers,2017,Number,1415,306
+Park Slope,Single Fathers,2017,Number,14,306
+Park Slope,Grandparents,2017,Number,306,306
+Park Slope,Other,2017,Number,104,306
+Sunset Park,Married Couples,2017,Number,8013,307
+Sunset Park,Single Mothers,2017,Number,2812,307
+Sunset Park,Single Fathers,2017,Number,342,307
+Sunset Park,Grandparents,2017,Number,1322,307
+Sunset Park,Other,2017,Number,662,307
+Crown Heights North,Married Couples,2017,Number,1250,308
+Crown Heights North,Single Mothers,2017,Number,4756,308
+Crown Heights North,Single Fathers,2017,Number,1295,308
+Crown Heights North,Grandparents,2017,Number,554,308
+Crown Heights North,Other,2017,Number,400,308
+Crown Heights South,Married Couples,2017,Number,3043,309
+Crown Heights South,Single Mothers,2017,Number,2316,309
+Crown Heights South,Single Fathers,2017,Number,294,309
+Crown Heights South,Grandparents,2017,Number,278,309
+Crown Heights South,Other,2017,Number,56,309
+Bay Ridge,Married Couples,2017,Number,2088,310
+Bay Ridge,Single Mothers,2017,Number,808,310
+Bay Ridge,Single Fathers,2017,Number,255,310
+Bay Ridge,Grandparents,2017,Number,454,310
+Bay Ridge,Other,2017,Number,318,310
+Bensonhurst,Married Couples,2017,Number,5813,311
+Bensonhurst,Single Mothers,2017,Number,1443,311
+Bensonhurst,Single Fathers,2017,Number,1195,311
+Bensonhurst,Grandparents,2017,Number,367,311
+Bensonhurst,Other,2017,Number,416,311
+Borough Park,Married Couples,2017,Number,18999,312
+Borough Park,Single Mothers,2017,Number,1669,312
+Borough Park,Single Fathers,2017,Number,395,312
+Borough Park,Grandparents,2017,Number,800,312
+Borough Park,Other,2017,Number,318,312
+Coney Island,Married Couples,2017,Number,3473,313
+Coney Island,Single Mothers,2017,Number,2101,313
+Coney Island,Single Fathers,2017,Number,461,313
+Coney Island,Grandparents,2017,Number,830,313
+Coney Island,Other,2017,Number,113,313
+Flatbush/Midwood,Married Couples,2017,Number,4248,314
+Flatbush/Midwood,Single Mothers,2017,Number,3708,314
+Flatbush/Midwood,Single Fathers,2017,Number,102,314
+Flatbush/Midwood,Grandparents,2017,Number,606,314
+Flatbush/Midwood,Other,2017,Number,238,314
+Sheepshead Bay,Married Couples,2017,Number,3977,315
+Sheepshead Bay,Single Mothers,2017,Number,1049,315
+Sheepshead Bay,Single Fathers,2017,Number,920,315
+Sheepshead Bay,Grandparents,2017,Number,404,315
+Sheepshead Bay,Other,2017,Number,81,315
+Brownsville,Married Couples,2017,Number,1384,316
+Brownsville,Single Mothers,2017,Number,6034,316
+Brownsville,Single Fathers,2017,Number,1476,316
+Brownsville,Grandparents,2017,Number,471,316
+Brownsville,Other,2017,Number,345,316
+East Flatbush,Married Couples,2017,Number,1213,317
+East Flatbush,Single Mothers,2017,Number,3634,317
+East Flatbush,Single Fathers,2017,Number,286,317
+East Flatbush,Grandparents,2017,Number,550,317
+East Flatbush,Other,2017,Number,352,317
+Canarsie,Married Couples,2017,Number,1421,318
+Canarsie,Single Mothers,2017,Number,4040,318
+Canarsie,Single Fathers,2017,Number,541,318
+Canarsie,Grandparents,2017,Number,645,318
+Canarsie,Other,2017,Number,209,318
+Astoria,Married Couples,2017,Number,2047,401
+Astoria,Single Mothers,2017,Number,2082,401
+Astoria,Single Fathers,2017,Number,98,401
+Astoria,Grandparents,2017,Number,629,401
+Astoria,Other,2017,Number,285,401
+Sunnyside/Woodside,Married Couples,2017,Number,1917,402
+Sunnyside/Woodside,Single Mothers,2017,Number,748,402
+Sunnyside/Woodside,Single Fathers,2017,Number,136,402
+Sunnyside/Woodside,Grandparents,2017,Number,274,402
+Sunnyside/Woodside,Other,2017,Number,316,402
+Jackson Heights,Married Couples,2017,Number,3320,403
+Jackson Heights,Single Mothers,2017,Number,2629,403
+Jackson Heights,Single Fathers,2017,Number,1690,403
+Jackson Heights,Grandparents,2017,Number,753,403
+Jackson Heights,Other,2017,Number,514,403
+Elmhurst/Corona,Married Couples,2017,Number,3180,404
+Elmhurst/Corona,Single Mothers,2017,Number,2517,404
+Elmhurst/Corona,Single Fathers,2017,Number,516,404
+Elmhurst/Corona,Grandparents,2017,Number,512,404
+Elmhurst/Corona,Other,2017,Number,250,404
+Ridgewood/Glendale,Married Couples,2017,Number,1816,405
+Ridgewood/Glendale,Single Mothers,2017,Number,2191,405
+Ridgewood/Glendale,Single Fathers,2017,Number,544,405
+Ridgewood/Glendale,Grandparents,2017,Number,310,405
+Ridgewood/Glendale,Other,2017,Number,120,405
+Rego Park/Forest Hills,Married Couples,2017,Number,2057,406
+Rego Park/Forest Hills,Single Mothers,2017,Number,458,406
+Rego Park/Forest Hills,Single Fathers,2017,Number,20,406
+Rego Park/Forest Hills,Grandparents,2017,Number,0,406
+Rego Park/Forest Hills,Other,2017,Number,87,406
+Flushing,Married Couples,2017,Number,3463,407
+Flushing,Single Mothers,2017,Number,921,407
+Flushing,Single Fathers,2017,Number,283,407
+Flushing,Grandparents,2017,Number,1141,407
+Flushing,Other,2017,Number,439,407
+Fresh Meadows/Briarwood,Married Couples,2017,Number,3240,408
+Fresh Meadows/Briarwood,Single Mothers,2017,Number,1168,408
+Fresh Meadows/Briarwood,Single Fathers,2017,Number,82,408
+Fresh Meadows/Briarwood,Grandparents,2017,Number,197,408
+Fresh Meadows/Briarwood,Other,2017,Number,184,408
+Woodhaven,Married Couples,2017,Number,2492,409
+Woodhaven,Single Mothers,2017,Number,2649,409
+Woodhaven,Single Fathers,2017,Number,361,409
+Woodhaven,Grandparents,2017,Number,237,409
+Woodhaven,Other,2017,Number,594,409
+Howard Beach,Married Couples,2017,Number,2349,410
+Howard Beach,Single Mothers,2017,Number,1360,410
+Howard Beach,Single Fathers,2017,Number,166,410
+Howard Beach,Grandparents,2017,Number,361,410
+Howard Beach,Other,2017,Number,298,410
+Bayside,Married Couples,2017,Number,1252,411
+Bayside,Single Mothers,2017,Number,571,411
+Bayside,Single Fathers,2017,Number,52,411
+Bayside,Grandparents,2017,Number,52,411
+Bayside,Other,2017,Number,27,411
+Jamaica/St. Albans,Married Couples,2017,Number,1963,412
+Jamaica/St. Albans,Single Mothers,2017,Number,4446,412
+Jamaica/St. Albans,Single Fathers,2017,Number,877,412
+Jamaica/St. Albans,Grandparents,2017,Number,746,412
+Jamaica/St. Albans,Other,2017,Number,420,412
+Queens Village,Married Couples,2017,Number,1115,413
+Queens Village,Single Mothers,2017,Number,1765,413
+Queens Village,Single Fathers,2017,Number,595,413
+Queens Village,Grandparents,2017,Number,661,413
+Queens Village,Other,2017,Number,413,413
+The Rockaways,Married Couples,2017,Number,1290,414
+The Rockaways,Single Mothers,2017,Number,5730,414
+The Rockaways,Single Fathers,2017,Number,567,414
+The Rockaways,Grandparents,2017,Number,1552,414
+The Rockaways,Other,2017,Number,119,414
+St. George,Married Couples,2017,Number,3695,501
+St. George,Single Mothers,2017,Number,6746,501
+St. George,Single Fathers,2017,Number,188,501
+St. George,Grandparents,2017,Number,78,501
+St. George,Other,2017,Number,583,501
+South Beach,Married Couples,2017,Number,2848,502
+South Beach,Single Mothers,2017,Number,1470,502
+South Beach,Single Fathers,2017,Number,0,502
+South Beach,Grandparents,2017,Number,442,502
+South Beach,Other,2017,Number,770,502
+Tottenville,Married Couples,2017,Number,1565,503
+Tottenville,Single Mothers,2017,Number,872,503
+Tottenville,Single Fathers,2017,Number,0,503
+Tottenville,Grandparents,2017,Number,106,503
+Tottenville,Other,2017,Number,93,503
+Bronx,Married Couples,2017,Number,33046,36005
+Bronx,Single Mothers,2017,Number,88750,36005
+Bronx,Single Fathers,2017,Number,7622,36005
+Bronx,Grandparents,2017,Number,12803,36005
+Bronx,Other,2017,Number,3751,36005
+Brooklyn,Married Couples,2017,Number,79740,36047
+Brooklyn,Single Mothers,2017,Number,59990,36047
+Brooklyn,Single Fathers,2017,Number,9395,36047
+Brooklyn,Grandparents,2017,Number,12837,36047
+Brooklyn,Other,2017,Number,5384,36047
+Manhattan,Married Couples,2017,Number,11185,36061
+Manhattan,Single Mothers,2017,Number,32893,36061
+Manhattan,Single Fathers,2017,Number,2461,36061
+Manhattan,Grandparents,2017,Number,9436,36061
+Manhattan,Other,2017,Number,2391,36061
+Queens,Married Couples,2017,Number,31501,36081
+Queens,Single Mothers,2017,Number,29234,36081
+Queens,Single Fathers,2017,Number,5989,36081
+Queens,Grandparents,2017,Number,7424,36081
+Queens,Other,2017,Number,4065,36081
+Staten Island,Married Couples,2017,Number,8108,36085
+Staten Island,Single Mothers,2017,Number,9088,36085
+Staten Island,Single Fathers,2017,Number,188,36085
+Staten Island,Grandparents,2017,Number,626,36085
+Staten Island,Other,2017,Number,1446,36085
+New York City,Married Couples,2017,Number,163581,3651000
+New York City,Single Mothers,2017,Number,219956,3651000
+New York City,Single Fathers,2017,Number,25656,3651000
+New York City,Grandparents,2017,Number,43126,3651000
+New York City,Other,2017,Number,17036,3651000
+Battery Park/Tribeca,Married Couples,2017,Percent,0.024,101
+Battery Park/Tribeca,Single Mothers,2017,Percent,0.147,101
+Battery Park/Tribeca,Single Fathers,2017,Percent,0.132,101
+Battery Park/Tribeca,Grandparents,2017,Percent,0,101
+Battery Park/Tribeca,Other,2017,Percent,0,101
+Greenwich Village,Married Couples,2017,Percent,0.024,102
+Greenwich Village,Single Mothers,2017,Percent,0.147,102
+Greenwich Village,Single Fathers,2017,Percent,0.132,102
+Greenwich Village,Grandparents,2017,Percent,0,102
+Greenwich Village,Other,2017,Percent,0,102
+Lower East Side,Married Couples,2017,Percent,0.204,103
+Lower East Side,Single Mothers,2017,Percent,0.569,103
+Lower East Side,Single Fathers,2017,Percent,0.339,103
+Lower East Side,Grandparents,2017,Percent,0.472,103
+Lower East Side,Other,2017,Percent,0.927,103
+Chelsea/Clinton,Married Couples,2017,Percent,0.029,104
+Chelsea/Clinton,Single Mothers,2017,Percent,0.548,104
+Chelsea/Clinton,Single Fathers,2017,Percent,0,104
+Chelsea/Clinton,Grandparents,2017,Percent,0.39,104
+Chelsea/Clinton,Other,2017,Percent,0,104
+Midtown Business District,Married Couples,2017,Percent,0.029,105
+Midtown Business District,Single Mothers,2017,Percent,0.548,105
+Midtown Business District,Single Fathers,2017,Percent,0,105
+Midtown Business District,Grandparents,2017,Percent,0.39,105
+Midtown Business District,Other,2017,Percent,0,105
+Murray Hill/Stuyvesant,Married Couples,2017,Percent,0.055,106
+Murray Hill/Stuyvesant,Single Mothers,2017,Percent,0,106
+Murray Hill/Stuyvesant,Single Fathers,2017,Percent,0,106
+Murray Hill/Stuyvesant,Grandparents,2017,Percent,0,106
+Murray Hill/Stuyvesant,Other,2017,Percent,0,106
+Upper West Side,Married Couples,2017,Percent,0.05,107
+Upper West Side,Single Mothers,2017,Percent,0.34,107
+Upper West Side,Single Fathers,2017,Percent,0,107
+Upper West Side,Grandparents,2017,Percent,0.484,107
+Upper West Side,Other,2017,Percent,0,107
+Upper East Side,Married Couples,2017,Percent,0.005,108
+Upper East Side,Single Mothers,2017,Percent,0.281,108
+Upper East Side,Single Fathers,2017,Percent,0.067,108
+Upper East Side,Grandparents,2017,Percent,0,108
+Upper East Side,Other,2017,Percent,0,108
+Manhattanville,Married Couples,2017,Percent,0.099,109
+Manhattanville,Single Mothers,2017,Percent,0.673,109
+Manhattanville,Single Fathers,2017,Percent,0.474,109
+Manhattanville,Grandparents,2017,Percent,0.33,109
+Manhattanville,Other,2017,Percent,0.256,109
+Central Harlem,Married Couples,2017,Percent,0.175,110
+Central Harlem,Single Mothers,2017,Percent,0.536,110
+Central Harlem,Single Fathers,2017,Percent,0.141,110
+Central Harlem,Grandparents,2017,Percent,0.374,110
+Central Harlem,Other,2017,Percent,0.183,110
+East Harlem,Married Couples,2017,Percent,0.302,111
+East Harlem,Single Mothers,2017,Percent,0.713,111
+East Harlem,Single Fathers,2017,Percent,0.52,111
+East Harlem,Grandparents,2017,Percent,0.479,111
+East Harlem,Other,2017,Percent,0.568,111
+Washington Heights,Married Couples,2017,Percent,0.154,112
+Washington Heights,Single Mothers,2017,Percent,0.416,112
+Washington Heights,Single Fathers,2017,Percent,0.337,112
+Washington Heights,Grandparents,2017,Percent,0.441,112
+Washington Heights,Other,2017,Percent,0.302,112
+Mott Haven,Married Couples,2017,Percent,0.345,201
+Mott Haven,Single Mothers,2017,Percent,0.667,201
+Mott Haven,Single Fathers,2017,Percent,0.29,201
+Mott Haven,Grandparents,2017,Percent,0.373,201
+Mott Haven,Other,2017,Percent,0.531,201
+Hunts Point,Married Couples,2017,Percent,0.345,202
+Hunts Point,Single Mothers,2017,Percent,0.667,202
+Hunts Point,Single Fathers,2017,Percent,0.29,202
+Hunts Point,Grandparents,2017,Percent,0.373,202
+Hunts Point,Other,2017,Percent,0.531,202
+Morrisania,Married Couples,2017,Percent,0.283,203
+Morrisania,Single Mothers,2017,Percent,0.65,203
+Morrisania,Single Fathers,2017,Percent,0.574,203
+Morrisania,Grandparents,2017,Percent,0.252,203
+Morrisania,Other,2017,Percent,0.315,203
+Concourse/Highbridge,Married Couples,2017,Percent,0.396,204
+Concourse/Highbridge,Single Mothers,2017,Percent,0.64,204
+Concourse/Highbridge,Single Fathers,2017,Percent,0.323,204
+Concourse/Highbridge,Grandparents,2017,Percent,0.36,204
+Concourse/Highbridge,Other,2017,Percent,0.336,204
+University Heights,Married Couples,2017,Percent,0.372,205
+University Heights,Single Mothers,2017,Percent,0.666,205
+University Heights,Single Fathers,2017,Percent,0.398,205
+University Heights,Grandparents,2017,Percent,0.394,205
+University Heights,Other,2017,Percent,0.325,205
+East Tremont,Married Couples,2017,Percent,0.283,206
+East Tremont,Single Mothers,2017,Percent,0.65,206
+East Tremont,Single Fathers,2017,Percent,0.574,206
+East Tremont,Grandparents,2017,Percent,0.252,206
+East Tremont,Other,2017,Percent,0.315,206
+Bedford Park,Married Couples,2017,Percent,0.331,207
+Bedford Park,Single Mothers,2017,Percent,0.61,207
+Bedford Park,Single Fathers,2017,Percent,0.278,207
+Bedford Park,Grandparents,2017,Percent,0.447,207
+Bedford Park,Other,2017,Percent,0.255,207
+Riverdale,Married Couples,2017,Percent,0.146,208
+Riverdale,Single Mothers,2017,Percent,0.524,208
+Riverdale,Single Fathers,2017,Percent,0.169,208
+Riverdale,Grandparents,2017,Percent,0.407,208
+Riverdale,Other,2017,Percent,0.236,208
+Unionport/Soundview,Married Couples,2017,Percent,0.267,209
+Unionport/Soundview,Single Mothers,2017,Percent,0.541,209
+Unionport/Soundview,Single Fathers,2017,Percent,0.247,209
+Unionport/Soundview,Grandparents,2017,Percent,0.283,209
+Unionport/Soundview,Other,2017,Percent,0.414,209
+Throgs Neck,Married Couples,2017,Percent,0.058,210
+Throgs Neck,Single Mothers,2017,Percent,0.382,210
+Throgs Neck,Single Fathers,2017,Percent,0.238,210
+Throgs Neck,Grandparents,2017,Percent,0.107,210
+Throgs Neck,Other,2017,Percent,0.231,210
+Pelham Parkway,Married Couples,2017,Percent,0.154,211
+Pelham Parkway,Single Mothers,2017,Percent,0.536,211
+Pelham Parkway,Single Fathers,2017,Percent,0.328,211
+Pelham Parkway,Grandparents,2017,Percent,0.16,211
+Pelham Parkway,Other,2017,Percent,0.123,211
+Williamsbridge,Married Couples,2017,Percent,0.118,212
+Williamsbridge,Single Mothers,2017,Percent,0.466,212
+Williamsbridge,Single Fathers,2017,Percent,0.254,212
+Williamsbridge,Grandparents,2017,Percent,0.281,212
+Williamsbridge,Other,2017,Percent,0.098,212
+Williamsburg/Greenpoint,Married Couples,2017,Percent,0.336,301
+Williamsburg/Greenpoint,Single Mothers,2017,Percent,0.354,301
+Williamsburg/Greenpoint,Single Fathers,2017,Percent,0.151,301
+Williamsburg/Greenpoint,Grandparents,2017,Percent,0.142,301
+Williamsburg/Greenpoint,Other,2017,Percent,0.219,301
+Fort Greene/Brooklyn Hts,Married Couples,2017,Percent,0.132,302
+Fort Greene/Brooklyn Hts,Single Mothers,2017,Percent,0.436,302
+Fort Greene/Brooklyn Hts,Single Fathers,2017,Percent,0.237,302
+Fort Greene/Brooklyn Hts,Grandparents,2017,Percent,0.271,302
+Fort Greene/Brooklyn Hts,Other,2017,Percent,0.635,302
+Bedford Stuyvesant,Married Couples,2017,Percent,0.406,303
+Bedford Stuyvesant,Single Mothers,2017,Percent,0.445,303
+Bedford Stuyvesant,Single Fathers,2017,Percent,0.48,303
+Bedford Stuyvesant,Grandparents,2017,Percent,0.263,303
+Bedford Stuyvesant,Other,2017,Percent,0.303,303
+Bushwick,Married Couples,2017,Percent,0.241,304
+Bushwick,Single Mothers,2017,Percent,0.683,304
+Bushwick,Single Fathers,2017,Percent,0.199,304
+Bushwick,Grandparents,2017,Percent,0.408,304
+Bushwick,Other,2017,Percent,0.254,304
+East New York,Married Couples,2017,Percent,0.241,305
+East New York,Single Mothers,2017,Percent,0.494,305
+East New York,Single Fathers,2017,Percent,0.126,305
+East New York,Grandparents,2017,Percent,0.234,305
+East New York,Other,2017,Percent,0.273,305
+Park Slope,Married Couples,2017,Percent,0.013,306
+Park Slope,Single Mothers,2017,Percent,0.361,306
+Park Slope,Single Fathers,2017,Percent,0.028,306
+Park Slope,Grandparents,2017,Percent,0.195,306
+Park Slope,Other,2017,Percent,0.183,306
+Sunset Park,Married Couples,2017,Percent,0.33,307
+Sunset Park,Single Mothers,2017,Percent,0.613,307
+Sunset Park,Single Fathers,2017,Percent,0.203,307
+Sunset Park,Grandparents,2017,Percent,0.491,307
+Sunset Park,Other,2017,Percent,0.307,307
+Crown Heights North,Married Couples,2017,Percent,0.128,308
+Crown Heights North,Single Mothers,2017,Percent,0.458,308
+Crown Heights North,Single Fathers,2017,Percent,0.556,308
+Crown Heights North,Grandparents,2017,Percent,0.224,308
+Crown Heights North,Other,2017,Percent,0.379,308
+Crown Heights South,Married Couples,2017,Percent,0.245,309
+Crown Heights South,Single Mothers,2017,Percent,0.329,309
+Crown Heights South,Single Fathers,2017,Percent,0.183,309
+Crown Heights South,Grandparents,2017,Percent,0.119,309
+Crown Heights South,Other,2017,Percent,0.059,309
+Bay Ridge,Married Couples,2017,Percent,0.132,310
+Bay Ridge,Single Mothers,2017,Percent,0.275,310
+Bay Ridge,Single Fathers,2017,Percent,0.291,310
+Bay Ridge,Grandparents,2017,Percent,0.216,310
+Bay Ridge,Other,2017,Percent,0.385,310
+Bensonhurst,Married Couples,2017,Percent,0.201,311
+Bensonhurst,Single Mothers,2017,Percent,0.302,311
+Bensonhurst,Single Fathers,2017,Percent,0.436,311
+Bensonhurst,Grandparents,2017,Percent,0.148,311
+Bensonhurst,Other,2017,Percent,0.158,311
+Borough Park,Married Couples,2017,Percent,0.399,312
+Borough Park,Single Mothers,2017,Percent,0.638,312
+Borough Park,Single Fathers,2017,Percent,0.375,312
+Borough Park,Grandparents,2017,Percent,0.364,312
+Borough Park,Other,2017,Percent,0.271,312
+Coney Island,Married Couples,2017,Percent,0.271,313
+Coney Island,Single Mothers,2017,Percent,0.336,313
+Coney Island,Single Fathers,2017,Percent,0.321,313
+Coney Island,Grandparents,2017,Percent,0.302,313
+Coney Island,Other,2017,Percent,0.171,313
+Flatbush/Midwood,Married Couples,2017,Percent,0.163,314
+Flatbush/Midwood,Single Mothers,2017,Percent,0.463,314
+Flatbush/Midwood,Single Fathers,2017,Percent,0.123,314
+Flatbush/Midwood,Grandparents,2017,Percent,0.162,314
+Flatbush/Midwood,Other,2017,Percent,0.16,314
+Sheepshead Bay,Married Couples,2017,Percent,0.151,315
+Sheepshead Bay,Single Mothers,2017,Percent,0.274,315
+Sheepshead Bay,Single Fathers,2017,Percent,0.573,315
+Sheepshead Bay,Grandparents,2017,Percent,0.184,315
+Sheepshead Bay,Other,2017,Percent,0.097,315
+Brownsville,Married Couples,2017,Percent,0.244,316
+Brownsville,Single Mothers,2017,Percent,0.522,316
+Brownsville,Single Fathers,2017,Percent,0.605,316
+Brownsville,Grandparents,2017,Percent,0.153,316
+Brownsville,Other,2017,Percent,0.14,316
+East Flatbush,Married Couples,2017,Percent,0.108,317
+East Flatbush,Single Mothers,2017,Percent,0.334,317
+East Flatbush,Single Fathers,2017,Percent,0.136,317
+East Flatbush,Grandparents,2017,Percent,0.099,317
+East Flatbush,Other,2017,Percent,0.195,317
+Canarsie,Married Couples,2017,Percent,0.054,318
+Canarsie,Single Mothers,2017,Percent,0.318,318
+Canarsie,Single Fathers,2017,Percent,0.217,318
+Canarsie,Grandparents,2017,Percent,0.103,318
+Canarsie,Other,2017,Percent,0.073,318
+Astoria,Married Couples,2017,Percent,0.129,401
+Astoria,Single Mothers,2017,Percent,0.341,401
+Astoria,Single Fathers,2017,Percent,0.097,401
+Astoria,Grandparents,2017,Percent,0.306,401
+Astoria,Other,2017,Percent,0.265,401
+Sunnyside/Woodside,Married Couples,2017,Percent,0.124,402
+Sunnyside/Woodside,Single Mothers,2017,Percent,0.278,402
+Sunnyside/Woodside,Single Fathers,2017,Percent,0.092,402
+Sunnyside/Woodside,Grandparents,2017,Percent,0.239,402
+Sunnyside/Woodside,Other,2017,Percent,0.339,402
+Jackson Heights,Married Couples,2017,Percent,0.148,403
+Jackson Heights,Single Mothers,2017,Percent,0.507,403
+Jackson Heights,Single Fathers,2017,Percent,0.361,403
+Jackson Heights,Grandparents,2017,Percent,0.241,403
+Jackson Heights,Other,2017,Percent,0.182,403
+Elmhurst/Corona,Married Couples,2017,Percent,0.173,404
+Elmhurst/Corona,Single Mothers,2017,Percent,0.392,404
+Elmhurst/Corona,Single Fathers,2017,Percent,0.271,404
+Elmhurst/Corona,Grandparents,2017,Percent,0.223,404
+Elmhurst/Corona,Other,2017,Percent,0.142,404
+Ridgewood/Glendale,Married Couples,2017,Percent,0.065,405
+Ridgewood/Glendale,Single Mothers,2017,Percent,0.313,405
+Ridgewood/Glendale,Single Fathers,2017,Percent,0.187,405
+Ridgewood/Glendale,Grandparents,2017,Percent,0.101,405
+Ridgewood/Glendale,Other,2017,Percent,0.086,405
+Rego Park/Forest Hills,Married Couples,2017,Percent,0.115,406
+Rego Park/Forest Hills,Single Mothers,2017,Percent,0.249,406
+Rego Park/Forest Hills,Single Fathers,2017,Percent,0.025,406
+Rego Park/Forest Hills,Grandparents,2017,Percent,0,406
+Rego Park/Forest Hills,Other,2017,Percent,0.19,406
+Flushing,Married Couples,2017,Percent,0.109,407
+Flushing,Single Mothers,2017,Percent,0.204,407
+Flushing,Single Fathers,2017,Percent,0.19,407
+Flushing,Grandparents,2017,Percent,0.333,407
+Flushing,Other,2017,Percent,0.43,407
+Fresh Meadows/Briarwood,Married Couples,2017,Percent,0.131,408
+Fresh Meadows/Briarwood,Single Mothers,2017,Percent,0.263,408
+Fresh Meadows/Briarwood,Single Fathers,2017,Percent,0.081,408
+Fresh Meadows/Briarwood,Grandparents,2017,Percent,0.087,408
+Fresh Meadows/Briarwood,Other,2017,Percent,0.273,408
+Woodhaven,Married Couples,2017,Percent,0.127,409
+Woodhaven,Single Mothers,2017,Percent,0.412,409
+Woodhaven,Single Fathers,2017,Percent,0.178,409
+Woodhaven,Grandparents,2017,Percent,0.081,409
+Woodhaven,Other,2017,Percent,0.255,409
+Howard Beach,Married Couples,2017,Percent,0.14,410
+Howard Beach,Single Mothers,2017,Percent,0.313,410
+Howard Beach,Single Fathers,2017,Percent,0.127,410
+Howard Beach,Grandparents,2017,Percent,0.103,410
+Howard Beach,Other,2017,Percent,0.298,410
+Bayside,Married Couples,2017,Percent,0.076,411
+Bayside,Single Mothers,2017,Percent,0.236,411
+Bayside,Single Fathers,2017,Percent,0.053,411
+Bayside,Grandparents,2017,Percent,0.188,411
+Bayside,Other,2017,Percent,0.035,411
+Jamaica/St. Albans,Married Couples,2017,Percent,0.086,412
+Jamaica/St. Albans,Single Mothers,2017,Percent,0.32,412
+Jamaica/St. Albans,Single Fathers,2017,Percent,0.264,412
+Jamaica/St. Albans,Grandparents,2017,Percent,0.072,412
+Jamaica/St. Albans,Other,2017,Percent,0.143,412
+Queens Village,Married Couples,2017,Percent,0.051,413
+Queens Village,Single Mothers,2017,Percent,0.251,413
+Queens Village,Single Fathers,2017,Percent,0.319,413
+Queens Village,Grandparents,2017,Percent,0.099,413
+Queens Village,Other,2017,Percent,0.136,413
+The Rockaways,Married Couples,2017,Percent,0.074,414
+The Rockaways,Single Mothers,2017,Percent,0.533,414
+The Rockaways,Single Fathers,2017,Percent,0.244,414
+The Rockaways,Grandparents,2017,Percent,0.34,414
+The Rockaways,Other,2017,Percent,0.179,414
+St. George,Married Couples,2017,Percent,0.17,501
+St. George,Single Mothers,2017,Percent,0.615,501
+St. George,Single Fathers,2017,Percent,0.145,501
+St. George,Grandparents,2017,Percent,0.02,501
+St. George,Other,2017,Percent,0.449,501
+South Beach,Married Couples,2017,Percent,0.125,502
+South Beach,Single Mothers,2017,Percent,0.358,502
+South Beach,Single Fathers,2017,Percent,0,502
+South Beach,Grandparents,2017,Percent,0.209,502
+South Beach,Other,2017,Percent,0.666,502
+Tottenville,Married Couples,2017,Percent,0.058,503
+Tottenville,Single Mothers,2017,Percent,0.243,503
+Tottenville,Single Fathers,2017,Percent,0,503
+Tottenville,Grandparents,2017,Percent,0.069,503
+Tottenville,Other,2017,Percent,0.543,503
+Bronx,Married Couples,2017,Percent,0.253,36005
+Bronx,Single Mothers,2017,Percent,0.599,36005
+Bronx,Single Fathers,2017,Percent,0.32,36005
+Bronx,Grandparents,2017,Percent,0.315,36005
+Bronx,Other,2017,Percent,0.288,36005
+Brooklyn,Married Couples,2017,Percent,0.227,36047
+Brooklyn,Single Mothers,2017,Percent,0.437,36047
+Brooklyn,Single Fathers,2017,Percent,0.32,36047
+Brooklyn,Grandparents,2017,Percent,0.222,36047
+Brooklyn,Other,2017,Percent,0.212,36047
+Manhattan,Married Couples,2017,Percent,0.085,36061
+Manhattan,Single Mothers,2017,Percent,0.522,36061
+Manhattan,Single Fathers,2017,Percent,0.23,36061
+Manhattan,Grandparents,2017,Percent,0.417,36061
+Manhattan,Other,2017,Percent,0.298,36061
+Queens,Married Couples,2017,Percent,0.109,36081
+Queens,Single Mothers,2017,Percent,0.352,36081
+Queens,Single Fathers,2017,Percent,0.221,36081
+Queens,Grandparents,2017,Percent,0.159,36081
+Queens,Other,2017,Percent,0.195,36081
+Staten Island,Married Couples,2017,Percent,0.113,36085
+Staten Island,Single Mothers,2017,Percent,0.487,36085
+Staten Island,Single Fathers,2017,Percent,0.064,36085
+Staten Island,Grandparents,2017,Percent,0.083,36085
+Staten Island,Other,2017,Percent,0.55,36085
+New York City,Married Couples,2017,Percent,0.168,3651000
+New York City,Single Mothers,2017,Percent,0.489,3651000
+New York City,Single Fathers,2017,Percent,0.273,3651000
+New York City,Grandparents,2017,Percent,0.246,3651000
+New York City,Other,2017,Percent,0.244,3651000
+Battery Park/Tribeca,Married Couples,2018,Number,138.1146,101
+Battery Park/Tribeca,Single Mothers,2018,Number,66.23039,101
+Battery Park/Tribeca,Single Fathers,2018,Number,48.05742,101
+Battery Park/Tribeca,Grandparents,2018,Number,0,101
+Battery Park/Tribeca,Other,2018,Number,0,101
+Greenwich Village,Married Couples,2018,Number,203.8854,102
+Greenwich Village,Single Mothers,2018,Number,97.76961,102
+Greenwich Village,Single Fathers,2018,Number,70.94258,102
+Greenwich Village,Grandparents,2018,Number,0,102
+Greenwich Village,Other,2018,Number,0,102
+Lower East Side,Married Couples,2018,Number,1141,103
+Lower East Side,Single Mothers,2018,Number,4383,103
+Lower East Side,Single Fathers,2018,Number,285,103
+Lower East Side,Grandparents,2018,Number,1291,103
+Lower East Side,Other,2018,Number,353,103
+Chelsea/Clinton,Married Couples,2018,Number,134.62277,104
+Chelsea/Clinton,Single Mothers,2018,Number,592.47347,104
+Chelsea/Clinton,Single Fathers,2018,Number,0,104
+Chelsea/Clinton,Grandparents,2018,Number,277.90938,104
+Chelsea/Clinton,Other,2018,Number,0,104
+Midtown Business District,Married Couples,2018,Number,67.37723,105
+Midtown Business District,Single Mothers,2018,Number,296.52653,105
+Midtown Business District,Single Fathers,2018,Number,0,105
+Midtown Business District,Grandparents,2018,Number,139.09062,105
+Midtown Business District,Other,2018,Number,0,105
+Murray Hill/Stuyvesant,Married Couples,2018,Number,495,106
+Murray Hill/Stuyvesant,Single Mothers,2018,Number,0,106
+Murray Hill/Stuyvesant,Single Fathers,2018,Number,0,106
+Murray Hill/Stuyvesant,Grandparents,2018,Number,41,106
+Murray Hill/Stuyvesant,Other,2018,Number,0,106
+Upper West Side,Married Couples,2018,Number,374,107
+Upper West Side,Single Mothers,2018,Number,1723,107
+Upper West Side,Single Fathers,2018,Number,0,107
+Upper West Side,Grandparents,2018,Number,0,107
+Upper West Side,Other,2018,Number,0,107
+Upper East Side,Married Couples,2018,Number,258,108
+Upper East Side,Single Mothers,2018,Number,925,108
+Upper East Side,Single Fathers,2018,Number,73,108
+Upper East Side,Grandparents,2018,Number,0,108
+Upper East Side,Other,2018,Number,0,108
+Manhattanville,Married Couples,2018,Number,995,109
+Manhattanville,Single Mothers,2018,Number,2843,109
+Manhattanville,Single Fathers,2018,Number,499,109
+Manhattanville,Grandparents,2018,Number,1035,109
+Manhattanville,Other,2018,Number,477,109
+Central Harlem,Married Couples,2018,Number,1455,110
+Central Harlem,Single Mothers,2018,Number,7682,110
+Central Harlem,Single Fathers,2018,Number,537,110
+Central Harlem,Grandparents,2018,Number,1590,110
+Central Harlem,Other,2018,Number,119,110
+East Harlem,Married Couples,2018,Number,1561,111
+East Harlem,Single Mothers,2018,Number,8007,111
+East Harlem,Single Fathers,2018,Number,224,111
+East Harlem,Grandparents,2018,Number,1242,111
+East Harlem,Other,2018,Number,584,111
+Washington Heights,Married Couples,2018,Number,3580,112
+Washington Heights,Single Mothers,2018,Number,4174,112
+Washington Heights,Single Fathers,2018,Number,349,112
+Washington Heights,Grandparents,2018,Number,1938,112
+Washington Heights,Other,2018,Number,1095,112
+Mott Haven,Married Couples,2018,Number,2964.3289,201
+Mott Haven,Single Mothers,2018,Number,8436.59335,201
+Mott Haven,Single Fathers,2018,Number,549.96353,201
+Mott Haven,Grandparents,2018,Number,1475.48087,201
+Mott Haven,Other,2018,Number,685.54482,201
+Hunts Point,Married Couples,2018,Number,1692.6711,202
+Hunts Point,Single Mothers,2018,Number,4817.40665,202
+Hunts Point,Single Fathers,2018,Number,314.03647,202
+Hunts Point,Grandparents,2018,Number,842.51913,202
+Hunts Point,Other,2018,Number,391.45518,202
+Morrisania,Married Couples,2018,Number,1648.76366,203
+Morrisania,Single Mothers,2018,Number,7461.02251,203
+Morrisania,Single Fathers,2018,Number,662.9302,203
+Morrisania,Grandparents,2018,Number,818.02162,203
+Morrisania,Other,2018,Number,121.8226,203
+Concourse/Highbridge,Married Couples,2018,Number,4350,204
+Concourse/Highbridge,Single Mothers,2018,Number,12095,204
+Concourse/Highbridge,Single Fathers,2018,Number,463,204
+Concourse/Highbridge,Grandparents,2018,Number,818,204
+Concourse/Highbridge,Other,2018,Number,556,204
+University Heights,Married Couples,2018,Number,4371,205
+University Heights,Single Mothers,2018,Number,13064,205
+University Heights,Single Fathers,2018,Number,271,205
+University Heights,Grandparents,2018,Number,1657,205
+University Heights,Other,2018,Number,408,205
+East Tremont,Married Couples,2018,Number,1721.23634,206
+East Tremont,Single Mothers,2018,Number,7788.97749,206
+East Tremont,Single Fathers,2018,Number,692.0698,206
+East Tremont,Grandparents,2018,Number,853.97838,206
+East Tremont,Other,2018,Number,127.1774,206
+Bedford Park,Married Couples,2018,Number,4696,207
+Bedford Park,Single Mothers,2018,Number,8147,207
+Bedford Park,Single Fathers,2018,Number,790,207
+Bedford Park,Grandparents,2018,Number,2157,207
+Bedford Park,Other,2018,Number,659,207
+Riverdale,Married Couples,2018,Number,1885,208
+Riverdale,Single Mothers,2018,Number,3940,208
+Riverdale,Single Fathers,2018,Number,568,208
+Riverdale,Grandparents,2018,Number,302,208
+Riverdale,Other,2018,Number,346,208
+Unionport/Soundview,Married Couples,2018,Number,3231,209
+Unionport/Soundview,Single Mothers,2018,Number,9509,209
+Unionport/Soundview,Single Fathers,2018,Number,1067,209
+Unionport/Soundview,Grandparents,2018,Number,1678,209
+Unionport/Soundview,Other,2018,Number,427,209
+Throgs Neck,Married Couples,2018,Number,524,210
+Throgs Neck,Single Mothers,2018,Number,2400,210
+Throgs Neck,Single Fathers,2018,Number,681,210
+Throgs Neck,Grandparents,2018,Number,183,210
+Throgs Neck,Other,2018,Number,273,210
+Pelham Parkway,Married Couples,2018,Number,1558,211
+Pelham Parkway,Single Mothers,2018,Number,3255,211
+Pelham Parkway,Single Fathers,2018,Number,468,211
+Pelham Parkway,Grandparents,2018,Number,721,211
+Pelham Parkway,Other,2018,Number,44,211
+Williamsbridge,Married Couples,2018,Number,1006,212
+Williamsbridge,Single Mothers,2018,Number,5664,212
+Williamsbridge,Single Fathers,2018,Number,279,212
+Williamsbridge,Grandparents,2018,Number,1394,212
+Williamsbridge,Other,2018,Number,213,212
+Williamsburg/Greenpoint,Married Couples,2018,Number,9313,301
+Williamsburg/Greenpoint,Single Mothers,2018,Number,2149,301
+Williamsburg/Greenpoint,Single Fathers,2018,Number,110,301
+Williamsburg/Greenpoint,Grandparents,2018,Number,35,301
+Williamsburg/Greenpoint,Other,2018,Number,189,301
+Fort Greene/Brooklyn Hts,Married Couples,2018,Number,1305,302
+Fort Greene/Brooklyn Hts,Single Mothers,2018,Number,2392,302
+Fort Greene/Brooklyn Hts,Single Fathers,2018,Number,320,302
+Fort Greene/Brooklyn Hts,Grandparents,2018,Number,264,302
+Fort Greene/Brooklyn Hts,Other,2018,Number,347,302
+Bedford Stuyvesant,Married Couples,2018,Number,6842,303
+Bedford Stuyvesant,Single Mothers,2018,Number,4702,303
+Bedford Stuyvesant,Single Fathers,2018,Number,1019,303
+Bedford Stuyvesant,Grandparents,2018,Number,706,303
+Bedford Stuyvesant,Other,2018,Number,295,303
+Bushwick,Married Couples,2018,Number,2424,304
+Bushwick,Single Mothers,2018,Number,6227,304
+Bushwick,Single Fathers,2018,Number,154,304
+Bushwick,Grandparents,2018,Number,2223,304
+Bushwick,Other,2018,Number,270,304
+East New York,Married Couples,2018,Number,3102,305
+East New York,Single Mothers,2018,Number,8251,305
+East New York,Single Fathers,2018,Number,343,305
+East New York,Grandparents,2018,Number,1263,305
+East New York,Other,2018,Number,406,305
+Park Slope,Married Couples,2018,Number,431,306
+Park Slope,Single Mothers,2018,Number,1306,306
+Park Slope,Single Fathers,2018,Number,126,306
+Park Slope,Grandparents,2018,Number,414,306
+Park Slope,Other,2018,Number,141,306
+Sunset Park,Married Couples,2018,Number,6052,307
+Sunset Park,Single Mothers,2018,Number,1948,307
+Sunset Park,Single Fathers,2018,Number,243,307
+Sunset Park,Grandparents,2018,Number,1277,307
+Sunset Park,Other,2018,Number,561,307
+Crown Heights North,Married Couples,2018,Number,1284,308
+Crown Heights North,Single Mothers,2018,Number,4243,308
+Crown Heights North,Single Fathers,2018,Number,1139,308
+Crown Heights North,Grandparents,2018,Number,295,308
+Crown Heights North,Other,2018,Number,297,308
+Crown Heights South,Married Couples,2018,Number,2625,309
+Crown Heights South,Single Mothers,2018,Number,2108,309
+Crown Heights South,Single Fathers,2018,Number,346,309
+Crown Heights South,Grandparents,2018,Number,342,309
+Crown Heights South,Other,2018,Number,327,309
+Bay Ridge,Married Couples,2018,Number,3169,310
+Bay Ridge,Single Mothers,2018,Number,863,310
+Bay Ridge,Single Fathers,2018,Number,214,310
+Bay Ridge,Grandparents,2018,Number,200,310
+Bay Ridge,Other,2018,Number,407,310
+Bensonhurst,Married Couples,2018,Number,5313,311
+Bensonhurst,Single Mothers,2018,Number,2004,311
+Bensonhurst,Single Fathers,2018,Number,1086,311
+Bensonhurst,Grandparents,2018,Number,328,311
+Bensonhurst,Other,2018,Number,367,311
+Borough Park,Married Couples,2018,Number,18109,312
+Borough Park,Single Mothers,2018,Number,1390,312
+Borough Park,Single Fathers,2018,Number,535,312
+Borough Park,Grandparents,2018,Number,772,312
+Borough Park,Other,2018,Number,543,312
+Coney Island,Married Couples,2018,Number,3364,313
+Coney Island,Single Mothers,2018,Number,3045,313
+Coney Island,Single Fathers,2018,Number,285,313
+Coney Island,Grandparents,2018,Number,899,313
+Coney Island,Other,2018,Number,171,313
+Flatbush/Midwood,Married Couples,2018,Number,4239,314
+Flatbush/Midwood,Single Mothers,2018,Number,2388,314
+Flatbush/Midwood,Single Fathers,2018,Number,239,314
+Flatbush/Midwood,Grandparents,2018,Number,290,314
+Flatbush/Midwood,Other,2018,Number,224,314
+Sheepshead Bay,Married Couples,2018,Number,4335,315
+Sheepshead Bay,Single Mothers,2018,Number,892,315
+Sheepshead Bay,Single Fathers,2018,Number,737,315
+Sheepshead Bay,Grandparents,2018,Number,380,315
+Sheepshead Bay,Other,2018,Number,128,315
+Brownsville,Married Couples,2018,Number,1712,316
+Brownsville,Single Mothers,2018,Number,4230,316
+Brownsville,Single Fathers,2018,Number,1574,316
+Brownsville,Grandparents,2018,Number,520,316
+Brownsville,Other,2018,Number,301,316
+East Flatbush,Married Couples,2018,Number,732,317
+East Flatbush,Single Mothers,2018,Number,3336,317
+East Flatbush,Single Fathers,2018,Number,241,317
+East Flatbush,Grandparents,2018,Number,424,317
+East Flatbush,Other,2018,Number,321,317
+Canarsie,Married Couples,2018,Number,1075,318
+Canarsie,Single Mothers,2018,Number,3558,318
+Canarsie,Single Fathers,2018,Number,878,318
+Canarsie,Grandparents,2018,Number,187,318
+Canarsie,Other,2018,Number,195,318
+Astoria,Married Couples,2018,Number,1954,401
+Astoria,Single Mothers,2018,Number,1616,401
+Astoria,Single Fathers,2018,Number,57,401
+Astoria,Grandparents,2018,Number,392,401
+Astoria,Other,2018,Number,235,401
+Sunnyside/Woodside,Married Couples,2018,Number,1283,402
+Sunnyside/Woodside,Single Mothers,2018,Number,469,402
+Sunnyside/Woodside,Single Fathers,2018,Number,138,402
+Sunnyside/Woodside,Grandparents,2018,Number,0,402
+Sunnyside/Woodside,Other,2018,Number,199,402
+Jackson Heights,Married Couples,2018,Number,3381,403
+Jackson Heights,Single Mothers,2018,Number,2848,403
+Jackson Heights,Single Fathers,2018,Number,981,403
+Jackson Heights,Grandparents,2018,Number,594,403
+Jackson Heights,Other,2018,Number,479,403
+Elmhurst/Corona,Married Couples,2018,Number,3322,404
+Elmhurst/Corona,Single Mothers,2018,Number,1902,404
+Elmhurst/Corona,Single Fathers,2018,Number,127,404
+Elmhurst/Corona,Grandparents,2018,Number,426,404
+Elmhurst/Corona,Other,2018,Number,981,404
+Ridgewood/Glendale,Married Couples,2018,Number,1654,405
+Ridgewood/Glendale,Single Mothers,2018,Number,1525,405
+Ridgewood/Glendale,Single Fathers,2018,Number,377,405
+Ridgewood/Glendale,Grandparents,2018,Number,266,405
+Ridgewood/Glendale,Other,2018,Number,352,405
+Rego Park/Forest Hills,Married Couples,2018,Number,961,406
+Rego Park/Forest Hills,Single Mothers,2018,Number,337,406
+Rego Park/Forest Hills,Single Fathers,2018,Number,156,406
+Rego Park/Forest Hills,Grandparents,2018,Number,0,406
+Rego Park/Forest Hills,Other,2018,Number,87,406
+Flushing,Married Couples,2018,Number,3940,407
+Flushing,Single Mothers,2018,Number,1033,407
+Flushing,Single Fathers,2018,Number,250,407
+Flushing,Grandparents,2018,Number,966,407
+Flushing,Other,2018,Number,541,407
+Fresh Meadows/Briarwood,Married Couples,2018,Number,3545,408
+Fresh Meadows/Briarwood,Single Mothers,2018,Number,932,408
+Fresh Meadows/Briarwood,Single Fathers,2018,Number,52,408
+Fresh Meadows/Briarwood,Grandparents,2018,Number,463,408
+Fresh Meadows/Briarwood,Other,2018,Number,347,408
+Woodhaven,Married Couples,2018,Number,2642,409
+Woodhaven,Single Mothers,2018,Number,1740,409
+Woodhaven,Single Fathers,2018,Number,159,409
+Woodhaven,Grandparents,2018,Number,263,409
+Woodhaven,Other,2018,Number,373,409
+Howard Beach,Married Couples,2018,Number,1502,410
+Howard Beach,Single Mothers,2018,Number,1124,410
+Howard Beach,Single Fathers,2018,Number,110,410
+Howard Beach,Grandparents,2018,Number,331,410
+Howard Beach,Other,2018,Number,236,410
+Bayside,Married Couples,2018,Number,952,411
+Bayside,Single Mothers,2018,Number,635,411
+Bayside,Single Fathers,2018,Number,80,411
+Bayside,Grandparents,2018,Number,114,411
+Bayside,Other,2018,Number,54,411
+Jamaica/St. Albans,Married Couples,2018,Number,2180,412
+Jamaica/St. Albans,Single Mothers,2018,Number,3339,412
+Jamaica/St. Albans,Single Fathers,2018,Number,930,412
+Jamaica/St. Albans,Grandparents,2018,Number,718,412
+Jamaica/St. Albans,Other,2018,Number,631,412
+Queens Village,Married Couples,2018,Number,760,413
+Queens Village,Single Mothers,2018,Number,1929,413
+Queens Village,Single Fathers,2018,Number,417,413
+Queens Village,Grandparents,2018,Number,894,413
+Queens Village,Other,2018,Number,345,413
+The Rockaways,Married Couples,2018,Number,1634,414
+The Rockaways,Single Mothers,2018,Number,4995,414
+The Rockaways,Single Fathers,2018,Number,661,414
+The Rockaways,Grandparents,2018,Number,1375,414
+The Rockaways,Other,2018,Number,221,414
+St. George,Married Couples,2018,Number,3616,501
+St. George,Single Mothers,2018,Number,5988,501
+St. George,Single Fathers,2018,Number,178,501
+St. George,Grandparents,2018,Number,23,501
+St. George,Other,2018,Number,602,501
+South Beach,Married Couples,2018,Number,3384,502
+South Beach,Single Mothers,2018,Number,1215,502
+South Beach,Single Fathers,2018,Number,127,502
+South Beach,Grandparents,2018,Number,168,502
+South Beach,Other,2018,Number,886,502
+Tottenville,Married Couples,2018,Number,1850,503
+Tottenville,Single Mothers,2018,Number,929,503
+Tottenville,Single Fathers,2018,Number,0,503
+Tottenville,Grandparents,2018,Number,0,503
+Tottenville,Other,2018,Number,49,503
+Bronx,Married Couples,2018,Number,29648,36005
+Bronx,Single Mothers,2018,Number,86579,36005
+Bronx,Single Fathers,2018,Number,6805,36005
+Bronx,Grandparents,2018,Number,12902,36005
+Bronx,Other,2018,Number,4251,36005
+Brooklyn,Married Couples,2018,Number,75426,36047
+Brooklyn,Single Mothers,2018,Number,55029,36047
+Brooklyn,Single Fathers,2018,Number,9592,36047
+Brooklyn,Grandparents,2018,Number,10818,36047
+Brooklyn,Other,2018,Number,5488,36047
+Manhattan,Married Couples,2018,Number,10402,36061
+Manhattan,Single Mothers,2018,Number,30790,36061
+Manhattan,Single Fathers,2018,Number,2087,36061
+Manhattan,Grandparents,2018,Number,7553,36061
+Manhattan,Other,2018,Number,2629,36061
+Queens,Married Couples,2018,Number,29709,36081
+Queens,Single Mothers,2018,Number,24424,36081
+Queens,Single Fathers,2018,Number,4495,36081
+Queens,Grandparents,2018,Number,6800,36081
+Queens,Other,2018,Number,5082,36081
+Staten Island,Married Couples,2018,Number,8851,36085
+Staten Island,Single Mothers,2018,Number,8132,36085
+Staten Island,Single Fathers,2018,Number,305,36085
+Staten Island,Grandparents,2018,Number,191,36085
+Staten Island,Other,2018,Number,1537,36085
+New York City,Married Couples,2018,Number,154036,3651000
+New York City,Single Mothers,2018,Number,204953,3651000
+New York City,Single Fathers,2018,Number,23284,3651000
+New York City,Grandparents,2018,Number,38264,3651000
+New York City,Other,2018,Number,18987,3651000
+Battery Park/Tribeca,Married Couples,2018,Percent,0.02,101
+Battery Park/Tribeca,Single Mothers,2018,Percent,0.108,101
+Battery Park/Tribeca,Single Fathers,2018,Percent,0.102,101
+Battery Park/Tribeca,Grandparents,2018,Percent,0,101
+Battery Park/Tribeca,Other,2018,Percent,0,101
+Greenwich Village,Married Couples,2018,Percent,0.02,102
+Greenwich Village,Single Mothers,2018,Percent,0.108,102
+Greenwich Village,Single Fathers,2018,Percent,0.102,102
+Greenwich Village,Grandparents,2018,Percent,0,102
+Greenwich Village,Other,2018,Percent,0,102
+Lower East Side,Married Couples,2018,Percent,0.167,103
+Lower East Side,Single Mothers,2018,Percent,0.669,103
+Lower East Side,Single Fathers,2018,Percent,0.377,103
+Lower East Side,Grandparents,2018,Percent,0.394,103
+Lower East Side,Other,2018,Percent,0.694,103
+Chelsea/Clinton,Married Couples,2018,Percent,0.021,104
+Chelsea/Clinton,Single Mothers,2018,Percent,0.434,104
+Chelsea/Clinton,Single Fathers,2018,Percent,0,104
+Chelsea/Clinton,Grandparents,2018,Percent,0.438,104
+Chelsea/Clinton,Other,2018,Percent,0,104
+Midtown Business District,Married Couples,2018,Percent,0.021,105
+Midtown Business District,Single Mothers,2018,Percent,0.434,105
+Midtown Business District,Single Fathers,2018,Percent,0,105
+Midtown Business District,Grandparents,2018,Percent,0.438,105
+Midtown Business District,Other,2018,Percent,0,105
+Murray Hill/Stuyvesant,Married Couples,2018,Percent,0.048,106
+Murray Hill/Stuyvesant,Single Mothers,2018,Percent,0,106
+Murray Hill/Stuyvesant,Single Fathers,2018,Percent,0,106
+Murray Hill/Stuyvesant,Grandparents,2018,Percent,0.175,106
+Murray Hill/Stuyvesant,Other,2018,Percent,0,106
+Upper West Side,Married Couples,2018,Percent,0.016,107
+Upper West Side,Single Mothers,2018,Percent,0.37,107
+Upper West Side,Single Fathers,2018,Percent,0,107
+Upper West Side,Grandparents,2018,Percent,0,107
+Upper West Side,Other,2018,Percent,0,107
+Upper East Side,Married Couples,2018,Percent,0.01,108
+Upper East Side,Single Mothers,2018,Percent,0.301,108
+Upper East Side,Single Fathers,2018,Percent,0.056,108
+Upper East Side,Grandparents,2018,Percent,0,108
+Upper East Side,Other,2018,Percent,0,108
+Manhattanville,Married Couples,2018,Percent,0.113,109
+Manhattanville,Single Mothers,2018,Percent,0.583,109
+Manhattanville,Single Fathers,2018,Percent,0.641,109
+Manhattanville,Grandparents,2018,Percent,0.249,109
+Manhattanville,Other,2018,Percent,0.318,109
+Central Harlem,Married Couples,2018,Percent,0.172,110
+Central Harlem,Single Mothers,2018,Percent,0.537,110
+Central Harlem,Single Fathers,2018,Percent,0.4,110
+Central Harlem,Grandparents,2018,Percent,0.429,110
+Central Harlem,Other,2018,Percent,0.093,110
+East Harlem,Married Couples,2018,Percent,0.231,111
+East Harlem,Single Mothers,2018,Percent,0.693,111
+East Harlem,Single Fathers,2018,Percent,0.19,111
+East Harlem,Grandparents,2018,Percent,0.452,111
+East Harlem,Other,2018,Percent,0.493,111
+Washington Heights,Married Couples,2018,Percent,0.201,112
+Washington Heights,Single Mothers,2018,Percent,0.432,112
+Washington Heights,Single Fathers,2018,Percent,0.222,112
+Washington Heights,Grandparents,2018,Percent,0.323,112
+Washington Heights,Other,2018,Percent,0.314,112
+Mott Haven,Married Couples,2018,Percent,0.357,201
+Mott Haven,Single Mothers,2018,Percent,0.672,201
+Mott Haven,Single Fathers,2018,Percent,0.294,201
+Mott Haven,Grandparents,2018,Percent,0.486,201
+Mott Haven,Other,2018,Percent,0.485,201
+Hunts Point,Married Couples,2018,Percent,0.357,202
+Hunts Point,Single Mothers,2018,Percent,0.672,202
+Hunts Point,Single Fathers,2018,Percent,0.294,202
+Hunts Point,Grandparents,2018,Percent,0.486,202
+Hunts Point,Other,2018,Percent,0.485,202
+Morrisania,Married Couples,2018,Percent,0.227,203
+Morrisania,Single Mothers,2018,Percent,0.672,203
+Morrisania,Single Fathers,2018,Percent,0.477,203
+Morrisania,Grandparents,2018,Percent,0.318,203
+Morrisania,Other,2018,Percent,0.263,203
+Concourse/Highbridge,Married Couples,2018,Percent,0.356,204
+Concourse/Highbridge,Single Mothers,2018,Percent,0.632,204
+Concourse/Highbridge,Single Fathers,2018,Percent,0.198,204
+Concourse/Highbridge,Grandparents,2018,Percent,0.25,204
+Concourse/Highbridge,Other,2018,Percent,0.345,204
+University Heights,Married Couples,2018,Percent,0.338,205
+University Heights,Single Mothers,2018,Percent,0.679,205
+University Heights,Single Fathers,2018,Percent,0.152,205
+University Heights,Grandparents,2018,Percent,0.41,205
+University Heights,Other,2018,Percent,0.425,205
+East Tremont,Married Couples,2018,Percent,0.227,206
+East Tremont,Single Mothers,2018,Percent,0.672,206
+East Tremont,Single Fathers,2018,Percent,0.477,206
+East Tremont,Grandparents,2018,Percent,0.318,206
+East Tremont,Other,2018,Percent,0.263,206
+Bedford Park,Married Couples,2018,Percent,0.357,207
+Bedford Park,Single Mothers,2018,Percent,0.591,207
+Bedford Park,Single Fathers,2018,Percent,0.252,207
+Bedford Park,Grandparents,2018,Percent,0.433,207
+Bedford Park,Other,2018,Percent,0.364,207
+Riverdale,Married Couples,2018,Percent,0.155,208
+Riverdale,Single Mothers,2018,Percent,0.497,208
+Riverdale,Single Fathers,2018,Percent,0.409,208
+Riverdale,Grandparents,2018,Percent,0.172,208
+Riverdale,Other,2018,Percent,0.393,208
+Unionport/Soundview,Married Couples,2018,Percent,0.174,209
+Unionport/Soundview,Single Mothers,2018,Percent,0.542,209
+Unionport/Soundview,Single Fathers,2018,Percent,0.417,209
+Unionport/Soundview,Grandparents,2018,Percent,0.297,209
+Unionport/Soundview,Other,2018,Percent,0.312,209
+Throgs Neck,Married Couples,2018,Percent,0.053,210
+Throgs Neck,Single Mothers,2018,Percent,0.403,210
+Throgs Neck,Single Fathers,2018,Percent,0.32,210
+Throgs Neck,Grandparents,2018,Percent,0.074,210
+Throgs Neck,Other,2018,Percent,0.125,210
+Pelham Parkway,Married Couples,2018,Percent,0.116,211
+Pelham Parkway,Single Mothers,2018,Percent,0.453,211
+Pelham Parkway,Single Fathers,2018,Percent,0.234,211
+Pelham Parkway,Grandparents,2018,Percent,0.247,211
+Pelham Parkway,Other,2018,Percent,0.064,211
+Williamsbridge,Married Couples,2018,Percent,0.09,212
+Williamsbridge,Single Mothers,2018,Percent,0.469,212
+Williamsbridge,Single Fathers,2018,Percent,0.223,212
+Williamsbridge,Grandparents,2018,Percent,0.313,212
+Williamsbridge,Other,2018,Percent,0.113,212
+Williamsburg/Greenpoint,Married Couples,2018,Percent,0.339,301
+Williamsburg/Greenpoint,Single Mothers,2018,Percent,0.452,301
+Williamsburg/Greenpoint,Single Fathers,2018,Percent,0.133,301
+Williamsburg/Greenpoint,Grandparents,2018,Percent,0.032,301
+Williamsburg/Greenpoint,Other,2018,Percent,0.56,301
+Fort Greene/Brooklyn Hts,Married Couples,2018,Percent,0.085,302
+Fort Greene/Brooklyn Hts,Single Mothers,2018,Percent,0.39,302
+Fort Greene/Brooklyn Hts,Single Fathers,2018,Percent,0.238,302
+Fort Greene/Brooklyn Hts,Grandparents,2018,Percent,0.157,302
+Fort Greene/Brooklyn Hts,Other,2018,Percent,0.497,302
+Bedford Stuyvesant,Married Couples,2018,Percent,0.344,303
+Bedford Stuyvesant,Single Mothers,2018,Percent,0.484,303
+Bedford Stuyvesant,Single Fathers,2018,Percent,0.528,303
+Bedford Stuyvesant,Grandparents,2018,Percent,0.19,303
+Bedford Stuyvesant,Other,2018,Percent,0.26,303
+Bushwick,Married Couples,2018,Percent,0.293,304
+Bushwick,Single Mothers,2018,Percent,0.645,304
+Bushwick,Single Fathers,2018,Percent,0.107,304
+Bushwick,Grandparents,2018,Percent,0.417,304
+Bushwick,Other,2018,Percent,0.226,304
+East New York,Married Couples,2018,Percent,0.194,305
+East New York,Single Mothers,2018,Percent,0.487,305
+East New York,Single Fathers,2018,Percent,0.152,305
+East New York,Grandparents,2018,Percent,0.198,305
+East New York,Other,2018,Percent,0.168,305
+Park Slope,Married Couples,2018,Percent,0.023,306
+Park Slope,Single Mothers,2018,Percent,0.342,306
+Park Slope,Single Fathers,2018,Percent,0.204,306
+Park Slope,Grandparents,2018,Percent,0.28,306
+Park Slope,Other,2018,Percent,0.219,306
+Sunset Park,Married Couples,2018,Percent,0.255,307
+Sunset Park,Single Mothers,2018,Percent,0.509,307
+Sunset Park,Single Fathers,2018,Percent,0.124,307
+Sunset Park,Grandparents,2018,Percent,0.473,307
+Sunset Park,Other,2018,Percent,0.267,307
+Crown Heights North,Married Couples,2018,Percent,0.117,308
+Crown Heights North,Single Mothers,2018,Percent,0.431,308
+Crown Heights North,Single Fathers,2018,Percent,0.549,308
+Crown Heights North,Grandparents,2018,Percent,0.128,308
+Crown Heights North,Other,2018,Percent,0.225,308
+Crown Heights South,Married Couples,2018,Percent,0.238,309
+Crown Heights South,Single Mothers,2018,Percent,0.299,309
+Crown Heights South,Single Fathers,2018,Percent,0.229,309
+Crown Heights South,Grandparents,2018,Percent,0.128,309
+Crown Heights South,Other,2018,Percent,0.313,309
+Bay Ridge,Married Couples,2018,Percent,0.176,310
+Bay Ridge,Single Mothers,2018,Percent,0.302,310
+Bay Ridge,Single Fathers,2018,Percent,0.269,310
+Bay Ridge,Grandparents,2018,Percent,0.118,310
+Bay Ridge,Other,2018,Percent,0.449,310
+Bensonhurst,Married Couples,2018,Percent,0.188,311
+Bensonhurst,Single Mothers,2018,Percent,0.346,311
+Bensonhurst,Single Fathers,2018,Percent,0.417,311
+Bensonhurst,Grandparents,2018,Percent,0.148,311
+Bensonhurst,Other,2018,Percent,0.142,311
+Borough Park,Married Couples,2018,Percent,0.393,312
+Borough Park,Single Mothers,2018,Percent,0.584,312
+Borough Park,Single Fathers,2018,Percent,0.585,312
+Borough Park,Grandparents,2018,Percent,0.386,312
+Borough Park,Other,2018,Percent,0.597,312
+Coney Island,Married Couples,2018,Percent,0.273,313
+Coney Island,Single Mothers,2018,Percent,0.44,313
+Coney Island,Single Fathers,2018,Percent,0.278,313
+Coney Island,Grandparents,2018,Percent,0.446,313
+Coney Island,Other,2018,Percent,0.161,313
+Flatbush/Midwood,Married Couples,2018,Percent,0.17,314
+Flatbush/Midwood,Single Mothers,2018,Percent,0.348,314
+Flatbush/Midwood,Single Fathers,2018,Percent,0.16,314
+Flatbush/Midwood,Grandparents,2018,Percent,0.082,314
+Flatbush/Midwood,Other,2018,Percent,0.153,314
+Sheepshead Bay,Married Couples,2018,Percent,0.164,315
+Sheepshead Bay,Single Mothers,2018,Percent,0.231,315
+Sheepshead Bay,Single Fathers,2018,Percent,0.379,315
+Sheepshead Bay,Grandparents,2018,Percent,0.161,315
+Sheepshead Bay,Other,2018,Percent,0.179,315
+Brownsville,Married Couples,2018,Percent,0.231,316
+Brownsville,Single Mothers,2018,Percent,0.411,316
+Brownsville,Single Fathers,2018,Percent,0.796,316
+Brownsville,Grandparents,2018,Percent,0.194,316
+Brownsville,Other,2018,Percent,0.144,316
+East Flatbush,Married Couples,2018,Percent,0.069,317
+East Flatbush,Single Mothers,2018,Percent,0.31,317
+East Flatbush,Single Fathers,2018,Percent,0.128,317
+East Flatbush,Grandparents,2018,Percent,0.088,317
+East Flatbush,Other,2018,Percent,0.167,317
+Canarsie,Married Couples,2018,Percent,0.042,318
+Canarsie,Single Mothers,2018,Percent,0.307,318
+Canarsie,Single Fathers,2018,Percent,0.354,318
+Canarsie,Grandparents,2018,Percent,0.029,318
+Canarsie,Other,2018,Percent,0.061,318
+Astoria,Married Couples,2018,Percent,0.131,401
+Astoria,Single Mothers,2018,Percent,0.277,401
+Astoria,Single Fathers,2018,Percent,0.065,401
+Astoria,Grandparents,2018,Percent,0.155,401
+Astoria,Other,2018,Percent,0.297,401
+Sunnyside/Woodside,Married Couples,2018,Percent,0.083,402
+Sunnyside/Woodside,Single Mothers,2018,Percent,0.167,402
+Sunnyside/Woodside,Single Fathers,2018,Percent,0.105,402
+Sunnyside/Woodside,Grandparents,2018,Percent,0,402
+Sunnyside/Woodside,Other,2018,Percent,0.198,402
+Jackson Heights,Married Couples,2018,Percent,0.153,403
+Jackson Heights,Single Mothers,2018,Percent,0.483,403
+Jackson Heights,Single Fathers,2018,Percent,0.262,403
+Jackson Heights,Grandparents,2018,Percent,0.18,403
+Jackson Heights,Other,2018,Percent,0.202,403
+Elmhurst/Corona,Married Couples,2018,Percent,0.164,404
+Elmhurst/Corona,Single Mothers,2018,Percent,0.33,404
+Elmhurst/Corona,Single Fathers,2018,Percent,0.106,404
+Elmhurst/Corona,Grandparents,2018,Percent,0.161,404
+Elmhurst/Corona,Other,2018,Percent,0.396,404
+Ridgewood/Glendale,Married Couples,2018,Percent,0.061,405
+Ridgewood/Glendale,Single Mothers,2018,Percent,0.228,405
+Ridgewood/Glendale,Single Fathers,2018,Percent,0.152,405
+Ridgewood/Glendale,Grandparents,2018,Percent,0.082,405
+Ridgewood/Glendale,Other,2018,Percent,0.241,405
+Rego Park/Forest Hills,Married Couples,2018,Percent,0.064,406
+Rego Park/Forest Hills,Single Mothers,2018,Percent,0.213,406
+Rego Park/Forest Hills,Single Fathers,2018,Percent,0.159,406
+Rego Park/Forest Hills,Grandparents,2018,Percent,0,406
+Rego Park/Forest Hills,Other,2018,Percent,0.31,406
+Flushing,Married Couples,2018,Percent,0.123,407
+Flushing,Single Mothers,2018,Percent,0.254,407
+Flushing,Single Fathers,2018,Percent,0.21,407
+Flushing,Grandparents,2018,Percent,0.238,407
+Flushing,Other,2018,Percent,0.352,407
+Fresh Meadows/Briarwood,Married Couples,2018,Percent,0.138,408
+Fresh Meadows/Briarwood,Single Mothers,2018,Percent,0.234,408
+Fresh Meadows/Briarwood,Single Fathers,2018,Percent,0.063,408
+Fresh Meadows/Briarwood,Grandparents,2018,Percent,0.196,408
+Fresh Meadows/Briarwood,Other,2018,Percent,0.293,408
+Woodhaven,Married Couples,2018,Percent,0.139,409
+Woodhaven,Single Mothers,2018,Percent,0.338,409
+Woodhaven,Single Fathers,2018,Percent,0.088,409
+Woodhaven,Grandparents,2018,Percent,0.095,409
+Woodhaven,Other,2018,Percent,0.181,409
+Howard Beach,Married Couples,2018,Percent,0.092,410
+Howard Beach,Single Mothers,2018,Percent,0.244,410
+Howard Beach,Single Fathers,2018,Percent,0.117,410
+Howard Beach,Grandparents,2018,Percent,0.094,410
+Howard Beach,Other,2018,Percent,0.251,410
+Bayside,Married Couples,2018,Percent,0.058,411
+Bayside,Single Mothers,2018,Percent,0.254,411
+Bayside,Single Fathers,2018,Percent,0.088,411
+Bayside,Grandparents,2018,Percent,0.158,411
+Bayside,Other,2018,Percent,0.06,411
+Jamaica/St. Albans,Married Couples,2018,Percent,0.094,412
+Jamaica/St. Albans,Single Mothers,2018,Percent,0.262,412
+Jamaica/St. Albans,Single Fathers,2018,Percent,0.329,412
+Jamaica/St. Albans,Grandparents,2018,Percent,0.077,412
+Jamaica/St. Albans,Other,2018,Percent,0.161,412
+Queens Village,Married Couples,2018,Percent,0.036,413
+Queens Village,Single Mothers,2018,Percent,0.277,413
+Queens Village,Single Fathers,2018,Percent,0.253,413
+Queens Village,Grandparents,2018,Percent,0.13,413
+Queens Village,Other,2018,Percent,0.121,413
+The Rockaways,Married Couples,2018,Percent,0.092,414
+The Rockaways,Single Mothers,2018,Percent,0.46,414
+The Rockaways,Single Fathers,2018,Percent,0.25,414
+The Rockaways,Grandparents,2018,Percent,0.318,414
+The Rockaways,Other,2018,Percent,0.29,414
+St. George,Married Couples,2018,Percent,0.164,501
+St. George,Single Mothers,2018,Percent,0.651,501
+St. George,Single Fathers,2018,Percent,0.128,501
+St. George,Grandparents,2018,Percent,0.007,501
+St. George,Other,2018,Percent,0.293,501
+South Beach,Married Couples,2018,Percent,0.138,502
+South Beach,Single Mothers,2018,Percent,0.359,502
+South Beach,Single Fathers,2018,Percent,0.125,502
+South Beach,Grandparents,2018,Percent,0.082,502
+South Beach,Other,2018,Percent,0.534,502
+Tottenville,Married Couples,2018,Percent,0.073,503
+Tottenville,Single Mothers,2018,Percent,0.215,503
+Tottenville,Single Fathers,2018,Percent,0,503
+Tottenville,Grandparents,2018,Percent,0,503
+Tottenville,Other,2018,Percent,0.488,503
+Bronx,Married Couples,2018,Percent,0.226,36005
+Bronx,Single Mothers,2018,Percent,0.596,36005
+Bronx,Single Fathers,2018,Percent,0.305,36005
+Bronx,Grandparents,2018,Percent,0.326,36005
+Bronx,Other,2018,Percent,0.292,36005
+Brooklyn,Married Couples,2018,Percent,0.215,36047
+Brooklyn,Single Mothers,2018,Percent,0.414,36047
+Brooklyn,Single Fathers,2018,Percent,0.33,36047
+Brooklyn,Grandparents,2018,Percent,0.196,36047
+Brooklyn,Other,2018,Percent,0.213,36047
+Manhattan,Married Couples,2018,Percent,0.077,36061
+Manhattan,Single Mothers,2018,Percent,0.517,36061
+Manhattan,Single Fathers,2018,Percent,0.211,36061
+Manhattan,Grandparents,2018,Percent,0.341,36061
+Manhattan,Other,2018,Percent,0.301,36061
+Queens,Married Couples,2018,Percent,0.104,36081
+Queens,Single Mothers,2018,Percent,0.308,36081
+Queens,Single Fathers,2018,Percent,0.192,36081
+Queens,Grandparents,2018,Percent,0.145,36081
+Queens,Other,2018,Percent,0.225,36081
+Staten Island,Married Couples,2018,Percent,0.123,36085
+Staten Island,Single Mothers,2018,Percent,0.481,36085
+Staten Island,Single Fathers,2018,Percent,0.097,36085
+Staten Island,Grandparents,2018,Percent,0.026,36085
+Staten Island,Other,2018,Percent,0.403,36085
+New York City,Married Couples,2018,Percent,0.158,3651000
+New York City,Single Mothers,2018,Percent,0.472,3651000
+New York City,Single Fathers,2018,Percent,0.265,3651000
+New York City,Grandparents,2018,Percent,0.224,3651000
+New York City,Other,2018,Percent,0.252,3651000
+Battery Park/Tribeca,Grandparents,2019,Number,0,101
+Greenwich Village,Grandparents,2019,Number,0,102
+Lower East Side,Grandparents,2019,Number,747,103
+Chelsea/Clinton,Grandparents,2019,Number,277.90938,104
+Midtown Business District,Grandparents,2019,Number,139.09062,105
+Murray Hill/Stuyvesant,Grandparents,2019,Number,41,106
+Upper West Side,Grandparents,2019,Number,0,107
+Upper East Side,Grandparents,2019,Number,0,108
+Manhattanville,Grandparents,2019,Number,649,109
+Central Harlem,Grandparents,2019,Number,966,110
+East Harlem,Grandparents,2019,Number,466,111
+Washington Heights,Grandparents,2019,Number,984,112
+Mott Haven,Grandparents,2019,Number,961.79965,201
+Hunts Point,Grandparents,2019,Number,549.20035,202
+Morrisania,Grandparents,2019,Number,626.23664,203
+Concourse/Highbridge,Grandparents,2019,Number,540,204
+University Heights,Grandparents,2019,Number,809,205
+East Tremont,Grandparents,2019,Number,653.76336,206
+Bedford Park,Grandparents,2019,Number,1505,207
+Riverdale,Grandparents,2019,Number,230,208
+Unionport/Soundview,Grandparents,2019,Number,1041,209
+Throgs Neck,Grandparents,2019,Number,122,210
+Pelham Parkway,Grandparents,2019,Number,499,211
+Williamsbridge,Grandparents,2019,Number,868,212
+Williamsburg/Greenpoint,Grandparents,2019,Number,35,301
+Fort Greene/Brooklyn Hts,Grandparents,2019,Number,150,302
+Bedford Stuyvesant,Grandparents,2019,Number,396,303
+Bushwick,Grandparents,2019,Number,1325,304
+East New York,Grandparents,2019,Number,655,305
+Park Slope,Grandparents,2019,Number,300,306
+Sunset Park,Grandparents,2019,Number,901,307
+Crown Heights North,Grandparents,2019,Number,188,308
+Crown Heights South,Grandparents,2019,Number,342,309
+Bay Ridge,Grandparents,2019,Number,131,310
+Bensonhurst,Grandparents,2019,Number,286,311
+Borough Park,Grandparents,2019,Number,425,312
+Coney Island,Grandparents,2019,Number,582,313
+Flatbush/Midwood,Grandparents,2019,Number,83,314
+Sheepshead Bay,Grandparents,2019,Number,68,315
+Brownsville,Grandparents,2019,Number,438,316
+East Flatbush,Grandparents,2019,Number,359,317
+Canarsie,Grandparents,2019,Number,171,318
+Astoria,Grandparents,2019,Number,206,401
+Sunnyside/Woodside,Grandparents,2019,Number,0,402
+Jackson Heights,Grandparents,2019,Number,594,403
+Elmhurst/Corona,Grandparents,2019,Number,83,404
+Ridgewood/Glendale,Grandparents,2019,Number,111,405
+Rego Park/Forest Hills,Grandparents,2019,Number,0,406
+Flushing,Grandparents,2019,Number,476,407
+Fresh Meadows/Briarwood,Grandparents,2019,Number,463,408
+Woodhaven,Grandparents,2019,Number,190,409
+Howard Beach,Grandparents,2019,Number,222,410
+Bayside,Grandparents,2019,Number,114,411
+Jamaica/St. Albans,Grandparents,2019,Number,579,412
+Queens Village,Grandparents,2019,Number,519,413
+The Rockaways,Grandparents,2019,Number,426,414
+St. George,Grandparents,2019,Number,23,501
+South Beach,Grandparents,2019,Number,0,502
+Tottenville,Grandparents,2019,Number,0,503
+Bronx,Grandparents,2019,Number,8406,36005
+Brooklyn,Grandparents,2019,Number,6835,36047
+Manhattan,Grandparents,2019,Number,4270,36061
+Queens,Grandparents,2019,Number,3983,36081
+Staten Island,Grandparents,2019,Number,23,36085
+New York City,Grandparents,2019,Number,23517,3651000
+Battery Park/Tribeca,Grandparents,2019,Percent,0,101
+Greenwich Village,Grandparents,2019,Percent,0,102
+Lower East Side,Grandparents,2019,Percent,0.335,103
+Chelsea/Clinton,Grandparents,2019,Percent,0.513,104
+Midtown Business District,Grandparents,2019,Percent,0.513,105
+Murray Hill/Stuyvesant,Grandparents,2019,Percent,0.175,106
+Upper West Side,Grandparents,2019,Percent,0,107
+Upper East Side,Grandparents,2019,Percent,0,108
+Manhattanville,Grandparents,2019,Percent,0.223,109
+Central Harlem,Grandparents,2019,Percent,0.439,110
+East Harlem,Grandparents,2019,Percent,0.412,111
+Washington Heights,Grandparents,2019,Percent,0.259,112
+Mott Haven,Grandparents,2019,Percent,0.526,201
+Hunts Point,Grandparents,2019,Percent,0.526,202
+Morrisania,Grandparents,2019,Percent,0.361,203
+Concourse/Highbridge,Grandparents,2019,Percent,0.232,204
+University Heights,Grandparents,2019,Percent,0.378,205
+East Tremont,Grandparents,2019,Percent,0.361,206
+Bedford Park,Grandparents,2019,Percent,0.412,207
+Riverdale,Grandparents,2019,Percent,0.146,208
+Unionport/Soundview,Grandparents,2019,Percent,0.306,209
+Throgs Neck,Grandparents,2019,Percent,0.061,210
+Pelham Parkway,Grandparents,2019,Percent,0.309,211
+Williamsbridge,Grandparents,2019,Percent,0.342,212
+Williamsburg/Greenpoint,Grandparents,2019,Percent,0.062,301
+Fort Greene/Brooklyn Hts,Grandparents,2019,Percent,0.143,302
+Bedford Stuyvesant,Grandparents,2019,Percent,0.173,303
+Bushwick,Grandparents,2019,Percent,0.357,304
+East New York,Grandparents,2019,Percent,0.153,305
+Park Slope,Grandparents,2019,Percent,0.452,306
+Sunset Park,Grandparents,2019,Percent,0.443,307
+Crown Heights North,Grandparents,2019,Percent,0.103,308
+Crown Heights South,Grandparents,2019,Percent,0.178,309
+Bay Ridge,Grandparents,2019,Percent,0.147,310
+Bensonhurst,Grandparents,2019,Percent,0.207,311
+Borough Park,Grandparents,2019,Percent,0.342,312
+Coney Island,Grandparents,2019,Percent,0.407,313
+Flatbush/Midwood,Grandparents,2019,Percent,0.061,314
+Sheepshead Bay,Grandparents,2019,Percent,0.048,315
+Brownsville,Grandparents,2019,Percent,0.297,316
+East Flatbush,Grandparents,2019,Percent,0.152,317
+Canarsie,Grandparents,2019,Percent,0.043,318
+Astoria,Grandparents,2019,Percent,0.126,401
+Sunnyside/Woodside,Grandparents,2019,Percent,0,402
+Jackson Heights,Grandparents,2019,Percent,0.233,403
+Elmhurst/Corona,Grandparents,2019,Percent,0.056,404
+Ridgewood/Glendale,Grandparents,2019,Percent,0.054,405
+Rego Park/Forest Hills,Grandparents,2019,Percent,0,406
+Flushing,Grandparents,2019,Percent,0.171,407
+Fresh Meadows/Briarwood,Grandparents,2019,Percent,0.245,408
+Woodhaven,Grandparents,2019,Percent,0.11,409
+Howard Beach,Grandparents,2019,Percent,0.092,410
+Bayside,Grandparents,2019,Percent,0.165,411
+Jamaica/St. Albans,Grandparents,2019,Percent,0.089,412
+Queens Village,Grandparents,2019,Percent,0.116,413
+The Rockaways,Grandparents,2019,Percent,0.156,414
+St. George,Grandparents,2019,Percent,0.012,501
+South Beach,Grandparents,2019,Percent,0,502
+Tottenville,Grandparents,2019,Percent,0,503
+Bronx,Grandparents,2019,Percent,0.328,36005
+Brooklyn,Grandparents,2019,Percent,0.202,36047
+Manhattan,Grandparents,2019,Percent,0.3,36061
+Queens,Grandparents,2019,Percent,0.126,36081
+Staten Island,Grandparents,2019,Percent,0.005,36085
+New York City,Grandparents,2019,Percent,0.213,3651000
+Battery Park/Tribeca,Married Couples,2019,Number,111.46091,101
+Greenwich Village,Married Couples,2019,Number,164.53909,102
+Lower East Side,Married Couples,2019,Number,660,103
+Chelsea/Clinton,Married Couples,2019,Number,85.97197,104
+Midtown Business District,Married Couples,2019,Number,43.02803,105
+Murray Hill/Stuyvesant,Married Couples,2019,Number,371,106
+Upper West Side,Married Couples,2019,Number,171,107
+Upper East Side,Married Couples,2019,Number,258,108
+Manhattanville,Married Couples,2019,Number,813,109
+Central Harlem,Married Couples,2019,Number,971,110
+East Harlem,Married Couples,2019,Number,776,111
+Washington Heights,Married Couples,2019,Number,2440,112
+Mott Haven,Married Couples,2019,Number,1924.87236,201
+Hunts Point,Married Couples,2019,Number,1099.12764,202
+Morrisania,Married Couples,2019,Number,913.42485,203
+Concourse/Highbridge,Married Couples,2019,Number,2460,204
+University Heights,Married Couples,2019,Number,2576,205
+East Tremont,Married Couples,2019,Number,953.57515,206
+Bedford Park,Married Couples,2019,Number,3452,207
+Riverdale,Married Couples,2019,Number,898,208
+Unionport/Soundview,Married Couples,2019,Number,1830,209
+Throgs Neck,Married Couples,2019,Number,248,210
+Pelham Parkway,Married Couples,2019,Number,831,211
+Williamsbridge,Married Couples,2019,Number,399,212
+Williamsburg/Greenpoint,Married Couples,2019,Number,6188,301
+Fort Greene/Brooklyn Hts,Married Couples,2019,Number,599,302
+Bedford Stuyvesant,Married Couples,2019,Number,4217,303
+Bushwick,Married Couples,2019,Number,1361,304
+East New York,Married Couples,2019,Number,1910,305
+Park Slope,Married Couples,2019,Number,360,306
+Sunset Park,Married Couples,2019,Number,2612,307
+Crown Heights North,Married Couples,2019,Number,767,308
+Crown Heights South,Married Couples,2019,Number,1730,309
+Bay Ridge,Married Couples,2019,Number,1832,310
+Bensonhurst,Married Couples,2019,Number,4534,311
+Borough Park,Married Couples,2019,Number,11926,312
+Coney Island,Married Couples,2019,Number,1957,313
+Flatbush/Midwood,Married Couples,2019,Number,2232,314
+Sheepshead Bay,Married Couples,2019,Number,2901,315
+Brownsville,Married Couples,2019,Number,679,316
+East Flatbush,Married Couples,2019,Number,293,317
+Canarsie,Married Couples,2019,Number,664,318
+Astoria,Married Couples,2019,Number,1438,401
+Sunnyside/Woodside,Married Couples,2019,Number,876,402
+Jackson Heights,Married Couples,2019,Number,1981,403
+Elmhurst/Corona,Married Couples,2019,Number,1958,404
+Ridgewood/Glendale,Married Couples,2019,Number,1371,405
+Rego Park/Forest Hills,Married Couples,2019,Number,727,406
+Flushing,Married Couples,2019,Number,2390,407
+Fresh Meadows/Briarwood,Married Couples,2019,Number,2273,408
+Woodhaven,Married Couples,2019,Number,1425,409
+Howard Beach,Married Couples,2019,Number,536,410
+Bayside,Married Couples,2019,Number,478,411
+Jamaica/St. Albans,Married Couples,2019,Number,1346,412
+Queens Village,Married Couples,2019,Number,385,413
+The Rockaways,Married Couples,2019,Number,1383,414
+St. George,Married Couples,2019,Number,1780,501
+South Beach,Married Couples,2019,Number,2684,502
+Tottenville,Married Couples,2019,Number,1805,503
+Bronx,Married Couples,2019,Number,17585,36005
+Brooklyn,Married Couples,2019,Number,46763,36047
+Manhattan,Married Couples,2019,Number,6864,36061
+Queens,Married Couples,2019,Number,18565,36081
+Staten Island,Married Couples,2019,Number,6269,36085
+New York City,Married Couples,2019,Number,96046,3651000
+Battery Park/Tribeca,Married Couples,2019,Percent,0.026,101
+Greenwich Village,Married Couples,2019,Percent,0.026,102
+Lower East Side,Married Couples,2019,Percent,0.154,103
+Chelsea/Clinton,Married Couples,2019,Percent,0.02,104
+Midtown Business District,Married Couples,2019,Percent,0.02,105
+Murray Hill/Stuyvesant,Married Couples,2019,Percent,0.059,106
+Upper West Side,Married Couples,2019,Percent,0.01,107
+Upper East Side,Married Couples,2019,Percent,0.016,108
+Manhattanville,Married Couples,2019,Percent,0.126,109
+Central Harlem,Married Couples,2019,Percent,0.155,110
+East Harlem,Married Couples,2019,Percent,0.193,111
+Washington Heights,Married Couples,2019,Percent,0.21,112
+Mott Haven,Married Couples,2019,Percent,0.382,201
+Hunts Point,Married Couples,2019,Percent,0.382,202
+Morrisania,Married Couples,2019,Percent,0.198,203
+Concourse/Highbridge,Married Couples,2019,Percent,0.301,204
+University Heights,Married Couples,2019,Percent,0.292,205
+East Tremont,Married Couples,2019,Percent,0.198,206
+Bedford Park,Married Couples,2019,Percent,0.392,207
+Riverdale,Married Couples,2019,Percent,0.112,208
+Unionport/Soundview,Married Couples,2019,Percent,0.159,209
+Throgs Neck,Married Couples,2019,Percent,0.033,210
+Pelham Parkway,Married Couples,2019,Percent,0.094,211
+Williamsbridge,Married Couples,2019,Percent,0.053,212
+Williamsburg/Greenpoint,Married Couples,2019,Percent,0.349,301
+Fort Greene/Brooklyn Hts,Married Couples,2019,Percent,0.058,302
+Bedford Stuyvesant,Married Couples,2019,Percent,0.289,303
+Bushwick,Married Couples,2019,Percent,0.296,304
+East New York,Married Couples,2019,Percent,0.16,305
+Park Slope,Married Couples,2019,Percent,0.028,306
+Sunset Park,Married Couples,2019,Percent,0.174,307
+Crown Heights North,Married Couples,2019,Percent,0.096,308
+Crown Heights South,Married Couples,2019,Percent,0.267,309
+Bay Ridge,Married Couples,2019,Percent,0.149,310
+Bensonhurst,Married Couples,2019,Percent,0.232,311
+Borough Park,Married Couples,2019,Percent,0.393,312
+Coney Island,Married Couples,2019,Percent,0.242,313
+Flatbush/Midwood,Married Couples,2019,Percent,0.144,314
+Sheepshead Bay,Married Couples,2019,Percent,0.159,315
+Brownsville,Married Couples,2019,Percent,0.148,316
+East Flatbush,Married Couples,2019,Percent,0.049,317
+Canarsie,Married Couples,2019,Percent,0.04,318
+Astoria,Married Couples,2019,Percent,0.139,401
+Sunnyside/Woodside,Married Couples,2019,Percent,0.08,402
+Jackson Heights,Married Couples,2019,Percent,0.128,403
+Elmhurst/Corona,Married Couples,2019,Percent,0.152,404
+Ridgewood/Glendale,Married Couples,2019,Percent,0.075,405
+Rego Park/Forest Hills,Married Couples,2019,Percent,0.069,406
+Flushing,Married Couples,2019,Percent,0.116,407
+Fresh Meadows/Briarwood,Married Couples,2019,Percent,0.138,408
+Woodhaven,Married Couples,2019,Percent,0.123,409
+Howard Beach,Married Couples,2019,Percent,0.054,410
+Bayside,Married Couples,2019,Percent,0.048,411
+Jamaica/St. Albans,Married Couples,2019,Percent,0.088,412
+Queens Village,Married Couples,2019,Percent,0.026,413
+The Rockaways,Married Couples,2019,Percent,0.115,414
+St. George,Married Couples,2019,Percent,0.132,501
+South Beach,Married Couples,2019,Percent,0.161,502
+Tottenville,Married Couples,2019,Percent,0.108,503
+Bronx,Married Couples,2019,Percent,0.203,36005
+Brooklyn,Married Couples,2019,Percent,0.201,36047
+Manhattan,Married Couples,2019,Percent,0.077,36061
+Queens,Married Couples,2019,Percent,0.098,36081
+Staten Island,Married Couples,2019,Percent,0.134,36085
+New York City,Married Couples,2019,Percent,0.149,3651000
+Battery Park/Tribeca,Other,2019,Number,0,101
+Greenwich Village,Other,2019,Number,0,102
+Lower East Side,Other,2019,Number,353,103
+Chelsea/Clinton,Other,2019,Number,0,104
+Midtown Business District,Other,2019,Number,0,105
+Murray Hill/Stuyvesant,Other,2019,Number,0,106
+Upper West Side,Other,2019,Number,0,107
+Upper East Side,Other,2019,Number,0,108
+Manhattanville,Other,2019,Number,377,109
+Central Harlem,Other,2019,Number,0,110
+East Harlem,Other,2019,Number,506,111
+Washington Heights,Other,2019,Number,245,112
+Mott Haven,Other,2019,Number,371.73461,201
+Hunts Point,Other,2019,Number,212.26539,202
+Morrisania,Other,2019,Number,75.3441,203
+Concourse/Highbridge,Other,2019,Number,479,204
+University Heights,Other,2019,Number,408,205
+East Tremont,Other,2019,Number,78.6559,206
+Bedford Park,Other,2019,Number,517,207
+Riverdale,Other,2019,Number,193,208
+Unionport/Soundview,Other,2019,Number,317,209
+Throgs Neck,Other,2019,Number,0,210
+Pelham Parkway,Other,2019,Number,14,211
+Williamsbridge,Other,2019,Number,110,212
+Williamsburg/Greenpoint,Other,2019,Number,57,301
+Fort Greene/Brooklyn Hts,Other,2019,Number,249,302
+Bedford Stuyvesant,Other,2019,Number,77,303
+Bushwick,Other,2019,Number,98,304
+East New York,Other,2019,Number,321,305
+Park Slope,Other,2019,Number,114,306
+Sunset Park,Other,2019,Number,415,307
+Crown Heights North,Other,2019,Number,130,308
+Crown Heights South,Other,2019,Number,290,309
+Bay Ridge,Other,2019,Number,355,310
+Bensonhurst,Other,2019,Number,242,311
+Borough Park,Other,2019,Number,382,312
+Coney Island,Other,2019,Number,58,313
+Flatbush/Midwood,Other,2019,Number,166,314
+Sheepshead Bay,Other,2019,Number,128,315
+Brownsville,Other,2019,Number,183,316
+East Flatbush,Other,2019,Number,99,317
+Canarsie,Other,2019,Number,171,318
+Astoria,Other,2019,Number,120,401
+Sunnyside/Woodside,Other,2019,Number,127,402
+Jackson Heights,Other,2019,Number,131,403
+Elmhurst/Corona,Other,2019,Number,862,404
+Ridgewood/Glendale,Other,2019,Number,329,405
+Rego Park/Forest Hills,Other,2019,Number,0,406
+Flushing,Other,2019,Number,469,407
+Fresh Meadows/Briarwood,Other,2019,Number,334,408
+Woodhaven,Other,2019,Number,244,409
+Howard Beach,Other,2019,Number,151,410
+Bayside,Other,2019,Number,54,411
+Jamaica/St. Albans,Other,2019,Number,475,412
+Queens Village,Other,2019,Number,266,413
+The Rockaways,Other,2019,Number,221,414
+St. George,Other,2019,Number,314,501
+South Beach,Other,2019,Number,797,502
+Tottenville,Other,2019,Number,16,503
+Bronx,Other,2019,Number,2775,36005
+Brooklyn,Other,2019,Number,3534,36047
+Manhattan,Other,2019,Number,1481,36061
+Queens,Other,2019,Number,3782,36081
+Staten Island,Other,2019,Number,1128,36085
+New York City,Other,2019,Number,12700,3651000
+Battery Park/Tribeca,Other,2019,Percent,0,101
+Greenwich Village,Other,2019,Percent,0,102
+Lower East Side,Other,2019,Percent,0.694,103
+Chelsea/Clinton,Other,2019,Percent,0,104
+Midtown Business District,Other,2019,Percent,0,105
+Murray Hill/Stuyvesant,Other,2019,Percent,0,106
+Upper West Side,Other,2019,Percent,0,107
+Upper East Side,Other,2019,Percent,0,108
+Manhattanville,Other,2019,Percent,0.434,109
+Central Harlem,Other,2019,Percent,0,110
+East Harlem,Other,2019,Percent,0.57,111
+Washington Heights,Other,2019,Percent,0.124,112
+Mott Haven,Other,2019,Percent,0.361,201
+Hunts Point,Other,2019,Percent,0.361,202
+Morrisania,Other,2019,Percent,0.271,203
+Concourse/Highbridge,Other,2019,Percent,0.434,204
+University Heights,Other,2019,Percent,0.425,205
+East Tremont,Other,2019,Percent,0.271,206
+Bedford Park,Other,2019,Percent,0.504,207
+Riverdale,Other,2019,Percent,0.398,208
+Unionport/Soundview,Other,2019,Percent,0.344,209
+Throgs Neck,Other,2019,Percent,0,210
+Pelham Parkway,Other,2019,Percent,0.026,211
+Williamsbridge,Other,2019,Percent,0.089,212
+Williamsburg/Greenpoint,Other,2019,Percent,0.304,301
+Fort Greene/Brooklyn Hts,Other,2019,Percent,0.47,302
+Bedford Stuyvesant,Other,2019,Percent,0.17,303
+Bushwick,Other,2019,Percent,0.118,304
+East New York,Other,2019,Percent,0.146,305
+Park Slope,Other,2019,Percent,0.221,306
+Sunset Park,Other,2019,Percent,0.247,307
+Crown Heights North,Other,2019,Percent,0.159,308
+Crown Heights South,Other,2019,Percent,0.379,309
+Bay Ridge,Other,2019,Percent,0.559,310
+Bensonhurst,Other,2019,Percent,0.133,311
+Borough Park,Other,2019,Percent,0.579,312
+Coney Island,Other,2019,Percent,0.075,313
+Flatbush/Midwood,Other,2019,Percent,0.172,314
+Sheepshead Bay,Other,2019,Percent,0.297,315
+Brownsville,Other,2019,Percent,0.135,316
+East Flatbush,Other,2019,Percent,0.097,317
+Canarsie,Other,2019,Percent,0.085,318
+Astoria,Other,2019,Percent,0.345,401
+Sunnyside/Woodside,Other,2019,Percent,0.151,402
+Jackson Heights,Other,2019,Percent,0.087,403
+Elmhurst/Corona,Other,2019,Percent,0.494,404
+Ridgewood/Glendale,Other,2019,Percent,0.312,405
+Rego Park/Forest Hills,Other,2019,Percent,0,406
+Flushing,Other,2019,Percent,0.339,407
+Fresh Meadows/Briarwood,Other,2019,Percent,0.326,408
+Woodhaven,Other,2019,Percent,0.17,409
+Howard Beach,Other,2019,Percent,0.232,410
+Bayside,Other,2019,Percent,0.073,411
+Jamaica/St. Albans,Other,2019,Percent,0.151,412
+Queens Village,Other,2019,Percent,0.14,413
+The Rockaways,Other,2019,Percent,0.35,414
+St. George,Other,2019,Percent,0.188,501
+South Beach,Other,2019,Percent,0.609,502
+Tottenville,Other,2019,Percent,0.241,503
+Bronx,Other,2019,Percent,0.287,36005
+Brooklyn,Other,2019,Percent,0.2,36047
+Manhattan,Other,2019,Percent,0.282,36061
+Queens,Other,2019,Percent,0.229,36081
+Staten Island,Other,2019,Percent,0.37,36085
+New York City,Other,2019,Percent,0.244,3651000
+Battery Park/Tribeca,Single Fathers,2019,Number,0,101
+Greenwich Village,Single Fathers,2019,Number,0,102
+Lower East Side,Single Fathers,2019,Number,285,103
+Chelsea/Clinton,Single Fathers,2019,Number,0,104
+Midtown Business District,Single Fathers,2019,Number,0,105
+Murray Hill/Stuyvesant,Single Fathers,2019,Number,0,106
+Upper West Side,Single Fathers,2019,Number,0,107
+Upper East Side,Single Fathers,2019,Number,73,108
+Manhattanville,Single Fathers,2019,Number,268,109
+Central Harlem,Single Fathers,2019,Number,468,110
+East Harlem,Single Fathers,2019,Number,124,111
+Washington Heights,Single Fathers,2019,Number,166,112
+Mott Haven,Single Fathers,2019,Number,386.37484,201
+Hunts Point,Single Fathers,2019,Number,220.62516,202
+Morrisania,Single Fathers,2019,Number,339.53768,203
+Concourse/Highbridge,Single Fathers,2019,Number,237,204
+University Heights,Single Fathers,2019,Number,205,205
+East Tremont,Single Fathers,2019,Number,354.46232,206
+Bedford Park,Single Fathers,2019,Number,78,207
+Riverdale,Single Fathers,2019,Number,519,208
+Unionport/Soundview,Single Fathers,2019,Number,873,209
+Throgs Neck,Single Fathers,2019,Number,104,210
+Pelham Parkway,Single Fathers,2019,Number,381,211
+Williamsbridge,Single Fathers,2019,Number,210,212
+Williamsburg/Greenpoint,Single Fathers,2019,Number,37,301
+Fort Greene/Brooklyn Hts,Single Fathers,2019,Number,20,302
+Bedford Stuyvesant,Single Fathers,2019,Number,1019,303
+Bushwick,Single Fathers,2019,Number,44,304
+East New York,Single Fathers,2019,Number,173,305
+Park Slope,Single Fathers,2019,Number,112,306
+Sunset Park,Single Fathers,2019,Number,134,307
+Crown Heights North,Single Fathers,2019,Number,768,308
+Crown Heights South,Single Fathers,2019,Number,346,309
+Bay Ridge,Single Fathers,2019,Number,194,310
+Bensonhurst,Single Fathers,2019,Number,550,311
+Borough Park,Single Fathers,2019,Number,307,312
+Coney Island,Single Fathers,2019,Number,285,313
+Flatbush/Midwood,Single Fathers,2019,Number,239,314
+Sheepshead Bay,Single Fathers,2019,Number,507,315
+Brownsville,Single Fathers,2019,Number,1198,316
+East Flatbush,Single Fathers,2019,Number,241,317
+Canarsie,Single Fathers,2019,Number,621,318
+Astoria,Single Fathers,2019,Number,0,401
+Sunnyside/Woodside,Single Fathers,2019,Number,138,402
+Jackson Heights,Single Fathers,2019,Number,247,403
+Elmhurst/Corona,Single Fathers,2019,Number,72,404
+Ridgewood/Glendale,Single Fathers,2019,Number,289,405
+Rego Park/Forest Hills,Single Fathers,2019,Number,156,406
+Flushing,Single Fathers,2019,Number,147,407
+Fresh Meadows/Briarwood,Single Fathers,2019,Number,52,408
+Woodhaven,Single Fathers,2019,Number,16,409
+Howard Beach,Single Fathers,2019,Number,61,410
+Bayside,Single Fathers,2019,Number,28,411
+Jamaica/St. Albans,Single Fathers,2019,Number,708,412
+Queens Village,Single Fathers,2019,Number,213,413
+The Rockaways,Single Fathers,2019,Number,397,414
+St. George,Single Fathers,2019,Number,178,501
+South Beach,Single Fathers,2019,Number,127,502
+Tottenville,Single Fathers,2019,Number,0,503
+Bronx,Single Fathers,2019,Number,3906,36005
+Brooklyn,Single Fathers,2019,Number,6796,36047
+Manhattan,Single Fathers,2019,Number,1384,36061
+Queens,Single Fathers,2019,Number,2524,36081
+Staten Island,Single Fathers,2019,Number,305,36085
+New York City,Single Fathers,2019,Number,14915,3651000
+Battery Park/Tribeca,Single Fathers,2019,Percent,0,101
+Greenwich Village,Single Fathers,2019,Percent,0,102
+Lower East Side,Single Fathers,2019,Percent,0.418,103
+Chelsea/Clinton,Single Fathers,2019,Percent,0,104
+Midtown Business District,Single Fathers,2019,Percent,0,105
+Murray Hill/Stuyvesant,Single Fathers,2019,Percent,0,106
+Upper West Side,Single Fathers,2019,Percent,0,107
+Upper East Side,Single Fathers,2019,Percent,0.056,108
+Manhattanville,Single Fathers,2019,Percent,0.764,109
+Central Harlem,Single Fathers,2019,Percent,0.505,110
+East Harlem,Single Fathers,2019,Percent,0.13,111
+Washington Heights,Single Fathers,2019,Percent,0.168,112
+Mott Haven,Single Fathers,2019,Percent,0.344,201
+Hunts Point,Single Fathers,2019,Percent,0.344,202
+Morrisania,Single Fathers,2019,Percent,0.419,203
+Concourse/Highbridge,Single Fathers,2019,Percent,0.19,204
+University Heights,Single Fathers,2019,Percent,0.133,205
+East Tremont,Single Fathers,2019,Percent,0.419,206
+Bedford Park,Single Fathers,2019,Percent,0.054,207
+Riverdale,Single Fathers,2019,Percent,0.488,208
+Unionport/Soundview,Single Fathers,2019,Percent,0.623,209
+Throgs Neck,Single Fathers,2019,Percent,0.129,210
+Pelham Parkway,Single Fathers,2019,Percent,0.21,211
+Williamsbridge,Single Fathers,2019,Percent,0.255,212
+Williamsburg/Greenpoint,Single Fathers,2019,Percent,0.107,301
+Fort Greene/Brooklyn Hts,Single Fathers,2019,Percent,0.026,302
+Bedford Stuyvesant,Single Fathers,2019,Percent,0.706,303
+Bushwick,Single Fathers,2019,Percent,0.039,304
+East New York,Single Fathers,2019,Percent,0.135,305
+Park Slope,Single Fathers,2019,Percent,0.269,306
+Sunset Park,Single Fathers,2019,Percent,0.09,307
+Crown Heights North,Single Fathers,2019,Percent,0.512,308
+Crown Heights South,Single Fathers,2019,Percent,0.403,309
+Bay Ridge,Single Fathers,2019,Percent,0.278,310
+Bensonhurst,Single Fathers,2019,Percent,0.365,311
+Borough Park,Single Fathers,2019,Percent,0.594,312
+Coney Island,Single Fathers,2019,Percent,0.315,313
+Flatbush/Midwood,Single Fathers,2019,Percent,0.225,314
+Sheepshead Bay,Single Fathers,2019,Percent,0.35,315
+Brownsville,Single Fathers,2019,Percent,0.791,316
+East Flatbush,Single Fathers,2019,Percent,0.161,317
+Canarsie,Single Fathers,2019,Percent,0.317,318
+Astoria,Single Fathers,2019,Percent,0,401
+Sunnyside/Woodside,Single Fathers,2019,Percent,0.185,402
+Jackson Heights,Single Fathers,2019,Percent,0.175,403
+Elmhurst/Corona,Single Fathers,2019,Percent,0.083,404
+Ridgewood/Glendale,Single Fathers,2019,Percent,0.183,405
+Rego Park/Forest Hills,Single Fathers,2019,Percent,0.199,406
+Flushing,Single Fathers,2019,Percent,0.168,407
+Fresh Meadows/Briarwood,Single Fathers,2019,Percent,0.066,408
+Woodhaven,Single Fathers,2019,Percent,0.012,409
+Howard Beach,Single Fathers,2019,Percent,0.115,410
+Bayside,Single Fathers,2019,Percent,0.084,411
+Jamaica/St. Albans,Single Fathers,2019,Percent,0.402,412
+Queens Village,Single Fathers,2019,Percent,0.18,413
+The Rockaways,Single Fathers,2019,Percent,0.186,414
+St. George,Single Fathers,2019,Percent,0.152,501
+South Beach,Single Fathers,2019,Percent,0.143,502
+Tottenville,Single Fathers,2019,Percent,0,503
+Bronx,Single Fathers,2019,Percent,0.288,36005
+Brooklyn,Single Fathers,2019,Percent,0.334,36047
+Manhattan,Single Fathers,2019,Percent,0.182,36061
+Queens,Single Fathers,2019,Percent,0.172,36081
+Staten Island,Single Fathers,2019,Percent,0.115,36085
+New York City,Single Fathers,2019,Percent,0.253,3651000
+Battery Park/Tribeca,Single Mothers,2019,Number,0,101
+Greenwich Village,Single Mothers,2019,Number,0,102
+Lower East Side,Single Mothers,2019,Number,3706,103
+Chelsea/Clinton,Single Mothers,2019,Number,592.47347,104
+Midtown Business District,Single Mothers,2019,Number,296.52653,105
+Murray Hill/Stuyvesant,Single Mothers,2019,Number,0,106
+Upper West Side,Single Mothers,2019,Number,1324,107
+Upper East Side,Single Mothers,2019,Number,844,108
+Manhattanville,Single Mothers,2019,Number,1810,109
+Central Harlem,Single Mothers,2019,Number,4683,110
+East Harlem,Single Mothers,2019,Number,5005,111
+Washington Heights,Single Mothers,2019,Number,1843,112
+Mott Haven,Single Mothers,2019,Number,6038.14128,201
+Hunts Point,Single Mothers,2019,Number,3447.85872,202
+Morrisania,Single Mothers,2019,Number,5479.08138,203
+Concourse/Highbridge,Single Mothers,2019,Number,7757,204
+University Heights,Single Mothers,2019,Number,9368,205
+East Tremont,Single Mothers,2019,Number,5719.91862,206
+Bedford Park,Single Mothers,2019,Number,5975,207
+Riverdale,Single Mothers,2019,Number,3231,208
+Unionport/Soundview,Single Mothers,2019,Number,5783,209
+Throgs Neck,Single Mothers,2019,Number,1590,210
+Pelham Parkway,Single Mothers,2019,Number,1664,211
+Williamsbridge,Single Mothers,2019,Number,3716,212
+Williamsburg/Greenpoint,Single Mothers,2019,Number,1488,301
+Fort Greene/Brooklyn Hts,Single Mothers,2019,Number,2073,302
+Bedford Stuyvesant,Single Mothers,2019,Number,3314,303
+Bushwick,Single Mothers,2019,Number,3985,304
+East New York,Single Mothers,2019,Number,5132,305
+Park Slope,Single Mothers,2019,Number,638,306
+Sunset Park,Single Mothers,2019,Number,1444,307
+Crown Heights North,Single Mothers,2019,Number,2847,308
+Crown Heights South,Single Mothers,2019,Number,1795,309
+Bay Ridge,Single Mothers,2019,Number,668,310
+Bensonhurst,Single Mothers,2019,Number,1639,311
+Borough Park,Single Mothers,2019,Number,225,312
+Coney Island,Single Mothers,2019,Number,2358,313
+Flatbush/Midwood,Single Mothers,2019,Number,1381,314
+Sheepshead Bay,Single Mothers,2019,Number,436,315
+Brownsville,Single Mothers,2019,Number,2744,316
+East Flatbush,Single Mothers,2019,Number,2277,317
+Canarsie,Single Mothers,2019,Number,2209,318
+Astoria,Single Mothers,2019,Number,983,401
+Sunnyside/Woodside,Single Mothers,2019,Number,290,402
+Jackson Heights,Single Mothers,2019,Number,2100,403
+Elmhurst/Corona,Single Mothers,2019,Number,1052,404
+Ridgewood/Glendale,Single Mothers,2019,Number,935,405
+Rego Park/Forest Hills,Single Mothers,2019,Number,94,406
+Flushing,Single Mothers,2019,Number,748,407
+Fresh Meadows/Briarwood,Single Mothers,2019,Number,583,408
+Woodhaven,Single Mothers,2019,Number,976,409
+Howard Beach,Single Mothers,2019,Number,731,410
+Bayside,Single Mothers,2019,Number,401,411
+Jamaica/St. Albans,Single Mothers,2019,Number,1863,412
+Queens Village,Single Mothers,2019,Number,771,413
+The Rockaways,Single Mothers,2019,Number,3003,414
+St. George,Single Mothers,2019,Number,3488,501
+South Beach,Single Mothers,2019,Number,306,502
+Tottenville,Single Mothers,2019,Number,313,503
+Bronx,Single Mothers,2019,Number,59770,36005
+Brooklyn,Single Mothers,2019,Number,36655,36047
+Manhattan,Single Mothers,2019,Number,20103,36061
+Queens,Single Mothers,2019,Number,14530,36081
+Staten Island,Single Mothers,2019,Number,4107,36085
+New York City,Single Mothers,2019,Number,135166,3651000
+Battery Park/Tribeca,Single Mothers,2019,Percent,0,101
+Greenwich Village,Single Mothers,2019,Percent,0,102
+Lower East Side,Single Mothers,2019,Percent,0.826,103
+Chelsea/Clinton,Single Mothers,2019,Percent,0.471,104
+Midtown Business District,Single Mothers,2019,Percent,0.471,105
+Murray Hill/Stuyvesant,Single Mothers,2019,Percent,0,106
+Upper West Side,Single Mothers,2019,Percent,0.34,107
+Upper East Side,Single Mothers,2019,Percent,0.4,108
+Manhattanville,Single Mothers,2019,Percent,0.589,109
+Central Harlem,Single Mothers,2019,Percent,0.495,110
+East Harlem,Single Mothers,2019,Percent,0.704,111
+Washington Heights,Single Mothers,2019,Percent,0.324,112
+Mott Haven,Single Mothers,2019,Percent,0.709,201
+Hunts Point,Single Mothers,2019,Percent,0.709,202
+Morrisania,Single Mothers,2019,Percent,0.688,203
+Concourse/Highbridge,Single Mothers,2019,Percent,0.667,204
+University Heights,Single Mothers,2019,Percent,0.679,205
+East Tremont,Single Mothers,2019,Percent,0.688,206
+Bedford Park,Single Mothers,2019,Percent,0.61,207
+Riverdale,Single Mothers,2019,Percent,0.526,208
+Unionport/Soundview,Single Mothers,2019,Percent,0.49,209
+Throgs Neck,Single Mothers,2019,Percent,0.427,210
+Pelham Parkway,Single Mothers,2019,Percent,0.4,211
+Williamsbridge,Single Mothers,2019,Percent,0.475,212
+Williamsburg/Greenpoint,Single Mothers,2019,Percent,0.443,301
+Fort Greene/Brooklyn Hts,Single Mothers,2019,Percent,0.461,302
+Bedford Stuyvesant,Single Mothers,2019,Percent,0.552,303
+Bushwick,Single Mothers,2019,Percent,0.61,304
+East New York,Single Mothers,2019,Percent,0.477,305
+Park Slope,Single Mothers,2019,Percent,0.29,306
+Sunset Park,Single Mothers,2019,Percent,0.54,307
+Crown Heights North,Single Mothers,2019,Percent,0.439,308
+Crown Heights South,Single Mothers,2019,Percent,0.356,309
+Bay Ridge,Single Mothers,2019,Percent,0.311,310
+Bensonhurst,Single Mothers,2019,Percent,0.419,311
+Borough Park,Single Mothers,2019,Percent,0.246,312
+Coney Island,Single Mothers,2019,Percent,0.493,313
+Flatbush/Midwood,Single Mothers,2019,Percent,0.309,314
+Sheepshead Bay,Single Mothers,2019,Percent,0.169,315
+Brownsville,Single Mothers,2019,Percent,0.363,316
+East Flatbush,Single Mothers,2019,Percent,0.325,317
+Canarsie,Single Mothers,2019,Percent,0.277,318
+Astoria,Single Mothers,2019,Percent,0.25,401
+Sunnyside/Woodside,Single Mothers,2019,Percent,0.182,402
+Jackson Heights,Single Mothers,2019,Percent,0.487,403
+Elmhurst/Corona,Single Mothers,2019,Percent,0.245,404
+Ridgewood/Glendale,Single Mothers,2019,Percent,0.196,405
+Rego Park/Forest Hills,Single Mothers,2019,Percent,0.128,406
+Flushing,Single Mothers,2019,Percent,0.256,407
+Fresh Meadows/Briarwood,Single Mothers,2019,Percent,0.264,408
+Woodhaven,Single Mothers,2019,Percent,0.305,409
+Howard Beach,Single Mothers,2019,Percent,0.209,410
+Bayside,Single Mothers,2019,Percent,0.242,411
+Jamaica/St. Albans,Single Mothers,2019,Percent,0.234,412
+Queens Village,Single Mothers,2019,Percent,0.202,413
+The Rockaways,Single Mothers,2019,Percent,0.465,414
+St. George,Single Mothers,2019,Percent,0.568,501
+South Beach,Single Mothers,2019,Percent,0.148,502
+Tottenville,Single Mothers,2019,Percent,0.118,503
+Bronx,Single Mothers,2019,Percent,0.607,36005
+Brooklyn,Single Mothers,2019,Percent,0.412,36047
+Manhattan,Single Mothers,2019,Percent,0.508,36061
+Queens,Single Mothers,2019,Percent,0.283,36081
+Staten Island,Single Mothers,2019,Percent,0.378,36085
+New York City,Single Mothers,2019,Percent,0.467,3651000

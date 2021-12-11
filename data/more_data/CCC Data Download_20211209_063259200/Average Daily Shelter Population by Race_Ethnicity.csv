@@ -1,0 +1,38 @@
+"Name","Average Daily Shelter Population by Race/Ethnicity"
+"Description","The share of unique individuals in DHS shelters over the fiscal year, broken down by race/ethnicity of the head of household -- i.e. the race/ethnicity of the head of a family, or the race/ethnicity of a single adult. <br />
+<br />
+The ""Other"" category includes those identifying as Native American or for which race/ethnicity was marked Unknown."
+"Source Notes","New York City Department of Homeless Services, DHS Data Dashboard (Fiscal Years 2015 - 2020); retrieved&nbsp;<g class=""gr_ gr_3 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep"" id=""3"" data-gr-id=""3"">from:</g>&nbsp;<a href=""https://www1.nyc.gov/site/dhs/about/stats-and-reports-tables.page""></a><a href=""https://www1.nyc.gov/site/dhs/about/stats-and-reports.page"" target=""_blank"">https://www1.nyc.gov/site/dhs/about/stats-and-reports.page</a>."
+"Notes","This indicator differs from the&nbsp;<a href=""https://data.cccnewyork.org/data/map/1261/homeless-shelter-population#1263/108/1/1458/21/a"" target=""_blank"">Homeless Shelter Population</a>, which measured the unique number of individuals served in the shelter system at any point over the fiscal year."
+
+Location,Race/Ethnicity,TimeFrame,DataFormat,Data,Fips
+New York City,Asian,2015,Percent,0.00707,3651000
+New York City,Black,2015,Percent,0.58066,3651000
+New York City,Latino,2015,Percent,0.31276,3651000
+New York City,White,2015,Percent,0.07031,3651000
+New York City,Other,2015,Percent,0.0292,3651000
+New York City,Asian,2016,Percent,0.00632,3651000
+New York City,Black,2016,Percent,0.58316,3651000
+New York City,Latino,2016,Percent,0.31054,3651000
+New York City,White,2016,Percent,0.07117,3651000
+New York City,Other,2016,Percent,0.02881,3651000
+New York City,Asian,2017,Percent,0.00692,3651000
+New York City,Black,2017,Percent,0.57789,3651000
+New York City,Latino,2017,Percent,0.31703,3651000
+New York City,White,2017,Percent,0.07053,3651000
+New York City,Other,2017,Percent,0.02764,3651000
+New York City,Asian,2018,Percent,0.00672,3651000
+New York City,Black,2018,Percent,0.57163,3651000
+New York City,Latino,2018,Percent,0.32244,3651000
+New York City,White,2018,Percent,0.07014,3651000
+New York City,Other,2018,Percent,0.02908,3651000
+New York City,Asian,2019,Percent,0.00621,3651000
+New York City,Black,2019,Percent,0.56861,3651000
+New York City,Latino,2019,Percent,0.32046,3651000
+New York City,White,2019,Percent,0.07122,3651000
+New York City,Other,2019,Percent,0.0335,3651000
+New York City,Asian,2020,Percent,0.00611,3651000
+New York City,Black,2020,Percent,0.56606,3651000
+New York City,Latino,2020,Percent,0.31947,3651000
+New York City,White,2020,Percent,0.07277,3651000
+New York City,Other,2020,Percent,0.03559,3651000

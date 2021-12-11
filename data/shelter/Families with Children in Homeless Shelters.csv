@@ -1,0 +1,267 @@
+"Name","Families with Children in Homeless Shelters"
+"Description","The number of families in Department of Homeless Services family shelters as of June 30th (the last month of the city fiscal year), by their last community district of residence. This indicator tells us how many families are experiencing homelessness, regardless of when they entered shelter.&nbsp;"
+"Source Notes","New York City Department of Homeless Services, unpublished data (Fiscal Years 2017 &amp; 2018)."
+"Notes","The rate represents the number of families entering DHS family shelters per 1,000 households.&nbsp;<br />
+In the 2018 Community Risk Ranking, CCC <span>began using this indicator in our <a href=""https://www.cccnewyork.org/data-and-reports/publications/cccs-community-risk-ranking-measuring-child-well-being-in-new-york-citys-59-community-districts-2/"" target=""_blank"">Community Risk Ranking</a> to replace the indicator&nbsp;</span><a href=""https://data.cccnewyork.org/data/map/30/families-entering-homeless-shelters#30/a/3/53/21/a"" target=""_blank"">Families Entering Homeless Shelters</a>,&nbsp;for which community district data has been unavailable since 2015."
+
+Location,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,2017,Number,103,101
+Greenwich Village,2017,Number,3,102
+Lower East Side,2017,Number,147,103
+Chelsea/Clinton,2017,Number,57,104
+Midtown Business District,2017,Number,12,105
+Murray Hill/Stuyvesant,2017,Number,17,106
+Upper West Side,2017,Number,92,107
+Upper East Side,2017,Number,18,108
+Manhattanville,2017,Number,160,109
+Central Harlem,2017,Number,353,110
+East Harlem,2017,Number,333,111
+Washington Heights,2017,Number,187,112
+Mott Haven,2017,Number,455,201
+Hunts Point,2017,Number,247,202
+Morrisania,2017,Number,447,203
+Concourse/Highbridge,2017,Number,531,204
+University Heights,2017,Number,496,205
+East Tremont,2017,Number,384,206
+Bedford Park,2017,Number,340,207
+Riverdale,2017,Number,83,208
+Unionport/Soundview,2017,Number,474,209
+Throgs Neck,2017,Number,121,210
+Pelham Parkway,2017,Number,185,211
+Williamsbridge,2017,Number,426,212
+Williamsburg/Greenpoint,2017,Number,114,301
+Fort Greene/Brooklyn Hts,2017,Number,96,302
+Bedford Stuyvesant,2017,Number,445,303
+Bushwick,2017,Number,195,304
+East New York,2017,Number,615,305
+Park Slope,2017,Number,73,306
+Sunset Park,2017,Number,53,307
+Crown Heights North,2017,Number,206,308
+Crown Heights South,2017,Number,129,309
+Bay Ridge,2017,Number,19,310
+Bensonhurst,2017,Number,31,311
+Borough Park,2017,Number,24,312
+Coney Island,2017,Number,100,313
+Flatbush/Midwood,2017,Number,114,314
+Sheepshead Bay,2017,Number,38,315
+Brownsville,2017,Number,406,316
+East Flatbush,2017,Number,281,317
+Canarsie,2017,Number,184,318
+Astoria,2017,Number,120,401
+Sunnyside/Woodside,2017,Number,23,402
+Jackson Heights,2017,Number,64,403
+Elmhurst/Corona,2017,Number,64,404
+Ridgewood/Glendale,2017,Number,60,405
+Rego Park/Forest Hills,2017,Number,4,406
+Flushing,2017,Number,27,407
+Fresh Meadows/Briarwood,2017,Number,47,408
+Woodhaven,2017,Number,68,409
+Howard Beach,2017,Number,60,410
+Bayside,2017,Number,3,411
+Jamaica/St. Albans,2017,Number,393,412
+Queens Village,2017,Number,128,413
+The Rockaways,2017,Number,203,414
+St. George,2017,Number,205,501
+South Beach,2017,Number,21,502
+Tottenville,2017,Number,11,503
+Bronx,2017,Number,4848,36005
+Brooklyn,2017,Number,3519,36047
+Manhattan,2017,Number,1816,36061
+Queens,2017,Number,1596,36081
+Staten Island,2017,Number,269,36085
+New York City,2017,Number,12048,3651000
+Battery Park/Tribeca,2018,Number,74,101
+Greenwich Village,2018,Number,5,102
+Lower East Side,2018,Number,146,103
+Chelsea/Clinton,2018,Number,48,104
+Midtown Business District,2018,Number,26,105
+Murray Hill/Stuyvesant,2018,Number,13,106
+Upper West Side,2018,Number,87,107
+Upper East Side,2018,Number,13,108
+Manhattanville,2018,Number,152,109
+Central Harlem,2018,Number,326,110
+East Harlem,2018,Number,276,111
+Washington Heights,2018,Number,198,112
+Mott Haven,2018,Number,495,201
+Hunts Point,2018,Number,214,202
+Morrisania,2018,Number,450,203
+Concourse/Highbridge,2018,Number,531,204
+University Heights,2018,Number,508,205
+East Tremont,2018,Number,383,206
+Bedford Park,2018,Number,328,207
+Riverdale,2018,Number,97,208
+Unionport/Soundview,2018,Number,449,209
+Throgs Neck,2018,Number,102,210
+Pelham Parkway,2018,Number,190,211
+Williamsbridge,2018,Number,426,212
+Williamsburg/Greenpoint,2018,Number,106,301
+Fort Greene/Brooklyn Hts,2018,Number,88,302
+Bedford Stuyvesant,2018,Number,387,303
+Bushwick,2018,Number,162,304
+East New York,2018,Number,576,305
+Park Slope,2018,Number,69,306
+Sunset Park,2018,Number,47,307
+Crown Heights North,2018,Number,203,308
+Crown Heights South,2018,Number,125,309
+Bay Ridge,2018,Number,14,310
+Bensonhurst,2018,Number,34,311
+Borough Park,2018,Number,26,312
+Coney Island,2018,Number,98,313
+Flatbush/Midwood,2018,Number,110,314
+Sheepshead Bay,2018,Number,40,315
+Brownsville,2018,Number,384,316
+East Flatbush,2018,Number,271,317
+Canarsie,2018,Number,185,318
+Astoria,2018,Number,91,401
+Sunnyside/Woodside,2018,Number,23,402
+Jackson Heights,2018,Number,60,403
+Elmhurst/Corona,2018,Number,56,404
+Ridgewood/Glendale,2018,Number,56,405
+Rego Park/Forest Hills,2018,Number,8,406
+Flushing,2018,Number,29,407
+Fresh Meadows/Briarwood,2018,Number,51,408
+Woodhaven,2018,Number,57,409
+Howard Beach,2018,Number,33,410
+Bayside,2018,Number,6,411
+Jamaica/St. Albans,2018,Number,349,412
+Queens Village,2018,Number,118,413
+The Rockaways,2018,Number,211,414
+St. George,2018,Number,186,501
+South Beach,2018,Number,10,502
+Tottenville,2018,Number,9,503
+Bronx,2018,Number,4776,36005
+Brooklyn,2018,Number,3292,36047
+Manhattan,2018,Number,1723,36061
+Queens,2018,Number,1583,36081
+Staten Island,2018,Number,247,36085
+New York City,2018,Number,11621,3651000
+Battery Park/Tribeca,2017,Rate,3.55871,101
+Greenwich Village,2017,Rate,0.07021,102
+Lower East Side,2017,Rate,2.05799,103
+Chelsea/Clinton,2017,Rate,0.94976,104
+Midtown Business District,2017,Rate,0.39951,105
+Murray Hill/Stuyvesant,2017,Rate,0.20894,106
+Upper West Side,2017,Rate,0.9293,107
+Upper East Side,2017,Rate,0.16592,108
+Manhattanville,2017,Rate,3.23102,109
+Central Harlem,2017,Rate,5.67014,110
+East Harlem,2017,Rate,6.30515,111
+Washington Heights,2017,Rate,2.40892,112
+Mott Haven,2017,Rate,13.5263,201
+Hunts Point,2017,Rate,12.85933,202
+Morrisania,2017,Rate,14.4757,203
+Concourse/Highbridge,2017,Rate,10.4273,204
+University Heights,2017,Rate,10.75572,205
+East Tremont,2017,Rate,11.9119,206
+Bedford Park,2017,Rate,7.3366,207
+Riverdale,2017,Rate,1.93131,208
+Unionport/Soundview,2017,Rate,7.41424,209
+Throgs Neck,2017,Rate,2.67144,210
+Pelham Parkway,2017,Rate,4.2614,211
+Williamsbridge,2017,Rate,8.68909,212
+Williamsburg/Greenpoint,2017,Rate,1.77529,301
+Fort Greene/Brooklyn Hts,2017,Rate,1.61456,302
+Bedford Stuyvesant,2017,Rate,8.48314,303
+Bushwick,2017,Rate,4.08155,304
+East New York,2017,Rate,10.31602,305
+Park Slope,2017,Rate,1.57253,306
+Sunset Park,2017,Rate,1.21038,307
+Crown Heights North,2017,Rate,3.67293,308
+Crown Heights South,2017,Rate,2.91183,309
+Bay Ridge,2017,Rate,0.40922,310
+Bensonhurst,2017,Rate,0.48108,311
+Borough Park,2017,Rate,0.58595,312
+Coney Island,2017,Rate,2.10766,313
+Flatbush/Midwood,2017,Rate,2.04297,314
+Sheepshead Bay,2017,Rate,0.63863,315
+Brownsville,2017,Rate,8.7653,316
+East Flatbush,2017,Rate,5.40624,317
+Canarsie,2017,Rate,2.65785,318
+Astoria,2017,Rate,1.78987,401
+Sunnyside/Woodside,2017,Rate,0.43825,402
+Jackson Heights,2017,Rate,1.29186,403
+Elmhurst/Corona,2017,Rate,1.51229,404
+Ridgewood/Glendale,2017,Rate,0.95484,405
+Rego Park/Forest Hills,2017,Rate,0.07813,406
+Flushing,2017,Rate,0.29934,407
+Fresh Meadows/Briarwood,2017,Rate,0.86,408
+Woodhaven,2017,Rate,1.49687,409
+Howard Beach,2017,Rate,1.57551,410
+Bayside,2017,Rate,0.07192,411
+Jamaica/St. Albans,2017,Rate,5.43644,412
+Queens Village,2017,Rate,2.18598,413
+The Rockaways,2017,Rate,4.72819,414
+St. George,2017,Rate,3.31613,501
+South Beach,2017,Rate,0.43332,502
+Tottenville,2017,Rate,0.19746,503
+Bronx,2017,Rate,9.61933,36005
+Brooklyn,2017,Rate,3.6801,36047
+Manhattan,2017,Rate,2.37629,36061
+Queens,2017,Rate,2.07473,36081
+Staten Island,2017,Rate,1.62058,36085
+New York City,2017,Rate,3.81305,3651000
+Battery Park/Tribeca,2018,Rate,2.43258,101
+Greenwich Village,2018,Rate,0.11134,102
+Lower East Side,2018,Rate,2.06591,103
+Chelsea/Clinton,2018,Rate,0.77056,104
+Midtown Business District,2018,Rate,0.83396,105
+Murray Hill/Stuyvesant,2018,Rate,0.16745,106
+Upper West Side,2018,Rate,0.9075,107
+Upper East Side,2018,Rate,0.11993,108
+Manhattanville,2018,Rate,3.05368,109
+Central Harlem,2018,Rate,5.646,110
+East Harlem,2018,Rate,5.63518,111
+Washington Heights,2018,Rate,2.66133,112
+Mott Haven,2018,Rate,14.31981,201
+Hunts Point,2018,Rate,10.84176,202
+Morrisania,2018,Rate,15.07638,203
+Concourse/Highbridge,2018,Rate,10.73986,204
+University Heights,2018,Rate,10.44043,205
+East Tremont,2018,Rate,12.2914,206
+Bedford Park,2018,Rate,7.10126,207
+Riverdale,2018,Rate,2.19085,208
+Unionport/Soundview,2018,Rate,6.8707,209
+Throgs Neck,2018,Rate,2.19525,210
+Pelham Parkway,2018,Rate,4.2966,211
+Williamsbridge,2018,Rate,8.97636,212
+Williamsburg/Greenpoint,2018,Rate,1.63932,301
+Fort Greene/Brooklyn Hts,2018,Rate,1.37537,302
+Bedford Stuyvesant,2018,Rate,6.84895,303
+Bushwick,2018,Rate,3.45681,304
+East New York,2018,Rate,9.53437,305
+Park Slope,2018,Rate,1.39832,306
+Sunset Park,2018,Rate,1.11227,307
+Crown Heights North,2018,Rate,3.59891,308
+Crown Heights South,2018,Rate,2.79899,309
+Bay Ridge,2018,Rate,0.29081,310
+Bensonhurst,2018,Rate,0.52769,311
+Borough Park,2018,Rate,0.64564,312
+Coney Island,2018,Rate,2.10026,313
+Flatbush/Midwood,2018,Rate,1.94243,314
+Sheepshead Bay,2018,Rate,0.67285,315
+Brownsville,2018,Rate,7.77375,316
+East Flatbush,2018,Rate,5.28255,317
+Canarsie,2018,Rate,2.72283,318
+Astoria,2018,Rate,1.27207,401
+Sunnyside/Woodside,2018,Rate,0.42246,402
+Jackson Heights,2018,Rate,1.05975,403
+Elmhurst/Corona,2018,Rate,1.22742,404
+Ridgewood/Glendale,2018,Rate,0.88142,405
+Rego Park/Forest Hills,2018,Rate,0.14741,406
+Flushing,2018,Rate,0.33717,407
+Fresh Meadows/Briarwood,2018,Rate,0.92739,408
+Woodhaven,2018,Rate,1.31255,409
+Howard Beach,2018,Rate,0.8378,410
+Bayside,2018,Rate,0.14059,411
+Jamaica/St. Albans,2018,Rate,4.58523,412
+Queens Village,2018,Rate,2.02204,413
+The Rockaways,2018,Rate,5.12335,414
+St. George,2018,Rate,3.03342,501
+South Beach,2018,Rate,0.21437,502
+Tottenville,2018,Rate,0.15132,503
+Bronx,2018,Rate,9.41325,36005
+Brooklyn,2018,Rate,3.39621,36047
+Manhattan,2018,Rate,2.29044,36061
+Queens,2018,Rate,2.0086,36081
+Staten Island,2018,Rate,1.47515,36085
+New York City,2018,Rate,3.64924,3651000

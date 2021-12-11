@@ -1,0 +1,42 @@
+"Name","Average Daily Shelter Population by Family Type"
+"Description","The average daily number and share of individuals in DHS shelters over the fiscal year, broken down by the type of family unit they belong to."
+"Source Notes","New York City Department of Homeless Services, DHS Data Dashboard (Fiscal Years 2015 - 2020); retrieved&nbsp;<g class=""gr_ gr_3 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep"" id=""3"" data-gr-id=""3"">from:</g>&nbsp;<a href=""https://www1.nyc.gov/site/dhs/about/stats-and-reports-tables.page""></a><a href=""https://www1.nyc.gov/site/dhs/about/stats-and-reports.page"" target=""_blank"">https://www1.nyc.gov/site/dhs/about/stats-and-reports.page</a>."
+"Notes","This indicator differs from the&nbsp;<a href=""https://data.cccnewyork.org/data/map/1261/homeless-shelter-population#1263/108/1/1458/21/a"" target=""_blank"">Homeless Shelter Population</a>, which measured the unique number of individuals served in the shelter system at any point over the fiscal year."
+
+Location,Family Type,TimeFrame,DataFormat,Data,Fips
+New York City,Families with Children,2015,Percent,0.72305,3651000
+New York City,Adult Families,2015,Percent,0.07795,3651000
+New York City,Single Adults,2015,Percent,0.199,3651000
+New York City,Families with Children,2016,Percent,0.69799,3651000
+New York City,Adult Families,2016,Percent,0.08071,3651000
+New York City,Single Adults,2016,Percent,0.22129,3651000
+New York City,Families with Children,2017,Percent,0.68513,3651000
+New York City,Adult Families,2017,Percent,0.08696,3651000
+New York City,Single Adults,2017,Percent,0.22791,3651000
+New York City,Families with Children,2018,Percent,0.66556,3651000
+New York City,Adult Families,2018,Percent,0.08743,3651000
+New York City,Single Adults,2018,Percent,0.24701,3651000
+New York City,Families with Children,2019,Percent,0.64345,3651000
+New York City,Adult Families,2019,Percent,0.08867,3651000
+New York City,Single Adults,2019,Percent,0.26788,3651000
+New York City,Families with Children,2015,Number,41167,3651000
+New York City,Adult Families,2015,Number,4438,3651000
+New York City,Single Adults,2015,Number,11330,3651000
+New York City,Families with Children,2016,Number,40143,3651000
+New York City,Adult Families,2016,Number,4642,3651000
+New York City,Single Adults,2016,Number,12727,3651000
+New York City,Families with Children,2017,Number,40725,3651000
+New York City,Adult Families,2017,Number,5169,3651000
+New York City,Single Adults,2017,Number,13547,3651000
+New York City,Families with Children,2018,Number,39767,3651000
+New York City,Adult Families,2018,Number,5224,3651000
+New York City,Single Adults,2018,Number,14759,3651000
+New York City,Families with Children,2019,Number,38547,3651000
+New York City,Adult Families,2019,Number,5312,3651000
+New York City,Single Adults,2019,Number,16048,3651000
+New York City,Families with Children,2020,Percent,0.62378,3651000
+New York City,Adult Families,2020,Percent,0.08836,3651000
+New York City,Single Adults,2020,Percent,0.28786,3651000
+New York City,Families with Children,2020,Number,36548,3651000
+New York City,Adult Families,2020,Number,5177,3651000
+New York City,Single Adults,2020,Number,16866,3651000
